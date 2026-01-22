@@ -1,0 +1,1010 @@
+text,intent
+Show me the last 5 emails,fetch_last_n
+Get recent 10 messages from my inbox,fetch_last_n
+Give me my latest 3 mails,fetch_last_n
+Fetch the last few emails,fetch_last_n
+Display recent mails,fetch_last_n
+Show emails from hr@xyz.com,fetch_by_sender
+Fetch mails sent by Flipkart,fetch_by_sender
+Get messages from John Doe,fetch_by_sender
+Show me emails from my manager,fetch_by_sender
+Find mails from noreply@cdac.in,fetch_by_sender
+Show unread emails,fetch_unread
+Get all unread messages,fetch_unread
+Display the mails I haven't seen,fetch_unread
+Fetch only the unread ones,fetch_unread
+What mails are unread?,fetch_unread
+Show important emails,fetch_important
+Fetch starred mails,fetch_important
+Give me high priority messages,fetch_important
+Get my flagged mails,fetch_important
+Important messages only,fetch_important
+Get mails from last 7 days,fetch_date_range
+Show emails between Monday and today,fetch_date_range
+Fetch messages from last week,fetch_date_range
+Display emails from January,fetch_date_range
+Give me mails from yesterday,fetch_date_range
+Get emails labeled 'Work',fetch_by_label
+Show messages under 'Personal',fetch_by_label
+Fetch mails in Updates category,fetch_by_label
+Give me social label messages,fetch_by_label
+Find mails in the Promotions tab,fetch_by_label
+Show emails with subject containing 'invoice',fetch_by_subject
+Get mails with subject line 'offer',fetch_by_subject
+Find messages where subject includes 'payment',fetch_by_subject
+Search emails with subject 'Meeting',fetch_by_subject
+Filter emails by subject keyword 'Amazon',fetch_by_subject
+Download attachments from last 2 mails,fetch_attachments
+Get files from my recent emails,fetch_attachments
+Fetch documents attached in messages,fetch_attachments
+Show emails with attachments,fetch_attachments
+List all recent mail attachments,fetch_attachments
+Summarize last 3 emails from Flipkart,summarize_emails
+Give summary of mails from today,summarize_emails
+Summarize my inbox,summarize_emails
+What's the gist of the last few mails?,summarize_emails
+Brief me on emails from last week,summarize_emails
+List the last few emails I got,fetch_last_n
+Can you show me my 8 most recent mails?,fetch_last_n
+I want to see the past 4 emails,fetch_last_n
+Last 6 messages please,fetch_last_n
+Retrieve my latest emails,fetch_last_n
+Show all messages from Amazon,fetch_by_sender
+Emails from my professor,fetch_by_sender
+Can you get messages by support@zomato.com?,fetch_by_sender
+List all mails sent by my boss,fetch_by_sender
+Pull messages from Airtel,fetch_by_sender
+List new unread mails,fetch_unread
+What messages haven't I opened?,fetch_unread
+Any unread mail in my inbox?,fetch_unread
+Unread emails from this week,fetch_unread
+Are there any unread ones?,fetch_unread
+Show me the important emails only,fetch_important
+Do I have any starred messages?,fetch_important
+List my marked important emails,fetch_important
+Fetch priority mails,fetch_important
+What are my flagged emails?,fetch_important
+Mails received in the past 3 days,fetch_date_range
+Show emails between 1st and 5th July,fetch_date_range
+Retrieve messages from this weekend,fetch_date_range
+Inbox messages from the last 24 hours,fetch_date_range
+Can I see emails from June?,fetch_date_range
+Filter by label 'Finance',fetch_by_label
+Show only work-labeled mails,fetch_by_label
+What do I have in the 'Updates' tab?,fetch_by_label
+Emails marked as 'Personal',fetch_by_label
+Get only 'Travel' category emails,fetch_by_label
+Any emails about 'registration'?,fetch_by_subject
+Search subject line for 'receipt',fetch_by_subject
+Mails where subject has 'notification',fetch_by_subject
+Show me messages with 'Results' in subject,fetch_by_subject
+Filter subject by keyword 'fee',fetch_by_subject
+Download all attachments from today’s mails,fetch_attachments
+List attachments in recent emails,fetch_attachments
+Any files received today?,fetch_attachments
+Show me emails that include attachments,fetch_attachments
+Get PDF files sent recently,fetch_attachments
+Give me a short summary of today's emails,summarize_emails
+Summarize all unread messages,summarize_emails
+Quick summary of emails from boss,summarize_emails
+What's in my latest 5 mails?,summarize_emails
+Summarize everything received this week,summarize_emails
+Pull up my last three emails,fetch_last_n
+Can I view the 10 most recent mails?,fetch_last_n
+List the latest batch of emails,fetch_last_n
+What are my last few messages?,fetch_last_n
+I want to check the previous emails I received,fetch_last_n
+Retrieve emails from LinkedIn,fetch_by_sender
+Find all messages from the bank,fetch_by_sender
+Show emails sent by customer.support@abc.com,fetch_by_sender
+Do I have any mail from Ravi?,fetch_by_sender
+Get all correspondence from Flipkart,fetch_by_sender
+What emails haven’t I read yet?,fetch_unread
+New mails in my inbox?,fetch_unread
+"Unread emails only, please",fetch_unread
+I want to see new unread messages,fetch_unread
+Are there any unopened emails?,fetch_unread
+Show the high-priority emails,fetch_important
+Display only starred conversations,fetch_important
+Get emails marked as important,fetch_important
+What are my flagged or starred messages?,fetch_important
+Important mails only,fetch_important
+Emails from last Monday to today,fetch_date_range
+Fetch mails I got this month,fetch_date_range
+Get messages between 1st May and 10th May,fetch_date_range
+Pull emails from yesterday,fetch_date_range
+What emails came in over the weekend?,fetch_date_range
+Give me all emails tagged 'Official',fetch_by_label
+Find emails under the 'Social' label,fetch_by_label
+Get messages categorized as 'Promotions',fetch_by_label
+Retrieve only those labeled as 'Job Alerts',fetch_by_label
+Show me all emails with the label 'Bills',fetch_by_label
+Look for mails where subject contains 'offer',fetch_by_subject
+Search subjects for the word 'project',fetch_by_subject
+Emails about 'travel itinerary',fetch_by_subject
+Find all messages with subject line including 'cancelled',fetch_by_subject
+Subject line contains the word 'invoice',fetch_by_subject
+Any messages with downloadable files?,fetch_attachments
+List all emails with documents attached,fetch_attachments
+Where are my attachment mails?,fetch_attachments
+Find all images or PDFs sent recently,fetch_attachments
+Can I view only emails that have attachments?,fetch_attachments
+Can you give me a summary of unread messages?,summarize_emails
+Summarize all emails from yesterday,summarize_emails
+What's the gist of my latest mails?,summarize_emails
+I just need a brief of today's inbox,summarize_emails
+Give me quick points from recent emails,summarize_emails
+Show my most recent two emails,fetch_last_n
+Give me the latest five messages,fetch_last_n
+Pull the previous few mails,fetch_last_n
+I'd like to see the last emails I received,fetch_last_n
+Access my 3 latest mails,fetch_last_n
+Get emails sent by Amazon,fetch_by_sender
+Any messages from my professor?,fetch_by_sender
+Retrieve conversations from info@cdac.in,fetch_by_sender
+Do I have any mail from Microsoft?,fetch_by_sender
+Show me all the emails that Ramesh sent,fetch_by_sender
+Bring up the emails I haven't read yet,fetch_unread
+Display all fresh emails,fetch_unread
+Open new messages I haven’t checked,fetch_unread
+Let’s see the unread inbox,fetch_unread
+Only new unread mails please,fetch_unread
+Get only my marked or starred emails,fetch_important
+What are the important mails from this week?,fetch_important
+Load only the emails I flagged,fetch_important
+Starred conversations only,fetch_important
+View my priority messages,fetch_important
+Pull emails from the last 3 days,fetch_date_range
+Get my inbox from this week,fetch_date_range
+Check all emails I got in June,fetch_date_range
+What messages came in the last 24 hours?,fetch_date_range
+Emails between Monday and Thursday,fetch_date_range
+Give me the 'Travel' labeled messages,fetch_by_label
+Get emails from the 'Bills' category,fetch_by_label
+List everything under 'Personal',fetch_by_label
+Access all mails tagged 'Clients',fetch_by_label
+Emails labeled as 'Team Updates',fetch_by_label
+Find messages about 'meeting',fetch_by_subject
+Look for subject lines that say 'feedback',fetch_by_subject
+Subject contains the word 'application',fetch_by_subject
+Search for subjects like 'holiday plans',fetch_by_subject
+Mail subject has 'results',fetch_by_subject
+List emails with resumes attached,fetch_attachments
+Pull all mail that includes attachments,fetch_attachments
+Do I have any documents in recent mails?,fetch_attachments
+Find all attachment mails from this month,fetch_attachments
+I want only emails that have something attached,fetch_attachments
+Give me a summary of today’s inbox,summarize_emails
+Quick highlights from this week's mails,summarize_emails
+Summarize all work-related messages,summarize_emails
+Just give a brief of unread messages,summarize_emails
+Can you summarize my inbox in short?,summarize_emails
+Can you fetch the last 10 emails I got?,fetch_last_n
+Show me a list of my recent messages,fetch_last_n
+I'd like to review the last batch of emails,fetch_last_n
+What were my latest 7 messages?,fetch_last_n
+Retrieve my last few received emails,fetch_last_n
+Check for any emails from Flipkart,fetch_by_sender
+Any messages from my boss?,fetch_by_sender
+Do I have mails from swati.patil@abc.com?,fetch_by_sender
+Get communications from my college,fetch_by_sender
+Please list all messages sent by Rahul,fetch_by_sender
+Can I see unread emails only?,fetch_unread
+What new messages have I not opened yet?,fetch_unread
+Fetch only unseen emails,fetch_unread
+Display messages I haven't read,fetch_unread
+List the unread ones from my inbox,fetch_unread
+Get emails I marked as important,fetch_important
+Which mails are in my priority inbox?,fetch_important
+"Important mails only, please",fetch_important
+Only retrieve starred messages,fetch_important
+Show me flagged or important emails,fetch_important
+Check emails I received this weekend,fetch_date_range
+Emails from last Friday till now,fetch_date_range
+Give me messages from the last 10 days,fetch_date_range
+Pull all emails from April 1 to April 7,fetch_date_range
+Show only emails from this morning,fetch_date_range
+Open emails labeled as 'Finance',fetch_by_label
+Check the mails under 'Work',fetch_by_label
+Get everything tagged with 'Important',fetch_by_label
+List the messages under 'Project X',fetch_by_label
+Fetch mails categorized as 'Reports',fetch_by_label
+Show emails with subject mentioning 'invoice',fetch_by_subject
+Find messages where subject says 'urgent',fetch_by_subject
+Get all emails titled 'results',fetch_by_subject
+Which mails have 'job offer' in subject?,fetch_by_subject
+Locate subjects containing 'project update',fetch_by_subject
+Download attachments from today's emails,fetch_attachments
+Find emails with PDFs,fetch_attachments
+Are there any mails that include files?,fetch_attachments
+Locate all emails that have documents,fetch_attachments
+Any messages with pictures or attachments?,fetch_attachments
+Give me a gist of the last few emails,summarize_emails
+Summarize my inbox from this morning,summarize_emails
+Can you quickly summarize the messages I got yesterday?,summarize_emails
+Short summary of the emails I got from HR,summarize_emails
+Summarize only my unread mails,summarize_emails
+Just show the last few emails I got,fetch_last_n
+I'd like to see my 3 most recent emails,fetch_last_n
+Can I get my latest messages?,fetch_last_n
+Retrieve the last batch of received emails,fetch_last_n
+Pull up my latest emails,fetch_last_n
+Do I have any updates from admin@xyz.com?,fetch_by_sender
+Search emails sent by Mahesh,fetch_by_sender
+Pull mails from Paytm,fetch_by_sender
+Retrieve all messages from Amazon,fetch_by_sender
+Find emails received from yourbank@services.com,fetch_by_sender
+Unread messages only,fetch_unread
+Which emails haven’t I opened yet?,fetch_unread
+Check for any new mails I missed,fetch_unread
+Scan inbox for unread stuff,fetch_unread
+Unread emails from this morning,fetch_unread
+Get mails marked as high priority,fetch_important
+List my starred items,fetch_important
+Only important or flagged messages,fetch_important
+Important ones from last week,fetch_important
+Filter my inbox for critical mails,fetch_important
+Show emails from the last 2 weeks,fetch_date_range
+Fetch my messages from the last 24 hours,fetch_date_range
+Get emails I received during Diwali,fetch_date_range
+Emails between Jan 10 and Jan 15,fetch_date_range
+Pull out messages from Monday,fetch_date_range
+Get all emails tagged 'Research',fetch_by_label
+Show mails labeled 'Travel',fetch_by_label
+Open emails from the 'ToDo' label,fetch_by_label
+What’s under the 'Updates' category?,fetch_by_label
+Fetch mails tagged as 'Recruitment',fetch_by_label
+Search for subject lines with 'offer',fetch_by_subject
+Show me emails where subject says 'assignment',fetch_by_subject
+Any emails titled 'invitation'?,fetch_by_subject
+Check for subjects containing 'CV',fetch_by_subject
+Retrieve subjects that include 'salary',fetch_by_subject
+Do I have mails with downloadable files?,fetch_attachments
+Search emails that have Excel sheets,fetch_attachments
+Find image attachments from last week,fetch_attachments
+Locate any mails with files in them,fetch_attachments
+Download all recent email attachments,fetch_attachments
+Summarize all today's mails,summarize_emails
+Give a brief of unread messages,summarize_emails
+Can you give an overview of last night’s emails?,summarize_emails
+What's the summary of my latest emails?,summarize_emails
+Quickly summarize my inbox,summarize_emails
+Show me my latest 10 emails,fetch_last_n
+Can you display the 7 most recent mails?,fetch_last_n
+I want to read the last 15 emails,fetch_last_n
+Pull the last set of emails I got,fetch_last_n
+Retrieve the most recent messages,fetch_last_n
+Give me mails from Infosys HR,fetch_by_sender
+Any updates from Rahul in my inbox?,fetch_by_sender
+Do I have messages from Flipkart?,fetch_by_sender
+Fetch all mails from support@abc.com,fetch_by_sender
+Pull conversations with John Doe,fetch_by_sender
+What mails are unread?,fetch_unread
+List all messages I haven’t seen yet,fetch_unread
+Which emails are still unopened?,fetch_unread
+Are there any unseen emails today?,fetch_unread
+Unread messages from this week,fetch_unread
+Show me flagged emails only,fetch_important
+Get important work emails,fetch_important
+Find mails marked as starred,fetch_important
+List high-priority items in my inbox,fetch_important
+Pull all priority mails,fetch_important
+Emails received from 1st to 5th July,fetch_date_range
+Messages between the weekend and now,fetch_date_range
+Can I view last month’s emails?,fetch_date_range
+Emails I received in June,fetch_date_range
+Fetch emails sent during holidays,fetch_date_range
+Get emails from the 'Finance' label,fetch_by_label
+Show messages under label 'College',fetch_by_label
+Open all mails in the 'Banking' label,fetch_by_label
+Retrieve messages tagged with 'Family',fetch_by_label
+Emails labeled as 'Job Offers',fetch_by_label
+Find emails with subject ‘feedback’,fetch_by_subject
+Check mails with subject about attendance,fetch_by_subject
+Search subject lines with word 'project',fetch_by_subject
+Emails with subject starting with ‘Alert’,fetch_by_subject
+Pull subject lines related to ‘payment’,fetch_by_subject
+Show emails with documents attached,fetch_attachments
+Find emails that include a PDF file,fetch_attachments
+Retrieve emails that contain attachments,fetch_attachments
+Any mails with file downloads?,fetch_attachments
+Download attachments from recent mails,fetch_attachments
+Give me a short version of the new emails,summarize_emails
+Summarize last week's messages,summarize_emails
+Quick summary of recent emails,summarize_emails
+What’s the gist of today’s emails?,summarize_emails
+Brief the unread emails,summarize_emails
+Can you list the last few emails I received?,fetch_last_n
+I need a look at my previous 20 messages,fetch_last_n
+Load recent mails from my inbox,fetch_last_n
+Bring up the last 3 emails,fetch_last_n
+What were the last emails I got?,fetch_last_n
+Check for any messages from my boss,fetch_by_sender
+Look for emails sent by team@startup.io,fetch_by_sender
+Anything from Rajesh in the mailbox?,fetch_by_sender
+Show emails I got from the director,fetch_by_sender
+Find mails by Paytm,fetch_by_sender
+Which messages are still unread?,fetch_unread
+Highlight unseen messages,fetch_unread
+List new emails I haven't opened yet,fetch_unread
+I want to read unread mail only,fetch_unread
+Are there any new emails for me?,fetch_unread
+Show all important mails,fetch_important
+Which messages are starred?,fetch_important
+Open my priority emails,fetch_important
+Get me flagged messages from inbox,fetch_important
+Fetch all starred items,fetch_important
+Show emails I got over the past weekend,fetch_date_range
+Display all mails from 10 to 20 June,fetch_date_range
+Emails I received last Thursday,fetch_date_range
+Mails from this week only,fetch_date_range
+Get me emails from January,fetch_date_range
+Fetch emails labeled ‘Updates’,fetch_by_label
+Get me ‘Receipts’ label emails,fetch_by_label
+Look into the ‘Newsletters’ folder,fetch_by_label
+Open my ‘To-Do’ labeled emails,fetch_by_label
+What’s under the ‘Internship’ label?,fetch_by_label
+Find emails with subject ‘Meeting rescheduled’,fetch_by_subject
+Locate messages mentioning 'interview' in subject,fetch_by_subject
+Emails about ‘delivery status’ in subject line,fetch_by_subject
+Subjects containing ‘OTP’,fetch_by_subject
+Which messages had 'Assignment' in subject?,fetch_by_subject
+Show mails that include pictures,fetch_attachments
+Get emails with resumes attached,fetch_attachments
+I need emails that contain any files,fetch_attachments
+Find the mail with the Excel sheet,fetch_attachments
+Download all email attachments,fetch_attachments
+Give me summaries of today’s emails,summarize_emails
+Summarize all unread messages,summarize_emails
+Can you briefly explain recent emails?,summarize_emails
+A quick summary of my latest messages,summarize_emails
+I want a summary of inbox conversations,summarize_emails
+Read out the last few emails I got,fetch_last_n
+Show me my 10 most recent mails,fetch_last_n
+Bring up my latest email threads,fetch_last_n
+List my newest emails from inbox,fetch_last_n
+Retrieve the past couple of emails,fetch_last_n
+Open emails from Google,fetch_by_sender
+Do I have anything from Flipkart?,fetch_by_sender
+Check if I received something from infosys.hr@job.com,fetch_by_sender
+Search for emails by customer support,fetch_by_sender
+Any message sent by Shraddha?,fetch_by_sender
+Which messages are still pending to be read?,fetch_unread
+Only show the unread emails please,fetch_unread
+Do I have unread mail?,fetch_unread
+Unread messages only,fetch_unread
+List fresh unread messages,fetch_unread
+Display all flagged messages,fetch_important
+Open my VIP or important emails,fetch_important
+Check if I have any marked messages,fetch_important
+Give me the starred mails from inbox,fetch_important
+Prioritize important messages,fetch_important
+Search emails from the last month,fetch_date_range
+Any messages I got between May 10 and May 20?,fetch_date_range
+Show the mails from yesterday,fetch_date_range
+Emails that came in this week,fetch_date_range
+Filter emails from the first week of July,fetch_date_range
+Read mails from my ‘Shopping’ label,fetch_by_label
+Open ‘College’ label messages,fetch_by_label
+Filter emails marked as ‘Finance’,fetch_by_label
+Fetch all emails categorized under ‘Banking’,fetch_by_label
+Only show me the ‘Personal’ emails,fetch_by_label
+List emails about fee payment in the subject,fetch_by_subject
+Search emails with subject like ‘project deadline’,fetch_by_subject
+Any mail subject containing ‘results’?,fetch_by_subject
+I want all messages with ‘update’ in the title,fetch_by_subject
+Locate subjects with the word ‘holiday’,fetch_by_subject
+Find all mails with PDFs attached,fetch_attachments
+Get emails that had photos or media,fetch_attachments
+Mails where files were shared,fetch_attachments
+Download all files from the last 5 emails,fetch_attachments
+Show me messages with zip attachments,fetch_attachments
+Give me a short version of the inbox emails,summarize_emails
+Summarize all today's email activity,summarize_emails
+Can you give me a gist of my recent emails?,summarize_emails
+What’s the summary of unread emails?,summarize_emails
+Summarize latest 5 messages,summarize_emails
+Get me the last three messages I received,fetch_last_n
+What are the most recent emails in my inbox?,fetch_last_n
+Fetch recent 15 emails,fetch_last_n
+Pull up my newest mails,fetch_last_n
+Load the last batch of emails,fetch_last_n
+Show messages from my manager,fetch_by_sender
+Do I have anything from Paytm?,fetch_by_sender
+Look for mails sent by HR,fetch_by_sender
+Filter emails from ravi.kumar@company.com,fetch_by_sender
+Read mails from ICICI Bank,fetch_by_sender
+Which mails are unread right now?,fetch_unread
+List only unread emails,fetch_unread
+Unread mails please,fetch_unread
+Any fresh messages I haven’t seen yet?,fetch_unread
+Still unopened emails?,fetch_unread
+Prioritize the emails marked as urgent,fetch_important
+Open my flagged messages,fetch_important
+Important emails only,fetch_important
+Any mails marked as priority?,fetch_important
+Show me the top priority mails,fetch_important
+Grab emails from last Friday,fetch_date_range
+What did I receive on July 10th?,fetch_date_range
+Emails between 1st and 5th of this month,fetch_date_range
+Filter messages from this weekend,fetch_date_range
+Show mails received during the festival week,fetch_date_range
+Show me all 'Work' tagged emails,fetch_by_label
+Get mails under the 'Travel' category,fetch_by_label
+View emails labelled as 'Receipts',fetch_by_label
+Only fetch 'Newsletter' emails,fetch_by_label
+I want to check mails in 'Academic' folder,fetch_by_label
+Get mails with ‘invoice’ in the subject,fetch_by_subject
+Find messages with the title ‘assignment’,fetch_by_subject
+Subject should contain ‘update’,fetch_by_subject
+Search emails with topic as ‘reschedule’,fetch_by_subject
+Show subject lines with the word ‘interview’,fetch_by_subject
+Which emails have Excel files attached?,fetch_attachments
+Find messages with any kind of attachment,fetch_attachments
+Show emails that include a resume,fetch_attachments
+Any documents sent to me recently?,fetch_attachments
+Retrieve mails with images or docs,fetch_attachments
+Summarize what I got in my inbox this week,summarize_emails
+Brief summary of all new emails,summarize_emails
+Can you summarize today’s incoming mails?,summarize_emails
+Give me the highlights from my inbox,summarize_emails
+Summarize only the important unread emails,summarize_emails
+Give me the last few emails I got,fetch_last_n
+What were my latest mails?,fetch_last_n
+Display the most recent five messages,fetch_last_n
+Pull up my last 7 mails,fetch_last_n
+I want to see my last batch of emails,fetch_last_n
+Open all messages from Flipkart,fetch_by_sender
+Anything from cdac.pune today?,fetch_by_sender
+Get emails that Ravi sent me,fetch_by_sender
+Do I have anything from notifications@linkedin.com?,fetch_by_sender
+Show me messages sent by my colleague Neha,fetch_by_sender
+Unread emails from this morning?,fetch_unread
+Tell me which messages I haven't opened,fetch_unread
+Any new unread notifications?,fetch_unread
+Mails I haven't checked yet,fetch_unread
+I want to see only unread stuff,fetch_unread
+What are my starred emails?,fetch_important
+List flagged mails,fetch_important
+Important emails from the past week,fetch_important
+Just show the marked important messages,fetch_important
+Access only critical priority emails,fetch_important
+Which mails came between Jan 1 and Jan 10?,fetch_date_range
+Get emails from last Monday,fetch_date_range
+All emails from yesterday,fetch_date_range
+Pull mails from this month only,fetch_date_range
+Retrieve emails from April to May,fetch_date_range
+Show me emails labeled as ‘Finance’,fetch_by_label
+Get only mails in the Promotions category,fetch_by_label
+Emails tagged under ‘Bills’ please,fetch_by_label
+Read all items in ‘Family’ label,fetch_by_label
+Fetch messages in ‘To-do’ folder,fetch_by_label
+Search for messages with subject about ‘meeting’,fetch_by_subject
+Check for titles containing ‘project update’,fetch_by_subject
+Look for subjects that say ‘offer letter’,fetch_by_subject
+Subject line should include ‘notice’,fetch_by_subject
+Emails with subject containing the word ‘form’,fetch_by_subject
+Any PDF files in my mail today?,fetch_attachments
+Find mails that include any attachment,fetch_attachments
+Get messages with files,fetch_attachments
+Retrieve mails that came with docs or images,fetch_attachments
+Which messages have anything attached?,fetch_attachments
+Can you give me a summary of my recent emails?,summarize_emails
+Summarize my last 10 messages,summarize_emails
+Tell me what my inbox looks like today,summarize_emails
+Give me the key points from today’s emails,summarize_emails
+A brief of unread and flagged mails please,summarize_emails
+Show top 7 latest emails,fetch_last_n
+Give me a list of my last 15 messages,fetch_last_n
+I want to see the last few emails I received,fetch_last_n
+List out my 10 most recent mails,fetch_last_n
+Can you show me the recent 8 mails?,fetch_last_n
+Do I have any emails from Amazon?,fetch_by_sender
+Fetch all mails received from my professor,fetch_by_sender
+Any mail from my bank?,fetch_by_sender
+Find all messages sent by support@udemy.com,fetch_by_sender
+Search for emails from newsletter@medium.com,fetch_by_sender
+Are there any unread messages?,fetch_unread
+Check for unread notifications in mail,fetch_unread
+Can you filter only unread emails?,fetch_unread
+List all unread mails from my inbox,fetch_unread
+Which mails haven’t I read yet?,fetch_unread
+I need to see my starred messages,fetch_important
+Show high-priority mails,fetch_important
+List emails marked as important,fetch_important
+Display only the starred ones,fetch_important
+Which emails are flagged?,fetch_important
+Show emails from July 1 to July 15,fetch_date_range
+Display mails between last Monday and today,fetch_date_range
+What messages did I receive in the last 3 days?,fetch_date_range
+Get emails from the second week of June,fetch_date_range
+Filter emails from the month of March,fetch_date_range
+Find emails under the Updates tab,fetch_by_label
+Get messages labeled Finance,fetch_by_label
+Show my Travel labeled emails,fetch_by_label
+Which mails are tagged Personal?,fetch_by_label
+Fetch messages from Promotions,fetch_by_label
+Search for emails with 'Exam Schedule' in the subject,fetch_by_subject
+Find all emails where subject contains 'OTP',fetch_by_subject
+Get mails with subject line starting with 'Invoice',fetch_by_subject
+Any mail with subject 'Leave Approval'?,fetch_by_subject
+Search for messages with 'Result Declared' in the title,fetch_by_subject
+List out all mails that have attachments,fetch_attachments
+Download PDFs from recent emails,fetch_attachments
+Find documents attached in last 5 mails,fetch_attachments
+I want to see the attachments I got today,fetch_attachments
+Get all email files,fetch_attachments
+Summarize emails from yesterday,summarize_emails
+Can you summarize all unread messages?,summarize_emails
+Give me a gist of today's emails,summarize_emails
+Show a brief summary of my latest emails,summarize_emails
+Tell me what all my mails from HR are about,summarize_emails
+Show the last 10 messages I got,fetch_last_n
+What are my latest few emails?,fetch_last_n
+Can I see my most recent mails?,fetch_last_n
+Give me the previous five mails,fetch_last_n
+I want the last batch of messages,fetch_last_n
+Display messages sent by Rahul,fetch_by_sender
+I want all mails from HDFC Bank,fetch_by_sender
+Which messages came from Aditi?,fetch_by_sender
+Retrieve everything sent by Flipkart,fetch_by_sender
+Get messages from sender email abc@gmail.com,fetch_by_sender
+Which mails are still unread?,fetch_unread
+I haven’t opened these emails—show them,fetch_unread
+Display messages I missed reading,fetch_unread
+Are there any unseen emails?,fetch_unread
+List only unread messages,fetch_unread
+I only want mails marked urgent,fetch_important
+Pull up critical or starred emails,fetch_important
+Filter out all flagged emails,fetch_important
+Highlight mails marked with importance,fetch_important
+Get mails that I tagged important,fetch_important
+Search for mails between Jan 1 and Jan 10,fetch_date_range
+Get emails I got in December,fetch_date_range
+Fetch messages received last Friday,fetch_date_range
+What mails came last month?,fetch_date_range
+Show only mails from today,fetch_date_range
+Check my inbox for 'Work' label,fetch_by_label
+Get all messages labeled 'Family',fetch_by_label
+I want to browse through the 'Updates' tab,fetch_by_label
+Only show 'Promotions' emails,fetch_by_label
+Filter messages from the 'Newsletters' folder,fetch_by_label
+Look for subject lines with 'Deadline',fetch_by_subject
+Search for messages about 'Fee Payment',fetch_by_subject
+Get all subjects with 'Invoice' in it,fetch_by_subject
+Find emails related to 'Reminder',fetch_by_subject
+Any mails with 'Results' as the subject?,fetch_by_subject
+List emails that include attachments,fetch_attachments
+Get all photos or documents sent recently,fetch_attachments
+Are there any emails with files attached?,fetch_attachments
+Show emails with ZIP or DOC files,fetch_attachments
+I want the mails where a file was shared,fetch_attachments
+Summarize all unread emails,summarize_emails
+Can you quickly summarize my inbox?,summarize_emails
+I need a summary of today's conversations,summarize_emails
+Give me the gist of recent important mails,summarize_emails
+Brief me on the last 3 mails from boss,summarize_emails
+Provide highlights of my emails,summarize_emails
+Make a summary of my messages from Google,summarize_emails
+Can you tell me what my last emails were about?,summarize_emails
+I want to see my 5 most recent emails,fetch_last_n
+Retrieve my latest email messages,fetch_last_n
+Fetch the newest 7 mails I got,fetch_last_n
+Bring up the last few messages,fetch_last_n
+Get the most recent inbox mails,fetch_last_n
+I want to see emails sent by Priya,fetch_by_sender
+Show me all mails from boss@company.com,fetch_by_sender
+Retrieve messages from my professor,fetch_by_sender
+Give me the emails that came from Amazon,fetch_by_sender
+Get conversations with Ramesh,fetch_by_sender
+Can you show only unread ones?,fetch_unread
+I haven't read these—fetch them,fetch_unread
+What are my new mails?,fetch_unread
+Only display mails I haven't opened yet,fetch_unread
+Filter unread mails,fetch_unread
+Bring only the starred emails,fetch_important
+Get high importance messages,fetch_important
+Which emails are marked as important?,fetch_important
+I want to review my important mails,fetch_important
+Check for any flagged or starred mail,fetch_important
+Mails I received over the weekend,fetch_date_range
+Show messages from 1st June to 10th June,fetch_date_range
+Fetch all emails from this month,fetch_date_range
+Only get mails from last Monday,fetch_date_range
+Filter my inbox by date — this week,fetch_date_range
+Give me the mails tagged as Finance,fetch_by_label
+I need all emails under the 'Academics' label,fetch_by_label
+Get everything labeled 'Friends',fetch_by_label
+Only show mails from my Work folder,fetch_by_label
+Fetch all updates category messages,fetch_by_label
+Search for emails mentioning 'exam schedule' in subject,fetch_by_subject
+Get mails titled with 'Meeting Agenda',fetch_by_subject
+Find subjects that include 'Offer Letter',fetch_by_subject
+Filter messages with 'Project Update' in subject line,fetch_by_subject
+I want to check all subjects mentioning 'interview',fetch_by_subject
+Download all files from recent mails,fetch_attachments
+List all email attachments I received this week,fetch_attachments
+Find messages that include a PDF,fetch_attachments
+Get emails with downloadable content,fetch_attachments
+Are there any docs sent to me recently?,fetch_attachments
+Can you summarize today's emails?,summarize_emails
+Summarize important messages I received,summarize_emails
+Provide a brief of last week's emails,summarize_emails
+What's the summary of emails from yesterday?,summarize_emails
+Give me a quick overview of messages from my manager,summarize_emails
+Give me gist of 5 emails from Flipkart,summarize_emails
+What did my boss say in last 3 emails?,summarize_emails
+Just show me my last 3 emails,fetch_last_n
+Display the latest batch of emails,fetch_last_n
+Open the most recent five mails,fetch_last_n
+Get my newest few emails,fetch_last_n
+Check latest inbox entries,fetch_last_n
+I only want emails from my HR,fetch_by_sender
+Show me all mail from Flipkart,fetch_by_sender
+Get everything that John sent,fetch_by_sender
+Any updates from support@xyz.com?,fetch_by_sender
+Emails from Paytm only,fetch_by_sender
+Get me mails I haven't seen yet,fetch_unread
+"Unread emails only, please",fetch_unread
+Which messages are pending to be read?,fetch_unread
+Only fetch unread items,fetch_unread
+New messages I haven’t opened yet,fetch_unread
+Important emails from this week,fetch_important
+What are my flagged mails?,fetch_important
+Find the high priority emails,fetch_important
+I want to view starred emails only,fetch_important
+Pull out critical messages,fetch_important
+Emails I got in the last 2 days,fetch_date_range
+Filter messages from July 1 to July 15,fetch_date_range
+Get mails from the past weekend,fetch_date_range
+All emails received during the holidays,fetch_date_range
+Show me emails from last month,fetch_date_range
+Only work-related messages,fetch_by_label
+Show personal emails category,fetch_by_label
+Mails marked 'Urgent',fetch_by_label
+Open all emails from the Promotions tab,fetch_by_label
+Get emails tagged as 'Social',fetch_by_label
+Find subjects containing 'schedule',fetch_by_subject
+Search subject lines for 'Meeting',fetch_by_subject
+Emails with subject 'Offer Update',fetch_by_subject
+All messages titled 'Results',fetch_by_subject
+Anything with 'Deadline' in the subject,fetch_by_subject
+Fetch messages that have attachments,fetch_attachments
+Get emails with Excel files,fetch_attachments
+Download all PDFs from recent mails,fetch_attachments
+Any email that came with a document?,fetch_attachments
+Get all emails with file attachments,fetch_attachments
+Can you give me a gist of this week's mails?,summarize_emails
+I want a short summary of emails from yesterday,summarize_emails
+Summarize emails from my professor,summarize_emails
+What are the key points in today's inbox?,summarize_emails
+Read and summarize 5 latest messages,summarize_emails
+Give quick notes of important mails,summarize_emails
+Summarize emails from Rahul sent this morning,summarize_emails
+Just show me my last 10 emails,fetch_last_n
+Bring me the latest couple of emails,fetch_last_n
+Can you get my most recent 3 messages?,fetch_last_n
+Check what's in the last few emails,fetch_last_n
+Display previous few emails,fetch_last_n
+Do I have anything from HR?,fetch_by_sender
+Search for emails from my recruiter,fetch_by_sender
+Filter by sender 'info@newsletter.com',fetch_by_sender
+Find emails that Riya sent,fetch_by_sender
+Did I receive anything from support@abc.com?,fetch_by_sender
+Anything I haven’t read yet?,fetch_unread
+Unseen emails only please,fetch_unread
+What’s new in my inbox?,fetch_unread
+Unread items from today,fetch_unread
+List the emails I missed,fetch_unread
+Only the critical or flagged emails,fetch_important
+Highlight the priority mails,fetch_important
+Show only mails with high importance,fetch_important
+Find urgent messages,fetch_important
+What are my most important emails today?,fetch_important
+Check what I got last Friday,fetch_date_range
+Give emails between 10th and 15th,fetch_date_range
+Show this week's inbox,fetch_date_range
+Filter mails from last two days,fetch_date_range
+Fetch only mails from this morning,fetch_date_range
+Get everything from my Social label,fetch_by_label
+Open messages under 'Updates',fetch_by_label
+Can I view my 'Promotions' folder?,fetch_by_label
+Check emails in my Shopping tag,fetch_by_label
+Show 'Banking' category emails,fetch_by_label
+Find mails with the subject 'Reminder',fetch_by_subject
+Any subjects titled 'Payment Received'?,fetch_by_subject
+Look for emails titled with 'Flight Ticket',fetch_by_subject
+Fetch based on subject line 'Invoice',fetch_by_subject
+Scan for 'Notice' in subject,fetch_by_subject
+Pull emails with Excel files,fetch_attachments
+Download recent attachments,fetch_attachments
+Find emails that contain media,fetch_attachments
+Locate mails with attached ZIP files,fetch_attachments
+Show me image attachments,fetch_attachments
+Quick summary of this week’s email,summarize_emails
+Give me insights from recent messages,summarize_emails
+Summarize last 10 emails into short notes,summarize_emails
+Make a summary from emails by Anjali,summarize_emails
+Read and condense messages from today,summarize_emails
+Create a report from last few emails,summarize_emails
+Help me understand the main points of my inbox,summarize_emails
+Can you retrieve the last few emails I got?,fetch_last_n
+Get me my last 10 messages,fetch_last_n
+Show my most recent mails,fetch_last_n
+Access last set of emails,fetch_last_n
+Open recent inbox mails,fetch_last_n
+What emails did I get from Akash?,fetch_by_sender
+Show all messages sent by Flipkart,fetch_by_sender
+Get conversations with my professor,fetch_by_sender
+Only mails from Deepika,fetch_by_sender
+I want emails that came from recruiter@gmail.com,fetch_by_sender
+Do I have any unread messages?,fetch_unread
+Only show mails I haven’t seen yet,fetch_unread
+Give me the new mails,fetch_unread
+Fetch unread messages from yesterday,fetch_unread
+Show me all the unseen emails,fetch_unread
+Retrieve only the high priority emails,fetch_important
+Which mails are marked as important?,fetch_important
+Important ones only please,fetch_important
+What are my flagged messages?,fetch_important
+Access only priority emails,fetch_important
+Can I see the emails from last Friday?,fetch_date_range
+Get all mails between March 1st and March 5th,fetch_date_range
+Fetch emails from the past 2 days,fetch_date_range
+Only show mails I got this week,fetch_date_range
+Show mails received during last month,fetch_date_range
+Retrieve emails under Promotions,fetch_by_label
+Open mails tagged as 'Newsletters',fetch_by_label
+Filter inbox by 'Work' label,fetch_by_label
+I want only social category messages,fetch_by_label
+View updates labeled 'Banking',fetch_by_label
+Search mails with subject 'Flight Booking',fetch_by_subject
+Find emails titled 'Rent Receipt',fetch_by_subject
+Get mails containing 'Assignment Due' in subject,fetch_by_subject
+Look for subject lines with 'Deadline',fetch_by_subject
+Show me messages that have 'Interview Call' as subject,fetch_by_subject
+Find mails that include attachments,fetch_attachments
+Get emails with files attached,fetch_attachments
+Look for messages with Excel files,fetch_attachments
+Download attachments from inbox,fetch_attachments
+Check for PowerPoint files I received,fetch_attachments
+Can you summarize last 5 emails from HR?,summarize_emails
+Give me a summary of recent messages,summarize_emails
+Summarize unread mails,summarize_emails
+What do all emails from boss say this week?,summarize_emails
+Give short summary of today's important mails,summarize_emails
+Summarize what Amazon has sent me recently,summarize_emails
+I need a quick gist of my inbox,summarize_emails
+Just summarize the attachments I received,summarize_emails
+What's the overall message in my new mails?,summarize_emails
+Give a brief overview of conversations with my team,summarize_emails
+Pull up my last 10 emails,fetch_last_n
+List the most recent mails I received,fetch_last_n
+Can you get the last batch of emails?,fetch_last_n
+Retrieve my last few email conversations,fetch_last_n
+Access my previous 3 messages,fetch_last_n
+Get messages from Neha,fetch_by_sender
+Filter emails by sender: shruti.patil@xyz.com,fetch_by_sender
+I need mails sent by CDAC Mumbai,fetch_by_sender
+Show all emails exchanged with Raj,fetch_by_sender
+Fetch only those mails which are from Mohan,fetch_by_sender
+Highlight the mails I haven’t opened yet,fetch_unread
+List unread messages from the inbox,fetch_unread
+Only show me new unread emails,fetch_unread
+Which mails are pending to be read?,fetch_unread
+I want the messages I haven't seen yet,fetch_unread
+Pick out my flagged messages,fetch_important
+Which mails are marked with a star?,fetch_important
+Give me the emails with high priority,fetch_important
+Filter out critical or marked messages,fetch_important
+List all priority mails,fetch_important
+Get my inbox activity between May 1 and May 5,fetch_date_range
+Show all emails from the second week of April,fetch_date_range
+I want messages received last weekend,fetch_date_range
+Fetch emails sent on March 15,fetch_date_range
+View only mails received yesterday,fetch_date_range
+Access only the 'Promotions' label,fetch_by_label
+Filter my inbox by 'Personal' folder,fetch_by_label
+I only want to see emails from my 'Newsletters',fetch_by_label
+Give me mails in the 'Updates' category,fetch_by_label
+Get the emails from 'Social' section,fetch_by_label
+Find mails with 'invoice' in the subject,fetch_by_subject
+Look for subjects that mention 'result',fetch_by_subject
+Get all messages titled 'Welcome',fetch_by_subject
+Search for emails that have 'Job Offer' in the subject,fetch_by_subject
+Can you fetch mails that say 'Deadline Reminder'?,fetch_by_subject
+Get all documents from my recent mails,fetch_attachments
+Find emails that contain images or PDFs,fetch_attachments
+List the messages which have attachments,fetch_attachments
+Access all files received via mail,fetch_attachments
+Filter only emails with downloadable content,fetch_attachments
+Summarize all emails I got from my manager,summarize_emails
+Give me short summaries of 10 recent messages,summarize_emails
+Can you compress my inbox into key points?,summarize_emails
+Briefly explain the last few important mails,summarize_emails
+I want a quick summary of today’s mail conversations,summarize_emails
+What are the main points from my last 3 emails?,summarize_emails
+Summarize everything Neha mailed me this week,summarize_emails
+Get my last 3 emails,fetch_last_n
+Please show me my most recent mails,fetch_last_n
+I'd like to read my last 10 messages,fetch_last_n
+Bring up the 5 emails I got most recently,fetch_last_n
+What were the last few emails I received?,fetch_last_n
+Give me all emails that came from Google,fetch_by_sender
+I need to find mails sent by my HR,fetch_by_sender
+Fetch emails from my class coordinator,fetch_by_sender
+What did Ravi mail me recently?,fetch_by_sender
+Show only messages received from contact@service.com,fetch_by_sender
+List out unread mails in inbox,fetch_unread
+Check for unopened emails,fetch_unread
+Do I have anything new I haven't seen?,fetch_unread
+Bring the unread ones to the top,fetch_unread
+Display all unseen emails,fetch_unread
+Retrieve mails marked as important,fetch_important
+Check if there are any critical messages,fetch_important
+Fetch mails that are flagged,fetch_important
+I want the high priority emails only,fetch_important
+Show me urgent mail,fetch_important
+What emails did I get last Sunday?,fetch_date_range
+Show my inbox from yesterday,fetch_date_range
+Get all emails between July 1 and July 5,fetch_date_range
+Pull emails from the previous month,fetch_date_range
+List emails dated last Friday,fetch_date_range
+Mails categorized as 'Newsletter',fetch_by_label
+Display messages labeled as Promotions,fetch_by_label
+Bring up all emails tagged with 'Jobs',fetch_by_label
+Filter mails by the 'Updates' tag,fetch_by_label
+What’s in the Social label?,fetch_by_label
+Search for emails about invoice,fetch_by_subject
+I want to see all subjects that mention 'resume',fetch_by_subject
+Do I have any subject line containing 'Reminder'?,fetch_by_subject
+Get emails with 'Assignment' in the subject,fetch_by_subject
+Look up subjects mentioning 'Result',fetch_by_subject
+Check which mails contain files,fetch_attachments
+List all messages that have images or docs,fetch_attachments
+Did I get any attachments today?,fetch_attachments
+Download PDFs from my inbox,fetch_attachments
+Which emails have files attached?,fetch_attachments
+Give me summary of today’s emails,summarize_emails
+Summarize mails I received in the morning,summarize_emails
+Give overview of yesterday’s important messages,summarize_emails
+Brief me about recent emails from my professor,summarize_emails
+What’s the gist of my unread emails?,summarize_emails
+Just show me the last 3 messages,fetch_last_n
+Only the latest 2 emails please,fetch_last_n
+Give me a peek at the newest messages,fetch_last_n
+I want to read the most recent emails,fetch_last_n
+Display the last five mails,fetch_last_n
+Do I have any mails from Rahul?,fetch_by_sender
+Bring messages from the HR department,fetch_by_sender
+Show mails coming from Flipkart,fetch_by_sender
+List messages sent by Deepa,fetch_by_sender
+Did Google send me anything recently?,fetch_by_sender
+What new mails are unread?,fetch_unread
+Is anything unread in my inbox?,fetch_unread
+Highlight new incoming messages,fetch_unread
+Any unseen mails today?,fetch_unread
+Which messages haven’t I opened?,fetch_unread
+Do I have any flagged messages?,fetch_important
+Get the ones marked with a star,fetch_important
+Important emails only,fetch_important
+Pull up priority mails,fetch_important
+Access high-priority items,fetch_important
+I want emails from last Friday,fetch_date_range
+Only show messages I received yesterday,fetch_date_range
+What did I get during last week?,fetch_date_range
+Fetch emails from March 10 to March 12,fetch_date_range
+Display inbox from past 2 days,fetch_date_range
+Get messages under Promotions tab,fetch_by_label
+Mails in the 'Work' label,fetch_by_label
+Filter messages in the 'Personal' category,fetch_by_label
+Show me what’s inside the 'Notifications' folder,fetch_by_label
+Retrieve all 'Offers' category emails,fetch_by_label
+Any emails with subject 'Payment Reminder'?,fetch_by_subject
+Get mails that mention 'Assignment Submission',fetch_by_subject
+Search subjects for 'Deadline',fetch_by_subject
+Find subject lines with 'Invoice',fetch_by_subject
+Display emails with 'Congratulations' in the subject,fetch_by_subject
+Get all my emails that had attachments,fetch_attachments
+Find messages with Excel files,fetch_attachments
+I need mails containing documents,fetch_attachments
+Which emails have images or files?,fetch_attachments
+Locate mails that came with attached files,fetch_attachments
+Summarize the recent emails from professor,summarize_emails
+Give me a summary of unread messages,summarize_emails
+Summarize today's inbox,summarize_emails
+Can you give me a short version of these emails?,summarize_emails
+What's the summary of all messages from HDFC?,summarize_emails
+Can I see my last 10 emails?,fetch_last_n
+Show me the most recent messages I received,fetch_last_n
+Display the previous 3 emails,fetch_last_n
+List the latest emails in my inbox,fetch_last_n
+Open up my 8 newest emails,fetch_last_n
+Pull up messages from my HR,fetch_by_sender
+Retrieve all emails that Alice sent,fetch_by_sender
+I want the mails that came from sales@xyz.com,fetch_by_sender
+What has Neha emailed me lately?,fetch_by_sender
+Search for messages from John,fetch_by_sender
+Any unread emails in my inbox?,fetch_unread
+Show just the new mails,fetch_unread
+Filter only the ones I haven't checked,fetch_unread
+Get unseen messages,fetch_unread
+Display fresh unread emails,fetch_unread
+Find priority messages,fetch_important
+Which emails are marked urgent?,fetch_important
+List my important conversations,fetch_important
+Only show the mails that are flagged,fetch_important
+Get emails marked high priority,fetch_important
+Can you show emails from last Friday?,fetch_date_range
+Retrieve messages received on 15th March,fetch_date_range
+Fetch mails between April 1st and April 5th,fetch_date_range
+Get inbox items from this past weekend,fetch_date_range
+Filter messages by 2023-07-01 to 2023-07-10,fetch_date_range
+I want all emails labeled as Urgent,fetch_by_label
+Get my emails in the 'Travel' category,fetch_by_label
+Check the mails in the Personal label,fetch_by_label
+Filter by label: Work,fetch_by_label
+Give me mails that are in the Promotions label,fetch_by_label
+Show me mails with 'Admission' in the subject,fetch_by_subject
+Look for emails titled 'Invoice',fetch_by_subject
+Find emails with 'Schedule' in the subject line,fetch_by_subject
+Get all subject lines containing 'Reminder',fetch_by_subject
+Pull up emails having 'Newsletter' in subject,fetch_by_subject
+Do I have any emails with Excel files?,fetch_attachments
+List all emails that have attachments,fetch_attachments
+I want to see mails with downloadable documents,fetch_attachments
+Get emails with images or files,fetch_attachments
+Fetch emails that contain file attachments,fetch_attachments
+Summarize the latest 3 messages from Paytm,summarize_emails
+Give me a summary of recent unread mails,summarize_emails
+What's the summary of all Gmail updates?,summarize_emails
+Summarize the contents of emails from the director,summarize_emails
+I want a brief of the messages from today,summarize_emails
+Make a summary of this week’s important emails,summarize_emails
+Give an overview of work emails from last 2 days,summarize_emails
+Can you generate a short summary of my inbox?,summarize_emails
+Can you pull up my 10 most recent emails?,fetch_last_n
+Just show me the last few messages I received,fetch_last_n
+Load the most recent 3 emails,fetch_last_n
+Access my last 15 mails,fetch_last_n
+I want a list of my latest emails,fetch_last_n
+Any new messages from Rahul?,fetch_by_sender
+Do I have anything from HR?,fetch_by_sender
+Pull mails that came from my team lead,fetch_by_sender
+Check if there’s any mail from Flipkart,fetch_by_sender
+Look up emails sent by my mentor,fetch_by_sender
+What unread mails do I have?,fetch_unread
+List my unseen messages,fetch_unread
+Is there anything I haven’t opened yet?,fetch_unread
+Display only the emails I missed,fetch_unread
+Do I have any fresh mails?,fetch_unread
+Any important or urgent mails today?,fetch_important
+What are my flagged emails?,fetch_important
+List today's priority messages,fetch_important
+Check mails marked as high importance,fetch_important
+Filter inbox by importance,fetch_important
+Retrieve mails from last Sunday,fetch_date_range
+What messages came between 5th and 10th July?,fetch_date_range
+Show all emails from March,fetch_date_range
+Get all inbox items from 2 days ago,fetch_date_range
+Mails from earlier this week only,fetch_date_range
+Pull my 'Shopping' category emails,fetch_by_label
+I want messages from 'Promotions',fetch_by_label
+Access my Social updates,fetch_by_label
+Show all mails labeled as Personal,fetch_by_label
+Filter based on label 'ProjectX',fetch_by_label
+Find emails titled 'Assignment Submission',fetch_by_subject
+Search for subjects with 'Test Results',fetch_by_subject
+Get the mail that mentions 'Your Bill' in subject,fetch_by_subject
+Locate mails with subject 'Flight Booking',fetch_by_subject
+Look up emails having 'Congrats' in title,fetch_by_subject
+Grab all attachments from last week,fetch_attachments
+Were there any ZIP files in recent emails?,fetch_attachments
+Fetch only the mails with attached files,fetch_attachments
+Do I have any invoices attached in mail?,fetch_attachments
+Download docs from emails,fetch_attachments
+Summarize my inbox briefly,summarize_emails
+What’s the summary of unread emails from last 2 days?,summarize_emails
+Can you give a gist of this week's updates?,summarize_emails
+Quickly summarize messages from LinkedIn,summarize_emails
+I want a short report of today's mails,summarize_emails
