@@ -1,0 +1,904 @@
+Unnamed: 0,text,intent
+0,summarize this audio file,voice_summary
+1,what is this audio clip about,voice_summary
+2,can you give a summary of the voice recording,voice_summary
+3,tell me the gist of this audio,voice_summary
+4,provide a brief summary of the audio content,voice_summary
+5,summarize the speech i just uploaded,voice_summary
+6,what are the main points in this recording,voice_summary
+7,can you break down this audio for me,voice_summary
+8,give a short overview of the voice note,voice_summary
+9,extract the summary from this sound file,voice_summary
+10,i want a brief idea of what this audio says,voice_summary
+11,what does this audio recording discuss,voice_summary
+12,could you summarize this voice clip,voice_summary
+13,tell me the main idea from this audio file,voice_summary
+14,give me the key points from the voice note,voice_summary
+15,please provide a concise summary of this audio,voice_summary
+16,what is the content of this recording,voice_summary
+17,summarize what is said in this voice recording,voice_summary
+18,give me a quick rundown of this audio,voice_summary
+19,break down the main topics from this speech,voice_summary
+20,tell me what this audio is about in short,voice_summary
+21,can you capture the summary of this sound clip,voice_summary
+22,i need a summary for the voice recording,voice_summary
+23,what are the highlights of this audio,voice_summary
+24,provide a brief recap of the audio content,voice_summary
+25,can you tell me the gist of this voice note,voice_summary
+26,summarize the content of this speech recording,voice_summary
+27,give a brief overview of the sound recording,voice_summary
+28,what is being discussed in this audio clip,voice_summary
+29,can you explain what this audio file says in brief,voice_summary
+30,summarize this audio file,voice_summary
+31,what is this audio clip about,voice_summary
+32,can you give a summary of the voice recording,voice_summary
+33,tell me the gist of this audio,voice_summary
+34,provide a brief summary of the audio content,voice_summary
+35,summarize the speech i just uploaded,voice_summary
+36,what are the main points in this recording,voice_summary
+37,can you break down this audio for me,voice_summary
+38,give a short overview of the voice note,voice_summary
+39,extract the summary from this sound file,voice_summary
+40,i want a brief idea of what this audio says,voice_summary
+41,whats the core message in this audio,voice_summary
+42,can you tell me whats being discussed in this voice clip,voice_summary
+43,just give me a quick audio summary,voice_summary
+44,whats the topic of this voice message,voice_summary
+45,summarize the contents of this voice file,voice_summary
+46,please summarize whats spoken in this audio,voice_summary
+47,give me a short summary of this voice memo,voice_summary
+48,tell me briefly what this voice clip is saying,voice_summary
+49,what is discussed in this audio file,voice_summary
+50,please summarize this voice note,voice_summary
+51,whats the overall message in this audio,voice_summary
+52,give me a breakdown of this recording,voice_summary
+53,can you highlight the important points in this audio,voice_summary
+54,summarize the conversation in this clip,voice_summary
+55,what does the speaker talk about here,voice_summary
+56,what is the takeaway from this voice message,voice_summary
+57,can i get a short explanation of this audio,voice_summary
+58,summarize the audio in a few sentences,voice_summary
+59,tell me what was said in this voice recording,voice_summary
+60,whats this sound file trying to convey,voice_summary
+61,give me the essence of this voice note,voice_summary
+62,extract and summarize the core message,voice_summary
+63,id like a brief summary of this voice clip,voice_summary
+64,can you explain what this person is saying,voice_summary
+65,please provide the key takeaways from the audio,voice_summary
+66,give me a recap of this audio file,voice_summary
+67,whats the summary of the recording,voice_summary
+68,break this voice clip down into key points,voice_summary
+69,summarize the information in this voice message,voice_summary
+70,tell me briefly what this audio contains,voice_summary
+71,whats being talked about in this voice recording,voice_summary
+72,can you help me understand this audio in a few words,voice_summary
+73,capture the summary from this audio note,voice_summary
+74,give me a quick idea of what this person said,voice_summary
+75,summarize what the speaker is saying,voice_summary
+76,what does the audio talk about,voice_summary
+77,provide a summary of the voice file contents,voice_summary
+78,explain what is being discussed in the audio,voice_summary
+79,give a short summary of what this recording says,voice_summary
+80,could you tell me what this audio is saying,voice_summary
+81,whats this recording all about,voice_summary
+82,just give me the highlights from this voice note,voice_summary
+83,quick summary of this voice file please,voice_summary
+84,tell me the important stuff from this audio,voice_summary
+85,break down the content of this voice recording,voice_summary
+86,help me understand the voice clip,voice_summary
+87,can you extract the key message here,voice_summary
+88,in short whats being said in the audio,voice_summary
+89,summarize the message in this clip,voice_summary
+90,give me the main message from this sound clip,voice_summary
+91,i want a short version of this voice message,voice_summary
+92,just the summary from this audio please,voice_summary
+93,please help me with a summary of this clip,voice_summary
+94,what is the speaker talking about here,voice_summary
+95,whats the core message of this voice file,voice_summary
+96,condense this audio into a few points,voice_summary
+97,summarize what im hearing in this recording,voice_summary
+98,wrap up the content of this voice message,voice_summary
+99,can you give a tldr of this recording,voice_summary
+100,whats the summary of this talk,voice_summary
+101,capture the main content from this voice file,voice_summary
+102,explain this audio in simple terms,voice_summary
+103,whats the narration about in this clip,voice_summary
+104,id like a gist of what this recording says,voice_summary
+105,tell me what this speaker is explaining,voice_summary
+106,quick overview of this voice memo,voice_summary
+107,whats this speaker talking about,voice_summary
+108,could you wrap this audio up in a few words,voice_summary
+109,break this down and tell me the main parts,voice_summary
+110,give a quick explanation of this audio file,voice_summary
+111,summarize this voice clip in one line,voice_summary
+112,i need a short summary of the recording,voice_summary
+113,break down the content of this audio,voice_summary
+114,whats the speaker talking about in this file,voice_summary
+115,give me the main highlights of this audio,voice_summary
+116,can you summarize what was said in this recording,voice_summary
+117,tell me what this audio is explaining,voice_summary
+118,id like a summary of the voice message,voice_summary
+119,provide a quick recap of this audio note,voice_summary
+120,give an overview of the discussion in this audio,voice_summary
+121,summarize the topic covered in this voice clip,voice_summary
+122,give me a brief of whats in this audio,voice_summary
+123,whats being said in this audio message,voice_summary
+124,give me a voice summary from this file,voice_summary
+125,whats this voice file all about,voice_summary
+126,summarize the main ideas from the audio clip,voice_summary
+127,explain what this voice note is talking about,voice_summary
+128,whats the subject of this sound file,voice_summary
+129,i want a summary of this audio,voice_summary
+130,whats the voice file trying to convey,voice_summary
+131,summarize what was discussed in this voice message,voice_summary
+132,extract a summary from this audio clip,voice_summary
+133,tell me what the person is saying in this voice note,voice_summary
+134,get me the summary of this podcast audio,voice_summary
+135,can you provide a concise summary of this audio,voice_summary
+136,summarize this speech recording,voice_summary
+137,tell me the essence of this voice clip,voice_summary
+138,whats the short version of this recording,voice_summary
+139,give a recap of this audio content,voice_summary
+140,what is this person talking about,voice_summary
+141,whats the main idea of this voice message,voice_summary
+142,summarize the voice file in plain terms,voice_summary
+143,provide a brief explanation of this audio,voice_summary
+144,i just need the key points from this voice note,voice_summary
+145,explain this audio in short,voice_summary
+146,whats covered in this recording,voice_summary
+147,give me a short interpretation of this voice memo,voice_summary
+148,whats the central message of this audio,voice_summary
+149,whats the overview of this speech clip,voice_summary
+150,can you sum up this sound clip,voice_summary
+151,whats the content of this voice file,voice_summary
+152,tell me the main subject of the audio,voice_summary
+153,get a voice summary from this uploaded audio,voice_summary
+154,whats said in the uploaded voice clip,voice_summary
+155,give a concise explanation of this spoken content,voice_summary
+156,what information is shared in this voice recording,voice_summary
+157,summarize this audio content quickly,voice_summary
+158,whats the conclusion of this voice note,voice_summary
+159,can i get a quick summary of whats said here,voice_summary
+160,whats being conveyed in this audio file,voice_summary
+161,can you tell me the main idea in this voice message,voice_summary
+162,id like a short summary of this voice clip,voice_summary
+163,please interpret the audio and summarize it,voice_summary
+164,can you break down this speech into key points,voice_summary
+165,whats this voice message saying in brief,voice_summary
+166,please extract the essence of the audio,voice_summary
+167,give me the outline of this voice recording,voice_summary
+168,help me understand what this person is talking about,voice_summary
+169,whats the general topic in this audio clip,voice_summary
+170,summarize whats discussed in the recording,voice_summary
+171,tell me whats important in this sound clip,voice_summary
+172,can you summarize this voice for me,voice_summary
+173,let me know what this audio is about,voice_summary
+174,give a short explanation of the voice clip,voice_summary
+175,could you summarize the ideas expressed in this clip,voice_summary
+176,break this recording into key ideas,voice_summary
+177,tell me whats happening in this audio,voice_summary
+178,i want the short version of this audios content,voice_summary
+179,could you quickly tell me what this audio says,voice_summary
+180,please give the key points of this voice file,voice_summary
+181,i need a concise summary of this voice memo,voice_summary
+182,tell me the summary of this conversation,voice_summary
+183,highlight the important content from this audio,voice_summary
+184,just a quick idea of what this voice recording is,voice_summary
+185,can you tell me the summary of this voice,voice_summary
+186,summarize this voice memo in simple terms,voice_summary
+187,what is this person saying overall,voice_summary
+188,please explain whats going on in this clip,voice_summary
+189,get me the crux of this voice note,voice_summary
+190,can you summarize the voice note for me,voice_summary
+191,give me a brief on whats being said in this voice message,voice_summary
+192,please shorten this audio into a summary,voice_summary
+193,id like to know whats being talked about in the voice clip,voice_summary
+194,extract the main message from this recording,voice_summary
+195,provide a short description of this audio,voice_summary
+196,summarize what the person is saying,voice_summary
+197,just the important parts from this audio please,voice_summary
+198,what are the key points from this voice,voice_summary
+199,turn this voice message into a short summary,voice_summary
+200,help me get a quick understanding of this audio,voice_summary
+201,whats the main content in this audio,voice_summary
+202,condense this voice message into key ideas,voice_summary
+203,summarize the audio content clearly,voice_summary
+204,give a summary of whats spoken in the voice,voice_summary
+205,provide a summary of this speech,voice_summary
+206,what does the speaker say in summary,voice_summary
+207,give a concise breakdown of the recording,voice_summary
+208,turn this voice into a short note,voice_summary
+209,tell me briefly what this audio is about,voice_summary
+210,what are they discussing in this voice message,voice_summary
+211,help me understand the core idea of the voice file,voice_summary
+212,summarize the discussion in this recording,voice_summary
+213,could you list the main points from the voice clip,voice_summary
+214,i need a quick summary of this audio note,voice_summary
+215,what are the highlights of this voice,voice_summary
+216,tell me the gist of this voice message,voice_summary
+217,briefly explain the content of this audio,voice_summary
+218,help me figure out whats being said here,voice_summary
+219,can you put this audio in a nutshell,voice_summary
+220,whats the takeaway from this audio,voice_summary
+221,can you tell me the essence of this voice clip,voice_summary
+222,summarize what the speaker is talking about,voice_summary
+223,help me catch the main idea from this recording,voice_summary
+224,give me the highlights of this voice memo,voice_summary
+225,extract the core message of this audio,voice_summary
+226,what does the voice clip convey overall,voice_summary
+227,tell me what this person is trying to say,voice_summary
+228,i want a summary of what was said,voice_summary
+229,whats the audio file about,voice_summary
+230,summarize the topic discussed in this audio,voice_summary
+231,give me a rundown of this voice message,voice_summary
+232,whats the speaker trying to communicate,voice_summary
+233,shorten this audio to its key message,voice_summary
+234,what is the speaker saying in short,voice_summary
+235,break this audio down to its key insights,voice_summary
+236,tell me whats being discussed,voice_summary
+237,can you simplify this voice message,voice_summary
+238,give the audios meaning in brief,voice_summary
+239,tell me the key discussion from this voice,voice_summary
+240,capture the summary of this audio clip,voice_summary
+241,can you share a short overview of this voice recording,voice_summary
+242,provide a summary of whats said here,voice_summary
+243,whats the brief idea of this voice note,voice_summary
+244,summarize this for me in one line,voice_summary
+245,explain briefly what this recording says,voice_summary
+246,i just want to know what they are talking about,voice_summary
+247,what is discussed in this voice clip,voice_summary
+248,can you give the overview of this audio,voice_summary
+249,break down this voice memo in short,voice_summary
+250,i need the central idea from this audio,voice_summary
+251,whats the person talking about in general,voice_summary
+252,summarize this speech message,voice_summary
+253,convert this voice to key takeaways,voice_summary
+254,what are the key elements of this voice,voice_summary
+255,whats the content of this voice note,voice_summary
+256,brief me on this voice clip,voice_summary
+257,list the primary message of this audio,voice_summary
+258,can you pull out the main idea,voice_summary
+259,give me the short version of this recording,voice_summary
+260,what are they trying to explain,voice_summary
+261,can you summarize the subject of this audio,voice_summary
+262,let me know the conclusion of this audio,voice_summary
+263,extract the essential points,voice_summary
+264,give a tothepoint summary,voice_summary
+265,summarize the important information,voice_summary
+266,what does this audio mainly talk about,voice_summary
+267,help me quickly understand this voice note,voice_summary
+268,tell me the important topics mentioned,voice_summary
+269,i need a small note on this voice message,voice_summary
+270,capture the summary in 12 lines,voice_summary
+271,point out the major themes of the audio,voice_summary
+272,what are the speakers key arguments,voice_summary
+273,can you make this audio more digestible,voice_summary
+274,give me the quick points,voice_summary
+275,whats the voice all about,voice_summary
+276,provide quick notes from the voice memo,voice_summary
+277,summarize this speech recording,voice_summary
+278,give a brief summary in plain words,voice_summary
+279,share whats being said without the extra detail,voice_summary
+280,highlight the summary points,voice_summary
+281,make this voice content easy to understand,voice_summary
+282,can you give me a 2line summary,voice_summary
+283,condense this audio into essentials,voice_summary
+284,can you give the conclusion of this voice file,voice_summary
+285,just want the gist of this clip,voice_summary
+286,outline the main discussion here,voice_summary
+287,i need to know the context of this audio,voice_summary
+288,pull out the main statements,voice_summary
+289,whats the audios intent,voice_summary
+290,extract a few key lines that summarize this,voice_summary
+291,whats the point being made here,voice_summary
+292,tell me what to understand from this voice,voice_summary
+293,i need the summarized version of this,voice_summary
+294,help me grasp the message quickly,voice_summary
+295,boil this down to the basics,voice_summary
+296,give a brief message summary,voice_summary
+297,condense this message for clarity,voice_summary
+298,share a small explanation of whats said,voice_summary
+299,can you explain this audio in a few words,voice_summary
+300,interpret the message in summary form,voice_summary
+301,write a few lines summarizing this voice,voice_summary
+302,give a compact version of the discussion,voice_summary
+303,tell me what to know from this audio,voice_summary
+304,whats the final takeaway from the audio,voice_summary
+305,i need a crisp version of this audio,voice_summary
+306,give the short form of what was said,voice_summary
+307,can you help summarize this in points,voice_summary
+308,what should i understand from this clip,voice_summary
+309,summarize this in a few bullet points,voice_summary
+310,give a short extract of the voice file,voice_summary
+311,whats the meaning of this recording,voice_summary
+312,summarize this conversation for me,voice_summary
+313,help me find the main focus of the audio,voice_summary
+314,tell me what this talk is centered on,voice_summary
+315,provide a light summary of the content,voice_summary
+316,write a few words on what the audio is about,voice_summary
+317,can you share whats said in brief,voice_summary
+318,whats the key takeaway from this,voice_summary
+319,tell me what was spoken about,voice_summary
+320,extract and share the summary,voice_summary
+321,summarize this audio in simple terms,voice_summary
+322,what is this audio generally saying,voice_summary
+323,give me a summary explanation of the voice message,voice_summary
+324,explain briefly whats discussed in this audio clip,voice_summary
+325,tell me the essence of what im hearing,voice_summary
+326,make this voice message easy to understand,voice_summary
+327,can you summarize the voice recording,voice_summary
+328,condense the message in this voice clip,voice_summary
+329,quick summary of this conversation please,voice_summary
+330,wrap up the voice clip content for me,voice_summary
+331,break down this voice message into a short description,voice_summary
+332,need a summary note of this voice,voice_summary
+333,write down the main message from this audio,voice_summary
+334,can you tell me what this speaker is getting at,voice_summary
+335,whats the short version of this message,voice_summary
+336,capture the important message from this audio,voice_summary
+337,provide a small recap of the audio,voice_summary
+338,summarize the vocal message here,voice_summary
+339,tell me what the speaker is conveying,voice_summary
+340,i want a quick summary of the content,voice_summary
+341,what did the person talk about,voice_summary
+342,boil this voice note down to a few points,voice_summary
+343,distill this voice content into main ideas,voice_summary
+344,what are the major insights from this voice recording,voice_summary
+345,help me understand what the audio says,voice_summary
+346,short explanation of this audio please,voice_summary
+347,put this audio into a few sentences,voice_summary
+348,whats this speaker explaining,voice_summary
+349,tell me briefly what this person said,voice_summary
+350,i need a tldr for this voice clip,voice_summary
+351,give a quick brief on the voice message,voice_summary
+352,compress this audio into summary form,voice_summary
+353,break down what was said here,voice_summary
+354,convert this long voice to a few sentences,voice_summary
+355,tell me the voice content concisely,voice_summary
+356,summarize the talk in this recording,voice_summary
+357,what is the person trying to tell us,voice_summary
+358,outline what was spoken,voice_summary
+359,give a short recap of the speakers points,voice_summary
+360,please summarize this audio clip fast,voice_summary
+361,i want a fast summary of this voice message,voice_summary
+362,turn this speech into summary format,voice_summary
+363,make this long audio brief,voice_summary
+364,give me the audios crux,voice_summary
+365,highlight the speakers message,voice_summary
+366,pick out the top lines from the audio,voice_summary
+367,share the takeaway from this voice clip,voice_summary
+368,i need a oneliner from this voice note,voice_summary
+369,whats the important idea conveyed,voice_summary
+370,briefly explain whats in this voice memo,voice_summary
+371,short summary of the audio message,voice_summary
+372,whats this audio content about in short,voice_summary
+373,share the short conclusion of the audio,voice_summary
+374,list the speakers points in short,voice_summary
+375,can i get a summary breakdown,voice_summary
+376,whats the overall message of the voice,voice_summary
+377,help summarize the topic of discussion,voice_summary
+378,voice summary needed,voice_summary
+379,audio gist please,voice_summary
+380,summarize recording,voice_summary
+381,key takeaway from this message,voice_summary
+382,what is heshe discussing here,voice_summary
+383,overview of the audio,voice_summary
+384,extract voice highlights,voice_summary
+385,main focus of the audio,voice_summary
+386,summary of audio speech,voice_summary
+387,tell me the brief of this voice,voice_summary
+388,what did they mean in this clip,voice_summary
+389,interpret this audio message shortly,voice_summary
+390,make a short paragraph from this audio,voice_summary
+391,list important discussion points,voice_summary
+392,make this voice note understandable in short,voice_summary
+393,whats being expressed in the voice,voice_summary
+394,translate this audio into a summary,voice_summary
+395,quick interpretation of this clip,voice_summary
+396,give short key notes from this audio,voice_summary
+397,voice to summary conversion please,voice_summary
+398,speakers message in one line,voice_summary
+399,audio summary output,voice_summary
+400,voice content summarized,voice_summary
+401,tell me the voice message meaning,voice_summary
+402,extract speakers motive,voice_summary
+403,whats conveyed in the audio clip,voice_summary
+404,simplify this audio message,voice_summary
+405,tell me the central idea,voice_summary
+406,whats being explained,voice_summary
+407,create a minisummary of the voice,voice_summary
+408,write a small review of this audio,voice_summary
+409,whats the message content,voice_summary
+410,voice to text summary required,voice_summary
+411,main points in brief,voice_summary
+412,audio explained briefly,voice_summary
+413,short outline of this voice,voice_summary
+414,convert voice file to summary,voice_summary
+415,speakers words summarized,voice_summary
+416,whats the short story behind this voice,voice_summary
+417,explain whats being talked about,voice_summary
+418,give concise interpretation of the voice,voice_summary
+419,narrate this audio in a line,voice_summary
+420,what is the overall message of this voice,voice_summary
+421,give me a simple explanation of the audio,voice_summary
+422,can you tell me whats being talked about,voice_summary
+423,please condense the content of this voice note,voice_summary
+424,summarize whats being conveyed here,voice_summary
+425,give me a summary without the fluff,voice_summary
+426,i just want the summary of this voice clip,voice_summary
+427,help me understand what the speaker is saying,voice_summary
+428,can you tell me the topic of this audio,voice_summary
+429,summarize this voice message in 2 lines,voice_summary
+430,extract a concise summary from this voice,voice_summary
+431,tell me what this audio is mainly about,voice_summary
+432,what are the main takeaways from this recording,voice_summary
+433,briefly explain the contents of this audio,voice_summary
+434,can you outline the core ideas in this clip,voice_summary
+435,give me an overview of whats being said,voice_summary
+436,summarize the speech in simple terms,voice_summary
+437,whats the most important point in this audio,voice_summary
+438,list down what the speaker is highlighting,voice_summary
+439,can i get a summary of this audio message,voice_summary
+440,explain what this voice note is talking about,voice_summary
+441,what is the essential summary here,voice_summary
+442,tell me the focus of this conversation,voice_summary
+443,quickly summarize whats being discussed,voice_summary
+444,give a snapshot of this voice recording,voice_summary
+445,can you provide a gist of the audio,voice_summary
+446,i need the voice notes core meaning,voice_summary
+447,whats the discussion mainly covering,voice_summary
+448,share the summary of this voice in a few lines,voice_summary
+449,help me extract the essence of this speech,voice_summary
+450,tell me what this voice is essentially saying,voice_summary
+451,can you extract the conclusion of this clip,voice_summary
+452,summarize what this person is trying to explain,voice_summary
+453,what is the highlight of the audio,voice_summary
+454,break it down and give the main idea,voice_summary
+455,can you quickly tell me what this is about,voice_summary
+456,give the key summary of whats recorded,voice_summary
+457,help me with a short description of the audio,voice_summary
+458,whats the basic idea conveyed,voice_summary
+459,tell me what message this clip conveys,voice_summary
+460,whats the message in a nutshell,voice_summary
+461,can you help me understand this in brief,voice_summary
+462,highlight the important points discussed,voice_summary
+463,share what this voice clip mainly covers,voice_summary
+464,give me a very short recap of this audio,voice_summary
+465,summarize the entire voice message,voice_summary
+466,whats the conversation mainly about,voice_summary
+467,extract and outline the key points,voice_summary
+468,what do i need to understand from this,voice_summary
+469,give a plain english summary of this,voice_summary
+470,whats the person trying to highlight here,voice_summary
+471,extract key points in bullet form,voice_summary
+472,give a summary that captures the voices intent,voice_summary
+473,tell me the essence without much detail,voice_summary
+474,i want just the main idea of this message,voice_summary
+475,help me extract key facts from the audio,voice_summary
+476,share the key takeaway in one sentence,voice_summary
+477,can you distill the message of this recording,voice_summary
+478,whats the speakers core message,voice_summary
+479,give me the meat of the message,voice_summary
+480,summarize what the person is trying to get across,voice_summary
+481,explain this voice in the simplest way,voice_summary
+482,what should i take away from this recording,voice_summary
+483,what are the primary takehome points,voice_summary
+484,can you summarize the recordings contents,voice_summary
+485,just give me the core discussion,voice_summary
+486,what idea is being shared in this voice,voice_summary
+487,i need a brief on this clip,voice_summary
+488,whats the underlying message of this audio,voice_summary
+489,can you break this voice down simply,voice_summary
+490,give the general idea in a short paragraph,voice_summary
+491,summarize this voice with key highlights,voice_summary
+492,what should i learn from this voice,voice_summary
+493,what is the audios main talking point,voice_summary
+494,can you help decode this voice into summary,voice_summary
+495,i need to know what the speaker meant,voice_summary
+496,boil the audio down to a few lines,voice_summary
+497,summarize this like a news headline,voice_summary
+498,give the short and simple message,voice_summary
+499,tell me the takeaway in plain terms,voice_summary
+500,highlight only the essential parts,voice_summary
+501,what is the speakers message in short,voice_summary
+502,summarize this without the technicalities,voice_summary
+503,help me figure out the important message,voice_summary
+504,what does this recording aim to express,voice_summary
+505,just want to know the big picture,voice_summary
+506,sum this voice up in a few key phrases,voice_summary
+507,what is the main intent of this voice note,voice_summary
+508,whats the discussion summary here,voice_summary
+509,provide a simplified overview of this audio,voice_summary
+510,what does the person want to communicate,voice_summary
+511,can you recap whats been said,voice_summary
+512,just share what matters from this message,voice_summary
+513,tell me what this message boils down to,voice_summary
+514,whats the summary explanation,voice_summary
+515,give me a quick note about this clip,voice_summary
+516,help extract what the speaker really means,voice_summary
+517,give the heart of the discussion,voice_summary
+518,summarize the audio for quick reading,voice_summary
+519,briefly tell me what the speaker is saying,voice_summary
+520,need a summary of this audio speech,voice_summary
+521,quickly summarize the conversation in this voice message,voice_summary
+522,can you summarize the points discussed in this voice,voice_summary
+523,id like a short description of the voice content,voice_summary
+524,voice is too long just give me the summary,voice_summary
+525,capture the key parts of this voice message,voice_summary
+526,short version of what was said in the voice,voice_summary
+527,provide a voice note summary,voice_summary
+528,summarize this message from the speaker,voice_summary
+529,give me a quick explanation of whats in this voice,voice_summary
+530,i want to know what this voice clip is about,voice_summary
+531,short summary of the spoken message,voice_summary
+532,reduce this voice content to 2 lines,voice_summary
+533,what are they mainly saying in this clip,voice_summary
+534,tell me the idea in this voice file,voice_summary
+535,whats the summary from this voice audio,voice_summary
+536,give me a highlevel overview of this voice,voice_summary
+537,whats the voice about in summary form,voice_summary
+538,whats the short gist of this voice,voice_summary
+539,summarize the voice info,voice_summary
+540,give me the voice message highlights,voice_summary
+541,short overview of this voice chat,voice_summary
+542,key points from this voice message please,voice_summary
+543,make a digest from the voice clip,voice_summary
+544,can you give me a capsule version of this,voice_summary
+545,voice summary in bullet points,voice_summary
+546,summarize the voice into 3 key points,voice_summary
+547,what did the speaker convey in brief,voice_summary
+548,help me understand this audio quickly,voice_summary
+549,extract the core message from this voice,voice_summary
+550,turn this voice note into a brief summary,voice_summary
+551,i need a summarized version of this voice,voice_summary
+552,explain what this person is saying in brief,voice_summary
+553,voice summarization request,voice_summary
+554,turn long audio into a summary,voice_summary
+555,give me a clear and concise summary of this,voice_summary
+556,condense the speakers words,voice_summary
+557,whats the voice summary in 12 lines,voice_summary
+558,voice recording whats it about,voice_summary
+559,shortly describe the contents of the voice note,voice_summary
+560,highlight the key points in this voice,voice_summary
+561,whats the short message in the clip,voice_summary
+562,get me a compressed version of the audio message,voice_summary
+563,speaker summary needed,voice_summary
+564,tell me what the clip is communicating,voice_summary
+565,summarize this voice log,voice_summary
+566,outline the audio into short form,voice_summary
+567,reduce audio conversation to main points,voice_summary
+568,voice content in 23 lines summary,voice_summary
+569,speakers intention in short,voice_summary
+570,quick overview of the voice talk,voice_summary
+571,audio message summary for notes,voice_summary
+572,need executive summary of this voice,voice_summary
+573,voice explanation summarized,voice_summary
+574,voice summary in short form,voice_summary
+575,can you brief the voice note,voice_summary
+576,abridged form of the voice message,voice_summary
+577,summarized explanation of the voice,voice_summary
+578,short form of the voice content,voice_summary
+579,distilled version of this voice talk,voice_summary
+580,wrap up this voice message in a short note,voice_summary
+581,give me a capsule summary of the voice,voice_summary
+582,short narration of the voice,voice_summary
+583,compressed voice message info,voice_summary
+584,in a few words whats in this voice file,voice_summary
+585,audio to bullet points summary,voice_summary
+586,simplified version of the speakers message,voice_summary
+587,quick recap of the voice,voice_summary
+588,concise voice information summary,voice_summary
+589,whats the key takeaway from this voice,voice_summary
+590,summarize the voice discussion,voice_summary
+591,can you compress this speakers ideas,voice_summary
+592,main message from this voice audio,voice_summary
+593,squeeze this voice into summary,voice_summary
+594,short breakdown of the audio,voice_summary
+595,whats the summary paragraph for this voice,voice_summary
+596,whats the key message inside this clip,voice_summary
+597,voice message summarized into one line,voice_summary
+598,rephrase and summarize the voice,voice_summary
+599,speakers speech into summary,voice_summary
+600,shorten this voice message to its essence,voice_summary
+601,convert voice speech into small summary,voice_summary
+602,pull out the main summary from this voice,voice_summary
+603,voice topic summarized,voice_summary
+604,whats being conveyed overall,voice_summary
+605,summarize speech into 2 lines,voice_summary
+606,condensed speaker explanation,voice_summary
+607,voice memo brief,voice_summary
+608,short message outline from the speaker,voice_summary
+609,what are the few key points in this voice,voice_summary
+610,make a quick summary statement,voice_summary
+611,speaker message extraction,voice_summary
+612,voice clip idea summary,voice_summary
+613,give me a short summary idea from this voice,voice_summary
+614,give me the final thoughts of this voice note,voice_summary
+615,what was the crux of this recording,voice_summary
+616,give the summary in laymans terms,voice_summary
+617,extract the summary message from the voice note,voice_summary
+618,whats the message this audio is delivering,voice_summary
+619,can you tell me the gist in one line,voice_summary
+620,whats the essence of the speakers message,voice_summary
+621,can you decode and summarize the voice,voice_summary
+622,write a summary sentence for this audio,voice_summary
+623,can you explain this voice briefly,voice_summary
+624,break down this message into a short summary,voice_summary
+625,highlight what matters in this recording,voice_summary
+626,help me get the idea of this voice file,voice_summary
+627,give me a short recap of this voice clip,voice_summary
+628,whats the voice note trying to tell us,voice_summary
+629,can you extract and summarize the voice idea,voice_summary
+630,can you tell me whats conveyed here,voice_summary
+631,describe the message briefly,voice_summary
+632,provide the core of whats being discussed,voice_summary
+633,give me the distilled message,voice_summary
+634,share a summary snippet of the audio,voice_summary
+635,give me a quick overview of whats being said,voice_summary
+636,can you give me a brief about this voice note,voice_summary
+637,tell me what this audio is mainly expressing,voice_summary
+638,give the briefest form of this message,voice_summary
+639,pick out the important info and summarize,voice_summary
+640,summarize this voice chat,voice_summary
+641,what does this voice message boil down to,voice_summary
+642,extract the top points from this voice,voice_summary
+643,what was the speaker mainly emphasizing,voice_summary
+644,what conclusion can we draw from the audio,voice_summary
+645,tell me what to note from this voice clip,voice_summary
+646,give the key facts from this voice file,voice_summary
+647,whats the concise idea of this audio clip,voice_summary
+648,can you summarize this voice log,voice_summary
+649,what theme is the speaker touching on,voice_summary
+650,share the compact interpretation,voice_summary
+651,can you provide a summary insight,voice_summary
+652,list the summary in easy words,voice_summary
+653,can you distill this audio to essentials,voice_summary
+654,help simplify the voice message,voice_summary
+655,can you tell the outcome of the discussion,voice_summary
+656,write a oneline summary of the audio,voice_summary
+657,i just want the summary line,voice_summary
+658,outline the content in a few words,voice_summary
+659,give the core message of this voice clip,voice_summary
+660,provide key notes from this recording,voice_summary
+661,tell me what to take away from the message,voice_summary
+662,give me the final idea from the audio,voice_summary
+663,tell me the condensed message here,voice_summary
+664,help me get the speakers point across quickly,voice_summary
+665,give a summarized version of this recording,voice_summary
+666,can you shorten this to just the essentials,voice_summary
+667,what was the talk mostly about,voice_summary
+668,distill the content into a short takeaway,voice_summary
+669,highlight only the important words,voice_summary
+670,briefly explain the voice message,voice_summary
+671,extract just the insights from the voice,voice_summary
+672,whats the key message from the talk,voice_summary
+673,give me a quick breakdown of the voice,voice_summary
+674,explain the meaning behind this recording,voice_summary
+675,summarize this without any fluff,voice_summary
+676,tell me what matters most in this audio,voice_summary
+677,condense this voice file to the main point,voice_summary
+678,whats the key line from this clip,voice_summary
+679,tell me what the speaker is focusing on,voice_summary
+680,i want just the key sentences from this voice note,voice_summary
+681,give a focused summary of this voice clip,voice_summary
+682,write a mini summary of this voice,voice_summary
+683,what takeaway does this audio give,voice_summary
+684,give the essence in two lines,voice_summary
+685,what should i remember from this voice,voice_summary
+686,just sum it up quickly,voice_summary
+687,provide the final idea in this audio,voice_summary
+688,break it down to a short explanation,voice_summary
+689,whats being conveyed in short,voice_summary
+690,give the punchline of the voice,voice_summary
+691,summarize the purpose of this recording,voice_summary
+692,point out the key highlights,voice_summary
+693,can you summarize the message intent,voice_summary
+694,write what this message tries to tell us,voice_summary
+695,whats the summarized point here,voice_summary
+696,give me just the core theme,voice_summary
+697,what is this speaker emphasizing,voice_summary
+698,explain what the speaker is aiming to say,voice_summary
+699,give a tiny summary of this clip,voice_summary
+700,just the conclusion will do,voice_summary
+701,can you get me the idea fast,voice_summary
+702,tell me the speakers message in summary,voice_summary
+703,just summarize the voice very shortly,voice_summary
+704,highlight the intent of this message,voice_summary
+705,distill the recording into key ideas,voice_summary
+706,break this talk down into one thought,voice_summary
+707,tell me what this recording revolves around,voice_summary
+708,sum up the voice in a nutshell,voice_summary
+709,can you express the clips idea in a line,voice_summary
+710,extract only the relevant message,voice_summary
+711,summarize what was explained,voice_summary
+712,give a oneliner explaining this voice,voice_summary
+713,tell me what to understand here quickly,voice_summary
+714,can you put this voice message into a nutshell,voice_summary
+715,give me a tldr of the audio,voice_summary
+716,summarize this voice like a news headline,voice_summary
+717,whats the most important line from this voice,voice_summary
+718,voice note summary please,voice_summary
+719,i need a quick idea of this voice message,voice_summary
+720,can you turn this into a single line insight,voice_summary
+721,what would be the abstract of this audio,voice_summary
+722,give me the speakers point in a sentence,voice_summary
+723,what does this message really mean,voice_summary
+724,tell me what the speaker is implying,voice_summary
+725,pull out the core from this audio file,voice_summary
+726,quickly interpret the message for me,voice_summary
+727,extract the heart of this voice message,voice_summary
+728,i want to know what this is all about,voice_summary
+729,give a condensed interpretation,voice_summary
+730,in just one or two sentences what is this,voice_summary
+731,whats the conclusion from this audio,voice_summary
+732,tell me the wrapup of this voice note,voice_summary
+733,simplify the message into a quick point,voice_summary
+734,need a bitesized summary of the clip,voice_summary
+735,give me the takeaway of this voice note,voice_summary
+736,what can i learn from this voice message,voice_summary
+737,translate this voice to a single thought,voice_summary
+738,give me the voice summary like a caption,voice_summary
+739,tell me the gist of the audio in 5 words,voice_summary
+740,help me capture the voice message essence,voice_summary
+741,can you shorten this voice logically,voice_summary
+742,summarize this for my notes,voice_summary
+743,turn this long message into a short quote,voice_summary
+744,whats the bullet point version of this voice,voice_summary
+745,convert the voice note to a tweetlength summary,voice_summary
+746,what would be the heading of this message,voice_summary
+747,turn this clip into a titlelike summary,voice_summary
+748,give me the big idea in short form,voice_summary
+749,how would you summarize this audio fast,voice_summary
+750,extract the oneliner from this audio,voice_summary
+751,tell me what stands out from this voice,voice_summary
+752,what is the headline idea of the voice,voice_summary
+753,make this voice brief for my memory,voice_summary
+754,just the main insight please,voice_summary
+755,wrap up the message in one statement,voice_summary
+756,put the audio into a key sentence,voice_summary
+757,compress this audio into a phrase,voice_summary
+758,what should i grasp from this voice,voice_summary
+759,tell me the speakers main agenda,voice_summary
+760,compress the core of the voice,voice_summary
+761,whats the loudest message in this clip,voice_summary
+762,express this voice content in short,voice_summary
+763,give me an overview sentence,voice_summary
+764,voice message i just need the summary,voice_summary
+765,sum it up to the punchline,voice_summary
+766,whats the summary of the discussion,voice_summary
+767,summarize the opinion from the audio,voice_summary
+768,voice file need a recap,voice_summary
+769,short recap for the audio please,voice_summary
+770,what would the summary report say,voice_summary
+771,turn this into a short summary block,voice_summary
+772,how can i note this message briefly,voice_summary
+773,oneline conclusion for the audio,voice_summary
+774,singleline feedback from this voice note,voice_summary
+775,distill the speech into a key idea,voice_summary
+776,tell me the outcome in brief,voice_summary
+777,whats the short interpretation,voice_summary
+778,explain this message in a short bullet,voice_summary
+779,extract key takeaway in one sentence,voice_summary
+780,summarize the important aspects,voice_summary
+781,share the one thing this voice teaches,voice_summary
+782,highlight the meaningful part of the voice,voice_summary
+783,give me a voice summary i can remember,voice_summary
+784,help me get the quick point,voice_summary
+785,summarize the context of the clip,voice_summary
+786,give a mini breakdown of this voice,voice_summary
+787,singlesentence version of the message,voice_summary
+788,compact summary of the voice content,voice_summary
+789,tell me the voice notes essence,voice_summary
+790,give a very short recap please,voice_summary
+791,turn this clip into a headline,voice_summary
+792,summarize the clip as if for a friend,voice_summary
+793,write the moral of the audio,voice_summary
+794,conclude this voice with a summary,voice_summary
+795,give the most relevant insight from the audio,voice_summary
+796,write the audios key lesson,voice_summary
+797,what key takeaway does the speaker leave us with,voice_summary
+798,give a onesentence output from the voice,voice_summary
+799,whats the essence in one line,voice_summary
+800,break it down into a summary tweet,voice_summary
+801,onesentence wrapup of this message,voice_summary
+802,voice summary like a whatsapp status,voice_summary
+803,whats the bitesized thought here,voice_summary
+804,make this recording short and snappy,voice_summary
+805,how would you summarize this message to a kid,voice_summary
+806,can you write a key point from the audio,voice_summary
+807,summarize in layman language,voice_summary
+808,give a commonsense summary of the clip,voice_summary
+809,can i get a quick voice message overview,voice_summary
+810,briefly what does this voice message say,voice_summary
+811,extract summary from this voice memo,voice_summary
+812,tell me the summary of what they said,voice_summary
+813,summarize whats being discussed in the voice note,voice_summary
+814,summarize this voice file please,voice_summary
+815,whats the short info from this voice note,voice_summary
+816,give me a summary idea from this audio,voice_summary
+817,voice message in summary form,voice_summary
+818,tell me the short version of this voice note,voice_summary
+819,highlight what the speaker said,voice_summary
+820,wrap up this voice recording,voice_summary
+821,voice message essence please,voice_summary
+822,speakers point in short,voice_summary
+823,can i get a 1line summary of this voice,voice_summary
+824,break down this voice note to core ideas,voice_summary
+825,voice message summary required,voice_summary
+826,whats the core idea of this voice clip,voice_summary
+827,give me a 23 line gist of the voice,voice_summary
+828,summarize whats spoken here,voice_summary
+829,voice note main idea,voice_summary
+830,condensed form of the voice message,voice_summary
+831,shorten the voice message to a readable format,voice_summary
+832,extract highlights from this voice,voice_summary
+833,quick idea of what this voice contains,voice_summary
+834,capture key takeaways from this voice,voice_summary
+835,can i get the tldr of this audio,voice_summary
+836,bullet point summary from this voice,voice_summary
+837,whats the speakers main message,voice_summary
+838,create a short digest from the voice note,voice_summary
+839,list the core content of this voice,voice_summary
+840,help me get the important parts from this audio,voice_summary
+841,provide a short review of the voice message,voice_summary
+842,i need a brief of the audio file,voice_summary
+843,what is this voice message about briefly,voice_summary
+844,summarize the recording for me,voice_summary
+845,short version of speakers message please,voice_summary
+846,summarize the message recorded,voice_summary
+847,voice summary required,voice_summary
+848,can you shorten this voice file to a few words,voice_summary
+849,convert voice file to short note,voice_summary
+850,whats said in the voice file in brief,voice_summary
+851,i want a brief summary of the voice chat,voice_summary
+852,voice message gist in a few lines,voice_summary
+853,whats this audio clip about,voice_summary
+854,give a wrapup of this voice message,voice_summary
+855,summarize the voice log,voice_summary
+856,whats the essential message here,voice_summary
+857,voice memo short description,voice_summary
+858,outline what this speaker said,voice_summary
+859,make this voice message readable as a summary,voice_summary
+860,explain the voice note in short,voice_summary
+861,compress this voice message info,voice_summary
+862,distill the content of the voice clip,voice_summary
+863,voice summary in under 50 words,voice_summary
+864,tell me the essence of the recording,voice_summary
+865,main idea spoken in voice clip,voice_summary
+866,recap of the voice message,voice_summary
+867,shortened version of speakers words,voice_summary
+868,speakers summary needed,voice_summary
+869,whats in this voice clip in short,voice_summary
+870,summarize the communication in this audio,voice_summary
+871,voice overview required,voice_summary
+872,give me a breakdown of the voice,voice_summary
+873,can you draft a short summary of this voice,voice_summary
+874,speakers message condensed,voice_summary
+875,short report from this voice note,voice_summary
+876,voice idea in simple terms,voice_summary
+877,gist of the audio file,voice_summary
+878,voice content recap,voice_summary
+879,short version of whats recorded here,voice_summary
+880,give me the key info from this voice,voice_summary
+881,voice transcript summary,voice_summary
+882,abstract of voice message,voice_summary
+883,voice note takeaway,voice_summary
+884,summarize whats being talked about in the voice,voice_summary
+885,short form of the voice dialogue,voice_summary
+886,wrap up the points discussed in the voice,voice_summary
+887,give me a 3point summary,voice_summary
+888,summarize message into readable lines,voice_summary
+889,need a precise version of voice content,voice_summary
+890,short content of voice file,voice_summary
+891,condensed speaker voice,voice_summary
+892,extract voice summary automatically,voice_summary
+893,voice speech in short,voice_summary
+894,recap the voice,voice_summary
+895,make the audio message short and crisp,voice_summary
+896,audio clip gist,voice_summary
+897,shorten this voice chat,voice_summary
+898,what was said in this voice briefly,voice_summary
+899,extract a concise explanation from the voice,voice_summary
+900,voice file give me the quick summary,voice_summary
+901,compress and summarize audio,voice_summary
+902,speakers key insights in short form,voice_summary

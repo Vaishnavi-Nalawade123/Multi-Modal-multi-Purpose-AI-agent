@@ -1,0 +1,1001 @@
+text,intent
+Will it be clear or rainy in Rourkela this evening?,get_weather
+Check if it's snowing in Latur,get_weather
+How does the sky look in Latur today?,get_weather
+Is it cold in Howrah today?,get_weather
+Tell me if Thiruvananthapuram is having good weather today,get_weather
+Should I expect fog in Shimoga this morning?,get_weather
+Can you show me hourly temperature updates in Begusarai?,get_weather
+Will it be clear or rainy in Nainital this evening?,get_weather
+Is there a weather warning in Ahmednagar?,get_weather
+How’s the wind chill in Dhanbad right now?,get_weather
+Will it be comfortable outside in Jamshedpur today?,get_weather
+Is the weather suitable for outdoor activities in Haridwar?,get_weather
+Do I need sunglasses in Siliguri today?,get_weather
+Will it be comfortable outside in Khammam today?,get_weather
+Is it foggy in Baramati this morning?,get_weather
+Update me on the weather conditions in Tirunelveli,get_weather
+Will it be windy in Alibag today?,get_weather
+Tell me the weather forecast for Phaltan,get_weather
+How warm is it going to be in Mysuru this afternoon?,get_weather
+Tell me the weather forecast for Alibag,get_weather
+Is there a weather warning in Chiplun?,get_weather
+Will it be hot in Baramati during the day?,get_weather
+What’s the wind speed in Lucknow currently?,get_weather
+How will the weather be around noon in Nagpur?,get_weather
+What’s the five-day forecast for Chennai?,get_weather
+Give me the hourly forecast for Visakhapatnam,get_weather
+Should I wear a jacket in Mahad today?,get_weather
+Can you get me the latest weather update for Hyderabad?,get_weather
+What's the temperature in Raipur currently?,get_weather
+Will it be comfortable outside in Nagpur today?,get_weather
+How will the weather be around noon in Howrah?,get_weather
+Is it cold in Faridabad today?,get_weather
+How does the sky look in Bilaspur today?,get_weather
+Will the skies be clear in Ulhasnagar tonight?,get_weather
+Do I need sunglasses in Latur today?,get_weather
+Will it be windy in Durgapur today?,get_weather
+Will there be sunshine all day in Nandurbar?,get_weather
+Can you show me hourly temperature updates in Chennai?,get_weather
+Is there a weather alert in Tiruchirappalli right now?,get_weather
+Is Saharanpur experiencing a heatwave?,get_weather
+What are the precipitation levels in Dehradun right now?,get_weather
+Check if it's snowing in Bhopal,get_weather
+Is it cold in Patna today?,get_weather
+Will Tiruchirappalli have thunderstorms today?,get_weather
+What’s the high and low temperature in Kolhapur today?,get_weather
+Is the weather suitable for outdoor activities in Roorkee?,get_weather
+How will the weather be around noon in Bangalore?,get_weather
+Can I expect rain during the weekend in Nanded?,get_weather
+Is it cloudy in Palghar now?,get_weather
+Should I wear a jacket in Boisar today?,get_weather
+Will Agartala have thunderstorms today?,get_weather
+What are the precipitation levels in Moradabad right now?,get_weather
+What's the weather like in Boisar?,get_weather
+How’s visibility in Agartala right now?,get_weather
+Will the skies be clear in Jaipur tonight?,get_weather
+Is Raipur under a heat advisory?,get_weather
+Let me know if it's raining in Delhi,get_weather
+Do I need an umbrella in Tirunelveli?,get_weather
+Is it safe to go for a walk in Jabalpur right now?,get_weather
+Do I need to carry a raincoat in Beed today?,get_weather
+Get today’s forecast summary for Guwahati,get_weather
+Will the skies be clear in Bhopal tonight?,get_weather
+Let me know if it's raining in Pune,get_weather
+Are there any extreme weather conditions in Udaipur today?,get_weather
+What’s the UV index in Mumbai today?,get_weather
+Do I need sunglasses in Varanasi today?,get_weather
+Will the skies be clear in Gwalior tonight?,get_weather
+What's the chance of rain in Hyderabad today?,get_weather
+Check if it's snowing in Patna,get_weather
+How's the weather today in Hubbali?,get_weather
+Is there a chance of hail in Nashik today?,get_weather
+Is the weather suitable for outdoor activities in Ranchi?,get_weather
+How’s visibility in Rajkot right now?,get_weather
+What kind of weather should I expect in Parbhani this weekend?,get_weather
+Will there be a storm in Coimbatore today?,get_weather
+Will there be a storm in Silchar today?,get_weather
+Let me know if it's raining in Panvel,get_weather
+How’s the temperature fluctuating today in Mahad?,get_weather
+What's the weather outlook for Kudal?,get_weather
+Will it be clear or rainy in Jagdalpur this evening?,get_weather
+How's the air pressure in Mumbai currently?,get_weather
+Get today’s forecast summary for Nandurbar,get_weather
+What kind of weather should I expect in Ratnagiri this weekend?,get_weather
+Will there be sunshine all day in Nainital?,get_weather
+What’s the UV index in Dibrugarh today?,get_weather
+Is there a weather alert in Erode right now?,get_weather
+Will Dehradun have thunderstorms today?,get_weather
+Check if it's snowing in Solapur,get_weather
+Is Tiruchirappalli under any weather advisory right now?,get_weather
+Will it be windy in Moradabad today?,get_weather
+Get me the weather conditions for Faridabad,get_weather
+Should I expect fog in Tirunelveli this morning?,get_weather
+Tell me if Kochi is having good weather today,get_weather
+What's the chance of rain in Dehradun today?,get_weather
+Will there be a storm in Palghar today?,get_weather
+Check the air quality in Nagpur right now,get_weather
+What's the chance of rain in Udaipur today?,get_weather
+Will it rain in Kochi today?,get_weather
+Will the skies be clear in Amritsar tonight?,get_weather
+Can you get me the latest weather update for Salem?,get_weather
+Get me the weather conditions for Tirunelveli,get_weather
+Check tomorrow’s forecast for Rajkot,get_weather
+What's the weather trend in Ranchi for the next few days?,get_weather
+Is Dibrugarh going to be chilly tomorrow?,get_weather
+Tell me if Meerut is having good weather today,get_weather
+How's the air pressure in Jalgaon currently?,get_weather
+How humid is it in Phaltan today?,get_weather
+Give me the weather report for Chennai,get_weather
+How’s visibility in Dhanbad right now?,get_weather
+Tell me the weather for the weekend in Chennai,get_weather
+Should I expect showers later today in Phaltan?,get_weather
+How’s the weather shaping up in Khammam this week?,get_weather
+How hot is it in Durgapur at the moment?,get_weather
+Give me the weather report for Chandrapur,get_weather
+Are there any extreme weather conditions in Udupi today?,get_weather
+Is there a weather alert in Darbhanga right now?,get_weather
+Tell me if Darbhanga is having good weather today,get_weather
+Give me the hourly forecast for Prayagraj,get_weather
+Is Mumbai experiencing a heatwave?,get_weather
+Tell me the weather for the weekend in Kota,get_weather
+Check the air quality in Ambarnath right now,get_weather
+Tell me the weather forecast for Phaltan,get_weather
+Check the air quality in Ranchi right now,get_weather
+Give me the weather report for Jabalpur,get_weather
+Is it foggy in Delhi this morning?,get_weather
+What's the chance of rain in Rourkela today?,get_weather
+Are there any extreme weather conditions in Agartala today?,get_weather
+What will the weather be like in Satara tonight?,get_weather
+Is it cloudy in Dehradun now?,get_weather
+Tell me the weather for the weekend in Faridabad,get_weather
+How’s the wind chill in Ratnagiri right now?,get_weather
+Can you tell me if it’s raining in Virar?,get_weather
+Can I expect rain during the weekend in Mumbai?,get_weather
+How hot is it in Nandurbar at the moment?,get_weather
+How’s visibility in Thanjavur right now?,get_weather
+Is it foggy in Ahmednagar this morning?,get_weather
+Is the weather suitable for outdoor activities in Tiruchirappalli?,get_weather
+Is Saharanpur under any weather advisory right now?,get_weather
+Is there a chance of hail in Ranchi today?,get_weather
+What's the weather outlook for Beed?,get_weather
+Is there a weather warning in Nizamabad?,get_weather
+Give me the hourly forecast for Wardha,get_weather
+Is the weather suitable for outdoor activities in Muzaffarpur?,get_weather
+How’s the temperature fluctuating today in Siliguri?,get_weather
+Is Amravati experiencing a heatwave?,get_weather
+How’s the wind chill in Imphal right now?,get_weather
+How’s the weather looking for tomorrow in Bhubaneswar?,get_weather
+How’s the wind chill in Wardha right now?,get_weather
+Tell me the real-feel temperature in Hubbali,get_weather
+What's the weather trend in Yavatmal for the next few days?,get_weather
+Is it safe to travel in Ludhiana right now weather-wise?,get_weather
+Do I need to carry a raincoat in Satara today?,get_weather
+Check tomorrow’s forecast for Aurangabad,get_weather
+Tell me the real-feel temperature in Ulhasnagar,get_weather
+Will Alibag have thunderstorms today?,get_weather
+What’s the high and low temperature in Muzaffarpur today?,get_weather
+Is it safe to go for a walk in Sangli right now?,get_weather
+Should I expect snow in Faridabad this week?,get_weather
+Do I need to dress warmly in Korba today?,get_weather
+Can you tell me if it’s raining in Dhanbad?,get_weather
+How warm is it going to be in Siliguri this afternoon?,get_weather
+Do I need sunglasses in Pune today?,get_weather
+Should I wear a jacket in Mysuru today?,get_weather
+Should I expect showers later today in Shirdi?,get_weather
+Are there any extreme weather conditions in Nashik today?,get_weather
+How will the weather be around noon in Rajkot?,get_weather
+Check if it's snowing in Mysuru,get_weather
+Tell me the weather forecast for Ahmednagar,get_weather
+Check tomorrow’s forecast for Korba,get_weather
+Get me the weather conditions for Thanjavur,get_weather
+What’s the wind speed in Vadodara currently?,get_weather
+Will there be a storm in Begusarai today?,get_weather
+Can you get me the latest weather update for Udupi?,get_weather
+Check the air quality in Korba right now,get_weather
+Is it foggy in Baramati this morning?,get_weather
+What’s the UV index in Meerut today?,get_weather
+Tell me if Nashik is having good weather today,get_weather
+What's the weather trend in Ghaziabad for the next few days?,get_weather
+Tell me the real-feel temperature in Dehradun,get_weather
+Tell me if Saharanpur is having good weather today,get_weather
+Is there a chance of hail in Tezpur today?,get_weather
+How warm is it going to be in Gwalior this afternoon?,get_weather
+What’s the wind speed in Khammam currently?,get_weather
+Let me know if it's raining in Dibrugarh,get_weather
+Give me the forecast for the next few hours in Alibag,get_weather
+Tell me if it's overcast in Ranchi today,get_weather
+What's the chance of rain in Osmanabad today?,get_weather
+How’s the temperature fluctuating today in Belgaum?,get_weather
+Is there a chance of hail in Kota today?,get_weather
+Is it safe to travel in Nashik right now weather-wise?,get_weather
+What's the weather trend in Noida for the next few days?,get_weather
+Should I expect fog in Vadodara this morning?,get_weather
+Let me know if it's raining in Ludhiana,get_weather
+Is Gaya going to be chilly tomorrow?,get_weather
+Will it be comfortable outside in Panvel today?,get_weather
+Do I need to dress warmly in Alibag today?,get_weather
+What's the chance of rain in Jodhpur today?,get_weather
+Will it be hot in Parbhani during the day?,get_weather
+Give me the hourly forecast for Meerut,get_weather
+Is Dhule under any weather advisory right now?,get_weather
+Will it be comfortable outside in Nagpur today?,get_weather
+Do I need an umbrella in Pune?,get_weather
+Is there a chance of hail in Noida today?,get_weather
+How humid is it in Ulhasnagar today?,get_weather
+How’s the weather shaping up in Mumbai this week?,get_weather
+Let me know if it's raining in Aurangabad,get_weather
+Will it rain in Davanagere today?,get_weather
+Tell me the real-feel temperature in Shrivardhan,get_weather
+How’s the temperature fluctuating today in Nagercoil?,get_weather
+Will it be clear or rainy in Nagpur this evening?,get_weather
+Should I expect showers later today in Gwalior?,get_weather
+Will it be clear or rainy in Gwalior this evening?,get_weather
+Give me the forecast for the next few hours in Dhanbad,get_weather
+Tell me if Kolkata is having good weather today,get_weather
+Will it be hot in Virar during the day?,get_weather
+Get me the weather conditions for Mumbai,get_weather
+What kind of weather should I expect in Jaipur this weekend?,get_weather
+How’s visibility in Ambarnath right now?,get_weather
+How warm is it going to be in Virar this afternoon?,get_weather
+Can you check the current weather status in Aurangabad?,get_weather
+Will it be clear or rainy in Ahmedabad this evening?,get_weather
+Is the weather suitable for outdoor activities in Bhopal?,get_weather
+What are the precipitation levels in Kochi right now?,get_weather
+Is Kolkata experiencing a heatwave?,get_weather
+Do I need an umbrella in Visakhapatnam?,get_weather
+What’s the five-day forecast for Yavatmal?,get_weather
+Do I need an umbrella in Boisar?,get_weather
+Will the skies be clear in Osmanabad tonight?,get_weather
+Do I need an umbrella in Durgapur?,get_weather
+How hot is it in Saharanpur at the moment?,get_weather
+Can I expect rain during the weekend in Udaipur?,get_weather
+Does Latur have clear skies today?,get_weather
+Can you tell me if it’s raining in Nandurbar?,get_weather
+Is there a chance of hail in Nagpur today?,get_weather
+What’s the UV index in Rourkela today?,get_weather
+Is it foggy in Parbhani this morning?,get_weather
+Should I expect fog in Tezpur this morning?,get_weather
+How warm is it going to be in Latur this afternoon?,get_weather
+Check tomorrow’s forecast for Vasai,get_weather
+What are the precipitation levels in Karimnagar right now?,get_weather
+Give me the forecast for the next few hours in Moradabad,get_weather
+Will it be clear or rainy in Bokaro this evening?,get_weather
+Do I need to dress warmly in Nizamabad today?,get_weather
+Can you tell me if it’s raining in Faridabad?,get_weather
+Tell me if Mumbai is having good weather today,get_weather
+Will it rain in Gurugram today?,get_weather
+What's the chance of rain in Hingoli today?,get_weather
+Will it be windy in Gondia today?,get_weather
+Is Ghaziabad experiencing a heatwave?,get_weather
+Give me the weather report for Saharanpur,get_weather
+Should I expect showers later today in Saharanpur?,get_weather
+Should I expect fog in Vijayawada this morning?,get_weather
+Do I need to dress warmly in Noida today?,get_weather
+How's the air pressure in Virar currently?,get_weather
+Will it be comfortable outside in Mangalore today?,get_weather
+What's the weather trend in Solapur for the next few days?,get_weather
+Will it be clear or rainy in Jamshedpur this evening?,get_weather
+Will there be snow flurries in Salem today?,get_weather
+What’s the UV index in Nanded today?,get_weather
+How humid is it in Rourkela today?,get_weather
+Will it be windy in Dombivli today?,get_weather
+Should I expect showers later today in Alibag?,get_weather
+Get me the weather conditions for Jagdalpur,get_weather
+Check the air quality in Akola right now,get_weather
+Is there a weather alert in Khammam right now?,get_weather
+Tell me the weather forecast for Delhi,get_weather
+Do I need to dress warmly in Aligarh today?,get_weather
+Can you get me the latest weather update for Varanasi?,get_weather
+Give me the hourly forecast for Kolkata,get_weather
+Is Amritsar under any weather advisory right now?,get_weather
+What kind of weather should I expect in Ambarnath this weekend?,get_weather
+Is Kochi under any weather advisory right now?,get_weather
+Is it cloudy in Sangli now?,get_weather
+Will there be snow flurries in Gwalior today?,get_weather
+Is it cloudy in Ludhiana now?,get_weather
+Is Itanagar under a heat advisory?,get_weather
+What's the chance of rain in Nandurbar today?,get_weather
+How's the weather today in Rajkot?,get_weather
+Do I need to dress warmly in Bhandara today?,get_weather
+Can I expect rain during the weekend in Shimoga?,get_weather
+Is the weather suitable for outdoor activities in Kharagpur?,get_weather
+How’s the weather looking for tomorrow in Shimoga?,get_weather
+What's the weather trend in Matheran for the next few days?,get_weather
+Should I expect showers later today in Jaipur?,get_weather
+Will Vadodara have thunderstorms today?,get_weather
+Tell me if it's overcast in Phaltan today,get_weather
+Should I expect snow in Tumakuru this week?,get_weather
+Do I need to carry a raincoat in Rajkot today?,get_weather
+What will the weather be like in Nagercoil tonight?,get_weather
+Does Durgapur have clear skies today?,get_weather
+What’s the UV index in Gurugram today?,get_weather
+Check the air quality in Visakhapatnam right now,get_weather
+Should I expect showers later today in Yavatmal?,get_weather
+How’s the wind chill in Tiruchirappalli right now?,get_weather
+Is it cloudy in Ahmedabad now?,get_weather
+Will it rain in Madurai today?,get_weather
+Will there be snow flurries in Khammam today?,get_weather
+How’s the wind chill in Ambarnath right now?,get_weather
+Is it foggy in Yavatmal this morning?,get_weather
+Let me know if it's raining in Baramati,get_weather
+Will it be hot in Warangal during the day?,get_weather
+Is Nainital going to be chilly tomorrow?,get_weather
+What kind of weather should I expect in Ulhasnagar this weekend?,get_weather
+What’s the five-day forecast for Kalyan?,get_weather
+What’s the five-day forecast for Boisar?,get_weather
+Is Kolhapur experiencing a heatwave?,get_weather
+Will there be sunshine all day in Tirunelveli?,get_weather
+Give me the weather report for Aizawl,get_weather
+Can I expect rain during the weekend in Dibrugarh?,get_weather
+Tell me if Roorkee is having good weather today,get_weather
+How warm is it going to be in Kudal this afternoon?,get_weather
+Is it safe to travel in Bareilly right now weather-wise?,get_weather
+How's the weather today in Kochi?,get_weather
+Will it be hot in Aligarh during the day?,get_weather
+How's the weather today in Jagdalpur?,get_weather
+Will it rain in Faridabad today?,get_weather
+Will there be snow flurries in Ambarnath today?,get_weather
+Let me know if it's raining in Jabalpur,get_weather
+Can you show me hourly temperature updates in Meerut?,get_weather
+Is it cold in Aurangabad today?,get_weather
+Will it be clear or rainy in Nagpur this evening?,get_weather
+Is Jabalpur experiencing a heatwave?,get_weather
+Will it be windy in Dibrugarh today?,get_weather
+Will the skies be clear in Karimnagar tonight?,get_weather
+Will the skies be clear in Kochi tonight?,get_weather
+Let me know if it's raining in Haldwani,get_weather
+What’s the high and low temperature in Surat today?,get_weather
+Will there be a storm in Silchar today?,get_weather
+Is it cold in Matheran today?,get_weather
+Give me the weather report for Varanasi,get_weather
+Check tomorrow’s forecast for Jamshedpur,get_weather
+Will it be hot in Jabalpur during the day?,get_weather
+Is the weather suitable for outdoor activities in Bilaspur?,get_weather
+Is the weather suitable for outdoor activities in Khammam?,get_weather
+Do I need to dress warmly in Gwalior today?,get_weather
+How’s the wind chill in Kanpur right now?,get_weather
+How’s the weather shaping up in Mahad this week?,get_weather
+What's the weather trend in Varanasi for the next few days?,get_weather
+Will it be windy in Solapur today?,get_weather
+Is it safe to go for a walk in Dhule right now?,get_weather
+What's the chance of rain in Aurangabad today?,get_weather
+Is it cold in Alibag today?,get_weather
+How’s the temperature fluctuating today in Nandurbar?,get_weather
+How warm is it going to be in Aligarh this afternoon?,get_weather
+Do I need to dress warmly in Rajkot today?,get_weather
+Give me the hourly forecast for Aizawl,get_weather
+What's the temperature in Kota currently?,get_weather
+Can you get me the latest weather update for Nashik?,get_weather
+Is there a chance of hail in Jalgaon today?,get_weather
+Check if it's snowing in Jabalpur,get_weather
+Is it sunny in Gaya right now?,get_weather
+Should I expect fog in Kalyan this morning?,get_weather
+Will there be a storm in Howrah today?,get_weather
+Is the weather suitable for outdoor activities in Matheran?,get_weather
+Is it foggy in Tumakuru this morning?,get_weather
+What’s the wind speed in Jagdalpur currently?,get_weather
+Tell me if it's overcast in Mumbai today,get_weather
+Should I expect snow in Muzaffarpur this week?,get_weather
+Will it be windy in Silchar today?,get_weather
+Can I expect rain during the weekend in Kolhapur?,get_weather
+Do I need to dress warmly in Kolhapur today?,get_weather
+Should I expect fog in Kolkata this morning?,get_weather
+How warm is it going to be in Kalyan this afternoon?,get_weather
+What are the precipitation levels in Aurangabad right now?,get_weather
+Give me the weather report for Ahmedabad,get_weather
+How does the sky look in Hingoli today?,get_weather
+Should I wear a jacket in Ghaziabad today?,get_weather
+Are there any extreme weather conditions in Udupi today?,get_weather
+Can you show me hourly temperature updates in Aurangabad?,get_weather
+Is Durgapur going to be chilly tomorrow?,get_weather
+Will it be clear or rainy in Dhule this evening?,get_weather
+What’s the five-day forecast for Bareilly?,get_weather
+How warm is it going to be in Pune this afternoon?,get_weather
+Is it foggy in Vadodara this morning?,get_weather
+Do I need an umbrella in Darbhanga?,get_weather
+Check if it's snowing in Mangalore,get_weather
+Tell me the weather forecast for Howrah,get_weather
+Give me the forecast for the next few hours in Thiruvananthapuram,get_weather
+Check the air quality in Beed right now,get_weather
+Will it be clear or rainy in Hubbali this evening?,get_weather
+How does the sky look in Aligarh today?,get_weather
+Is it sunny in Chiplun right now?,get_weather
+Is it safe to go for a walk in Hingoli right now?,get_weather
+Will there be a storm in Tirunelveli today?,get_weather
+Do I need sunglasses in Aizawl today?,get_weather
+How warm is it going to be in Nizamabad this afternoon?,get_weather
+Is Dhanbad going to be chilly tomorrow?,get_weather
+Is there a chance of hail in Nashik today?,get_weather
+Can you show me hourly temperature updates in Delhi?,get_weather
+How does the sky look in Dhanbad today?,get_weather
+Check the air quality in Baramati right now,get_weather
+How’s visibility in Warangal right now?,get_weather
+How will the weather be around noon in Ludhiana?,get_weather
+Is the weather suitable for outdoor activities in Ahmedabad?,get_weather
+How humid is it in Kanpur today?,get_weather
+How will the weather be around noon in Durgapur?,get_weather
+What’s the five-day forecast for Parbhani?,get_weather
+Is there a weather warning in Korba?,get_weather
+Check tomorrow’s forecast for Surat,get_weather
+Is it safe to travel in Phaltan right now weather-wise?,get_weather
+Can you tell me if it’s raining in Hyderabad?,get_weather
+How’s visibility in Aurangabad right now?,get_weather
+How's the weather today in Latur?,get_weather
+Will Chennai have thunderstorms today?,get_weather
+Is it sunny in Kolhapur right now?,get_weather
+Should I expect showers later today in Bareilly?,get_weather
+Can you check the current weather status in Roorkee?,get_weather
+Should I wear a jacket in Saharanpur today?,get_weather
+Do I need to dress warmly in Asansol today?,get_weather
+Is there a chance of hail in Nashik today?,get_weather
+Get me the weather conditions for Pune,get_weather
+How’s the wind chill in Begusarai right now?,get_weather
+How’s the weather shaping up in Wardha this week?,get_weather
+Will the skies be clear in Vijayawada tonight?,get_weather
+Should I wear a jacket in Jodhpur today?,get_weather
+Is Hingoli going to be chilly tomorrow?,get_weather
+Tell me the weather forecast for Bhandara,get_weather
+Will it be comfortable outside in Shirdi today?,get_weather
+What will the weather be like in Jodhpur tonight?,get_weather
+Tell me the real-feel temperature in Ranchi,get_weather
+Should I expect snow in Ulhasnagar this week?,get_weather
+Will there be sunshine all day in Ambarnath?,get_weather
+Is Jamshedpur going to be chilly tomorrow?,get_weather
+Update me on the weather conditions in Karjat,get_weather
+Do I need an umbrella in Kolhapur?,get_weather
+Tell me if Coimbatore is having good weather today,get_weather
+Will the skies be clear in Khammam tonight?,get_weather
+What’s the high and low temperature in Howrah today?,get_weather
+Do I need an umbrella in Panvel?,get_weather
+Is Nagpur under a heat advisory?,get_weather
+Is it safe to go for a walk in Itanagar right now?,get_weather
+How’s visibility in Phaltan right now?,get_weather
+Is it cloudy in Mangalore now?,get_weather
+How’s the weather shaping up in Chiplun this week?,get_weather
+How will the weather be around noon in Hingoli?,get_weather
+What's the weather trend in Parbhani for the next few days?,get_weather
+Can you show me hourly temperature updates in Panvel?,get_weather
+What's the chance of rain in Guwahati today?,get_weather
+How’s the wind chill in Korba right now?,get_weather
+Is the weather suitable for outdoor activities in Karjat?,get_weather
+What's the weather like in Badlapur?,get_weather
+How warm is it going to be in Bhopal this afternoon?,get_weather
+Do I need to dress warmly in Phaltan today?,get_weather
+What's the weather trend in Surat for the next few days?,get_weather
+Check if it's snowing in Pune,get_weather
+Is there a weather alert in Pen right now?,get_weather
+Get today’s forecast summary for Bareilly,get_weather
+Will it be hot in Hingoli during the day?,get_weather
+Do I need sunglasses in Hubbali today?,get_weather
+Can you show me hourly temperature updates in Surat?,get_weather
+Will it be windy in Delhi today?,get_weather
+Is Baramati under a heat advisory?,get_weather
+How’s the wind chill in Howrah right now?,get_weather
+Do I need sunglasses in Silchar today?,get_weather
+Do I need to carry a raincoat in Rourkela today?,get_weather
+How does the sky look in Belgaum today?,get_weather
+Do I need to dress warmly in Gangtok today?,get_weather
+Give me the weather report for Raipur,get_weather
+Is Karimnagar under a heat advisory?,get_weather
+Tell me the weather forecast for Muzaffarpur,get_weather
+Will there be sunshine all day in Jabalpur?,get_weather
+Is it cold in Mahad today?,get_weather
+Is it safe to travel in Thiruvananthapuram right now weather-wise?,get_weather
+What's the weather like in Alibag?,get_weather
+Give me the weather report for Imphal,get_weather
+How hot is it in Nagercoil at the moment?,get_weather
+Let me know if it's raining in Itanagar,get_weather
+Can you tell me if it’s raining in Haldwani?,get_weather
+Check if it's snowing in Kota,get_weather
+Will there be snow flurries in Bhubaneswar today?,get_weather
+Should I expect snow in Faridabad this week?,get_weather
+Tell me the weather for the weekend in Mumbai,get_weather
+Do I need sunglasses in Korba today?,get_weather
+What’s the high and low temperature in Dibrugarh today?,get_weather
+Is it safe to travel in Thiruvananthapuram right now weather-wise?,get_weather
+Should I wear a jacket in Ratnagiri today?,get_weather
+Is it safe to travel in Bokaro right now weather-wise?,get_weather
+How does the sky look in Guwahati today?,get_weather
+Is Hubbali experiencing a heatwave?,get_weather
+Are there any extreme weather conditions in Nanded today?,get_weather
+Update me on the weather conditions in Panaji,get_weather
+Should I expect snow in Nagpur this week?,get_weather
+Will the skies be clear in Hingoli tonight?,get_weather
+Check tomorrow’s forecast for Gangtok,get_weather
+Will it be hot in Alibag during the day?,get_weather
+Does Begusarai have clear skies today?,get_weather
+Is Haldwani under a heat advisory?,get_weather
+Is there a weather alert in Tiruchirappalli right now?,get_weather
+Is it safe to travel in Vadodara right now weather-wise?,get_weather
+Tell me if it's overcast in Patna today,get_weather
+What will the weather be like in Kharagpur tonight?,get_weather
+Does Salem have clear skies today?,get_weather
+What are the precipitation levels in Baramati right now?,get_weather
+Can you tell me if it’s raining in Vijayawada?,get_weather
+How's the weather today in Sawantwadi?,get_weather
+Do I need sunglasses in Nashik today?,get_weather
+Will Hyderabad have thunderstorms today?,get_weather
+What will the weather be like in Jagdalpur tonight?,get_weather
+Is Bokaro under any weather advisory right now?,get_weather
+Should I wear a jacket in Dombivli today?,get_weather
+Tell me the real-feel temperature in Gurugram,get_weather
+Is it safe to go for a walk in Haridwar right now?,get_weather
+Is it sunny in Bhopal right now?,get_weather
+Show me today's weather in Ahmednagar,get_weather
+Will it be windy in Kudal today?,get_weather
+Does Aizawl have clear skies today?,get_weather
+Let me know if it's raining in Varanasi,get_weather
+What are the precipitation levels in Shrivardhan right now?,get_weather
+How's the air pressure in Akola currently?,get_weather
+Is Mumbai under a heat advisory?,get_weather
+Will it be comfortable outside in Erode today?,get_weather
+What’s the wind speed in Dhanbad currently?,get_weather
+What will the weather be like in Varanasi tonight?,get_weather
+Do I need sunglasses in Thanjavur today?,get_weather
+Will it be windy in Hyderabad today?,get_weather
+Can you check the current weather status in Shimoga?,get_weather
+How warm is it going to be in Jaipur this afternoon?,get_weather
+How does the sky look in Sangli today?,get_weather
+Will it be hot in Aurangabad during the day?,get_weather
+How’s the weather shaping up in Kochi this week?,get_weather
+How's the weather today in Raipur?,get_weather
+Tell me the weather forecast for Satara,get_weather
+Can you check the current weather status in Haldwani?,get_weather
+How's the weather today in Hingoli?,get_weather
+What's the chance of rain in Agartala today?,get_weather
+Will it rain in Gondia today?,get_weather
+Can you check the current weather status in Pen?,get_weather
+How's the air pressure in Dehradun currently?,get_weather
+Give me the forecast for the next few hours in Kharagpur,get_weather
+Should I expect snow in Nanded this week?,get_weather
+Tell me the real-feel temperature in Aurangabad,get_weather
+Get today’s forecast summary for Sawantwadi,get_weather
+How’s the wind chill in Dibrugarh right now?,get_weather
+Tell me the weather for the weekend in Lucknow,get_weather
+Tell me the real-feel temperature in Palghar,get_weather
+What’s the UV index in Ratnagiri today?,get_weather
+Is Satara going to be chilly tomorrow?,get_weather
+Can you get me the latest weather update for Tiruchirappalli?,get_weather
+Is Meerut experiencing a heatwave?,get_weather
+What’s the wind speed in Meerut currently?,get_weather
+Will it be clear or rainy in Indore this evening?,get_weather
+How warm is it going to be in Prayagraj this afternoon?,get_weather
+Do I need an umbrella in Tumakuru?,get_weather
+Will the skies be clear in Nagpur tonight?,get_weather
+Give me the hourly forecast for Osmanabad,get_weather
+What's the chance of rain in Jagdalpur today?,get_weather
+What's the temperature in Ahmedabad currently?,get_weather
+Can you check the current weather status in Meerut?,get_weather
+How hot is it in Howrah at the moment?,get_weather
+Get me the weather conditions for Agartala,get_weather
+Can you get me the latest weather update for Salem?,get_weather
+What’s the high and low temperature in Wardha today?,get_weather
+Is there a weather warning in Hubbali?,get_weather
+Is it safe to go for a walk in Nandurbar right now?,get_weather
+What's the temperature in Bilaspur currently?,get_weather
+Is it safe to travel in Gangtok right now weather-wise?,get_weather
+Do I need to dress warmly in Phaltan today?,get_weather
+Will it be comfortable outside in Ranchi today?,get_weather
+Check the air quality in Roha right now,get_weather
+How’s visibility in Surat right now?,get_weather
+How humid is it in Durgapur today?,get_weather
+Can you show me hourly temperature updates in Vasai?,get_weather
+Can you show me hourly temperature updates in Darbhanga?,get_weather
+Will it be windy in Guwahati today?,get_weather
+How hot is it in Nainital at the moment?,get_weather
+How warm is it going to be in Shirdi this afternoon?,get_weather
+Is it foggy in Tezpur this morning?,get_weather
+Give me the weather report for Varanasi,get_weather
+Do I need an umbrella in Bokaro?,get_weather
+What are the precipitation levels in Thiruvananthapuram right now?,get_weather
+Is it safe to go for a walk in Nashik right now?,get_weather
+Will Ratnagiri have thunderstorms today?,get_weather
+Check tomorrow’s forecast for Darbhanga,get_weather
+Should I wear a jacket in Nashik today?,get_weather
+Tell me the weather for the weekend in Gorakhpur,get_weather
+Will there be snow flurries in Nizamabad today?,get_weather
+Check the air quality in Solapur right now,get_weather
+How's the weather expected to be in Jamshedpur this evening?,get_weather
+Let me know if it's raining in Patna,get_weather
+Is Muzaffarpur under any weather advisory right now?,get_weather
+Is there a chance of hail in Amritsar today?,get_weather
+What’s the five-day forecast for Nashik?,get_weather
+What’s the high and low temperature in Durgapur today?,get_weather
+Tell me the weather for the weekend in Ahmedabad,get_weather
+Is it sunny in Patna right now?,get_weather
+Is Haldwani going to be chilly tomorrow?,get_weather
+Will there be snow flurries in Jodhpur today?,get_weather
+Show me today's weather in Baramati,get_weather
+Do I need to dress warmly in Gwalior today?,get_weather
+Tell me the weather forecast for Badlapur,get_weather
+Should I expect fog in Roha this morning?,get_weather
+Tell me the real-feel temperature in Shillong,get_weather
+Check the air quality in Mangalore right now,get_weather
+How hot is it in Amravati at the moment?,get_weather
+Is it safe to travel in Raipur right now weather-wise?,get_weather
+How will the weather be around noon in Ghaziabad?,get_weather
+Can you tell me if it’s raining in Gurugram?,get_weather
+Is Bareilly under a heat advisory?,get_weather
+Do I need to dress warmly in Chennai today?,get_weather
+Should I expect snow in Mysuru this week?,get_weather
+Tell me if it's overcast in Saharanpur today,get_weather
+What's the temperature in Nagercoil currently?,get_weather
+How's the air pressure in Boisar currently?,get_weather
+Check the air quality in Roha right now,get_weather
+Update me on the weather conditions in Asansol,get_weather
+Are there any extreme weather conditions in Hingoli today?,get_weather
+How's the weather expected to be in Ghaziabad this evening?,get_weather
+Should I expect snow in Kudal this week?,get_weather
+Do I need sunglasses in Bokaro today?,get_weather
+Check the air quality in Haldwani right now,get_weather
+Tell me the real-feel temperature in Bilaspur,get_weather
+Tell me the weather for the weekend in Kolhapur,get_weather
+What’s the UV index in Nagpur today?,get_weather
+How’s the weather looking for tomorrow in Itanagar?,get_weather
+Is it safe to go for a walk in Noida right now?,get_weather
+Do I need an umbrella in Mangalore?,get_weather
+Is Bhandara going to be chilly tomorrow?,get_weather
+Tell me if it's overcast in Belgaum today,get_weather
+Can you get me the latest weather update for Yavatmal?,get_weather
+Is there a weather warning in Alibag?,get_weather
+Can I expect rain during the weekend in Osmanabad?,get_weather
+Is Prayagraj under any weather advisory right now?,get_weather
+What’s the five-day forecast for Alibag?,get_weather
+What's the weather like in Pune?,get_weather
+How’s the weather shaping up in Bhubaneswar this week?,get_weather
+Will there be sunshine all day in Prayagraj?,get_weather
+How hot is it in Shrivardhan at the moment?,get_weather
+How's the air pressure in Delhi currently?,get_weather
+Is there a weather alert in Bhubaneswar right now?,get_weather
+Will the skies be clear in Satara tonight?,get_weather
+Is Jalgaon experiencing a heatwave?,get_weather
+Will there be snow flurries in Khammam today?,get_weather
+Is Imphal under any weather advisory right now?,get_weather
+Let me know if it's raining in Thiruvananthapuram,get_weather
+What’s the UV index in Pune today?,get_weather
+Is the weather suitable for outdoor activities in Wardha?,get_weather
+Tell me the weather for the weekend in Varanasi,get_weather
+Show me today's weather in Salem,get_weather
+What’s the five-day forecast for Panvel?,get_weather
+Give me the hourly forecast for Surat,get_weather
+How's the weather today in Noida?,get_weather
+How hot is it in Bhubaneswar at the moment?,get_weather
+Check tomorrow’s forecast for Satara,get_weather
+Should I wear a jacket in Kharagpur today?,get_weather
+Get me the weather conditions for Shrivardhan,get_weather
+Should I expect snow in Rourkela this week?,get_weather
+Is Boisar going to be chilly tomorrow?,get_weather
+Can you tell me if it’s raining in Pen?,get_weather
+Will it be windy in Jamshedpur today?,get_weather
+What's the weather like in Gondia?,get_weather
+Can you show me hourly temperature updates in Virar?,get_weather
+Is it cloudy in Agartala now?,get_weather
+How hot is it in Ambarnath at the moment?,get_weather
+Is it cold in Pune today?,get_weather
+Do I need an umbrella in Warangal?,get_weather
+Will it rain in Vasai today?,get_weather
+Is it cold in Dhule today?,get_weather
+Should I expect fog in Latur this morning?,get_weather
+How’s the wind chill in Jamshedpur right now?,get_weather
+How's the weather expected to be in Patna this evening?,get_weather
+Get today’s forecast summary for Hyderabad,get_weather
+Will there be snow flurries in Bokaro today?,get_weather
+Should I expect showers later today in Raipur?,get_weather
+Will it be clear or rainy in Jamshedpur this evening?,get_weather
+Check tomorrow’s forecast for Tiruchirappalli,get_weather
+Is there a chance of hail in Shimoga today?,get_weather
+Will there be snow flurries in Wardha today?,get_weather
+Is it cold in Aligarh today?,get_weather
+Tell me the weather forecast for Osmanabad,get_weather
+Will there be sunshine all day in Amritsar?,get_weather
+Tell me if it's overcast in Aurangabad today,get_weather
+Tell me the weather forecast for Vasai,get_weather
+How’s the temperature fluctuating today in Meerut?,get_weather
+Will the skies be clear in Pen tonight?,get_weather
+Give me the forecast for the next few hours in Gwalior,get_weather
+Check the air quality in Kharagpur right now,get_weather
+Is Shrivardhan under a heat advisory?,get_weather
+Get me the weather conditions for Satara,get_weather
+How’s the wind chill in Ranchi right now?,get_weather
+How's the weather today in Yavatmal?,get_weather
+Will it be hot in Hubbali during the day?,get_weather
+Is Bhandara going to be chilly tomorrow?,get_weather
+How’s visibility in Vadodara right now?,get_weather
+How’s the wind chill in Nizamabad right now?,get_weather
+Is there a weather alert in Jaipur right now?,get_weather
+Can you tell me if it’s raining in Warangal?,get_weather
+Will there be sunshine all day in Sawantwadi?,get_weather
+Check the air quality in Akola right now,get_weather
+Check if it's snowing in Hyderabad,get_weather
+Check tomorrow’s forecast for Shimoga,get_weather
+How's the weather expected to be in Surat this evening?,get_weather
+Will it be comfortable outside in Prayagraj today?,get_weather
+Do I need to dress warmly in Kochi today?,get_weather
+Can you show me hourly temperature updates in Shirdi?,get_weather
+Will it be clear or rainy in Patna this evening?,get_weather
+Is it safe to go for a walk in Ambarnath right now?,get_weather
+Should I wear a jacket in Noida today?,get_weather
+What will the weather be like in Boisar tonight?,get_weather
+Will it be windy in Gurugram today?,get_weather
+How’s the weather looking for tomorrow in Surat?,get_weather
+Can you check the current weather status in Salem?,get_weather
+How’s the weather shaping up in Mangalore this week?,get_weather
+Check the air quality in Karimnagar right now,get_weather
+Let me know if it's raining in Kolhapur,get_weather
+Is there a weather alert in Mysuru right now?,get_weather
+How does the sky look in Aurangabad today?,get_weather
+Is it safe to go for a walk in Mahad right now?,get_weather
+Update me on the weather conditions in Roha,get_weather
+How’s the weather looking for tomorrow in Panaji?,get_weather
+Is there a chance of hail in Shimoga today?,get_weather
+How’s the wind chill in Meerut right now?,get_weather
+Tell me if it's overcast in Pune today,get_weather
+What's the chance of rain in Visakhapatnam today?,get_weather
+Is Delhi experiencing a heatwave?,get_weather
+Is it cold in Matheran today?,get_weather
+Can you show me hourly temperature updates in Muzaffarpur?,get_weather
+How hot is it in Udupi at the moment?,get_weather
+Do I need an umbrella in Amritsar?,get_weather
+Do I need sunglasses in Amritsar today?,get_weather
+Give me the forecast for the next few hours in Surat,get_weather
+Update me on the weather conditions in Kalyan,get_weather
+How’s the weather looking for tomorrow in Nainital?,get_weather
+How's the air pressure in Hyderabad currently?,get_weather
+Will the skies be clear in Aligarh tonight?,get_weather
+Tell me the weather forecast for Vasai,get_weather
+What kind of weather should I expect in Panvel this weekend?,get_weather
+Let me know if it's raining in Nainital,get_weather
+Tell me the weather forecast for Bhopal,get_weather
+How’s the weather shaping up in Durgapur this week?,get_weather
+Tell me the real-feel temperature in Faridabad,get_weather
+Will there be sunshine all day in Jaipur?,get_weather
+How does the sky look in Dombivli today?,get_weather
+Give me the hourly forecast for Karimnagar,get_weather
+Will it be comfortable outside in Nanded today?,get_weather
+What's the weather outlook for Bhubaneswar?,get_weather
+What are the precipitation levels in Dombivli right now?,get_weather
+Is there a weather warning in Pen?,get_weather
+Check the air quality in Kharagpur right now,get_weather
+Get me the weather conditions for Belgaum,get_weather
+Can you show me hourly temperature updates in Jaipur?,get_weather
+Will it be windy in Ranchi today?,get_weather
+Is Hubbali under a heat advisory?,get_weather
+Do I need an umbrella in Belgaum?,get_weather
+Will Visakhapatnam have thunderstorms today?,get_weather
+Will there be sunshine all day in Chiplun?,get_weather
+Do I need to carry a raincoat in Aurangabad today?,get_weather
+Tell me if Tumakuru is having good weather today,get_weather
+What will the weather be like in Darbhanga tonight?,get_weather
+Is Dhule under a heat advisory?,get_weather
+Is Sangli under any weather advisory right now?,get_weather
+Will it rain in Pen today?,get_weather
+Is Muzaffarpur under a heat advisory?,get_weather
+Will there be sunshine all day in Karimnagar?,get_weather
+Is it safe to go for a walk in Prayagraj right now?,get_weather
+How hot is it in Kolhapur at the moment?,get_weather
+Is Nagpur under any weather advisory right now?,get_weather
+Should I wear a jacket in Aurangabad today?,get_weather
+What's the weather outlook for Ghaziabad?,get_weather
+Is it safe to travel in Pune right now weather-wise?,get_weather
+How's the weather today in Panvel?,get_weather
+What's the temperature in Mahad currently?,get_weather
+Will Kota have thunderstorms today?,get_weather
+How's the air pressure in Nandurbar currently?,get_weather
+Is the weather suitable for outdoor activities in Haridwar?,get_weather
+What's the chance of rain in Dibrugarh today?,get_weather
+Will there be snow flurries in Osmanabad today?,get_weather
+What's the weather trend in Imphal for the next few days?,get_weather
+What are the precipitation levels in Karimnagar right now?,get_weather
+Is there a weather warning in Kochi?,get_weather
+Is Rourkela experiencing a heatwave?,get_weather
+Will it be comfortable outside in Shillong today?,get_weather
+Give me the forecast for the next few hours in Hingoli,get_weather
+Give me the forecast for the next few hours in Gangtok,get_weather
+How’s the weather looking for tomorrow in Kharagpur?,get_weather
+Will there be a storm in Vadodara today?,get_weather
+How hot is it in Patna at the moment?,get_weather
+Can you get me the latest weather update for Nandurbar?,get_weather
+How's the air pressure in Chandigarh currently?,get_weather
+What's the chance of rain in Kolkata today?,get_weather
+Can you tell me if it’s raining in Ambarnath?,get_weather
+Is there a weather warning in Bhubaneswar?,get_weather
+Will there be sunshine all day in Karjat?,get_weather
+Do I need sunglasses in Aizawl today?,get_weather
+Are there any extreme weather conditions in Phaltan today?,get_weather
+How will the weather be around noon in Gangtok?,get_weather
+What are the precipitation levels in Faridabad right now?,get_weather
+What’s the wind speed in Visakhapatnam currently?,get_weather
+Do I need sunglasses in Khammam today?,get_weather
+Is there a chance of hail in Amritsar today?,get_weather
+Tell me if it's overcast in Baramati today,get_weather
+What’s the UV index in Prayagraj today?,get_weather
+Is it foggy in Latur this morning?,get_weather
+How warm is it going to be in Chennai this afternoon?,get_weather
+Tell me the real-feel temperature in Phaltan,get_weather
+How humid is it in Ranchi today?,get_weather
+Will Boisar have thunderstorms today?,get_weather
+Is it cloudy in Bhubaneswar now?,get_weather
+What are the precipitation levels in Tumakuru right now?,get_weather
+Is Amritsar experiencing a heatwave?,get_weather
+Give me the weather report for Kanpur,get_weather
+How’s the wind chill in Saharanpur right now?,get_weather
+Tell me the real-feel temperature in Korba,get_weather
+Give me the weather report for Nizamabad,get_weather
+Should I expect fog in Shirdi this morning?,get_weather
+How does the sky look in Osmanabad today?,get_weather
+How does the sky look in Sawantwadi today?,get_weather
+Is it cold in Wardha today?,get_weather
+Give me the hourly forecast for Kudal,get_weather
+How's the air pressure in Wardha currently?,get_weather
+How’s the weather looking for tomorrow in Rourkela?,get_weather
+How will the weather be around noon in Shimoga?,get_weather
+Can you tell me if it’s raining in Chiplun?,get_weather
+Will the skies be clear in Aurangabad tonight?,get_weather
+How’s the weather shaping up in Beed this week?,get_weather
+Is it cold in Alibag today?,get_weather
+How's the weather today in Rourkela?,get_weather
+How humid is it in Nanded today?,get_weather
+What’s the five-day forecast for Kolhapur?,get_weather
+Can you check the current weather status in Boisar?,get_weather
+Can you check the current weather status in Kolhapur?,get_weather
+Can you check the current weather status in Dibrugarh?,get_weather
+Will it be clear or rainy in Ulhasnagar this evening?,get_weather
+Is the weather suitable for outdoor activities in Panvel?,get_weather
+Will it be comfortable outside in Indore today?,get_weather
+What will the weather be like in Siliguri tonight?,get_weather
+Check tomorrow’s forecast for Bilaspur,get_weather
+What's the weather trend in Gorakhpur for the next few days?,get_weather
+Will it rain in Wardha today?,get_weather
+Will there be sunshine all day in Mysuru?,get_weather
+How does the sky look in Siliguri today?,get_weather
+Do I need to carry a raincoat in Coimbatore today?,get_weather
+How’s visibility in Thanjavur right now?,get_weather
+How’s the weather looking for tomorrow in Bokaro?,get_weather
+Can you check the current weather status in Udaipur?,get_weather
+Will there be snow flurries in Begusarai today?,get_weather
+Do I need sunglasses in Hyderabad today?,get_weather
+What's the weather outlook for Osmanabad?,get_weather
+Will it rain in Gangtok today?,get_weather
+Tell me the weather forecast for Tiruchirappalli,get_weather
+Is Shimoga under any weather advisory right now?,get_weather
+Get today’s forecast summary for Kochi,get_weather
+How’s the temperature fluctuating today in Aurangabad?,get_weather
+Should I expect showers later today in Yavatmal?,get_weather
+How’s the weather looking for tomorrow in Hyderabad?,get_weather
+Do I need to dress warmly in Nandurbar today?,get_weather
+Will Hyderabad have thunderstorms today?,get_weather
+How hot is it in Nanded at the moment?,get_weather
+Will there be sunshine all day in Lucknow?,get_weather
+Tell me if it's overcast in Delhi today,get_weather
+Give me the forecast for the next few hours in Bangalore,get_weather
+How's the weather today in Chennai?,get_weather
+Is Visakhapatnam under a heat advisory?,get_weather
+Is it foggy in Roorkee this morning?,get_weather
+Tell me the weather for the weekend in Aurangabad,get_weather
+How's the weather today in Dibrugarh?,get_weather
+What's the weather like in Tezpur?,get_weather
+Is Nagpur experiencing a heatwave?,get_weather
+Are there any extreme weather conditions in Mumbai today?,get_weather
+Can you get me the latest weather update for Gondia?,get_weather
+What's the weather like in Jalgaon?,get_weather
+Is there a weather alert in Nanded right now?,get_weather
+Is there a weather alert in Meerut right now?,get_weather
+How's the weather today in Vijayawada?,get_weather
+Check tomorrow’s forecast for Palghar,get_weather
+Tell me if Solapur is having good weather today,get_weather
+Update me on the weather conditions in Warangal,get_weather
+Will Siliguri have thunderstorms today?,get_weather
+What's the weather trend in Haridwar for the next few days?,get_weather
+Are there any extreme weather conditions in Visakhapatnam today?,get_weather
+How warm is it going to be in Shimoga this afternoon?,get_weather
+Will there be a storm in Mumbai today?,get_weather
+Should I expect showers later today in Ahmedabad?,get_weather
+Give me the hourly forecast for Pune,get_weather
+What's the weather like in Belgaum?,get_weather
+Will it be windy in Rourkela today?,get_weather
+Is the weather suitable for outdoor activities in Itanagar?,get_weather
+Will the skies be clear in Tezpur tonight?,get_weather
+How warm is it going to be in Ratnagiri this afternoon?,get_weather
+Does Karjat have clear skies today?,get_weather
+Is it foggy in Nagpur this morning?,get_weather
+Will Delhi have thunderstorms today?,get_weather
+Is Hyderabad under a heat advisory?,get_weather
+Is Pen under a heat advisory?,get_weather
+How's the weather today in Meerut?,get_weather
+Will there be sunshine all day in Beed?,get_weather
+Will it rain in Roha today?,get_weather
+What’s the five-day forecast for Nagpur?,get_weather
+Are there any extreme weather conditions in Saharanpur today?,get_weather
+Should I expect snow in Nagpur this week?,get_weather
+How’s visibility in Nagpur right now?,get_weather
+Will there be sunshine all day in Itanagar?,get_weather
+What's the temperature in Aurangabad currently?,get_weather
+Will it be clear or rainy in Patna this evening?,get_weather
+Let me know if it's raining in Kochi,get_weather
+Is it foggy in Virar this morning?,get_weather
+Tell me if it's overcast in Varanasi today,get_weather
+Tell me the weather forecast for Nagpur,get_weather
+How will the weather be around noon in Tiruchirappalli?,get_weather
+Tell me the real-feel temperature in Nainital,get_weather
+Can you show me hourly temperature updates in Chandigarh?,get_weather
+Will there be a storm in Mumbai today?,get_weather
+Will it be windy in Gangtok today?,get_weather
+What kind of weather should I expect in Aurangabad this weekend?,get_weather
+What's the weather trend in Madurai for the next few days?,get_weather
+How humid is it in Chandrapur today?,get_weather
+Give me the forecast for the next few hours in Sangli,get_weather
+How’s the temperature fluctuating today in Kudal?,get_weather
+Is there a weather warning in Tezpur?,get_weather
+How’s the wind chill in Haldwani right now?,get_weather
+Check the air quality in Salem right now,get_weather
+How's the air pressure in Osmanabad currently?,get_weather
+Will it be clear or rainy in Rourkela this evening?,get_weather
+Should I wear a jacket in Mysuru today?,get_weather
+How will the weather be around noon in Asansol?,get_weather
+Will it be clear or rainy in Varanasi this evening?,get_weather
+Will Muzaffarpur have thunderstorms today?,get_weather
+Are there any extreme weather conditions in Meerut today?,get_weather
+Will the skies be clear in Shirdi tonight?,get_weather
+What's the weather trend in Udaipur for the next few days?,get_weather
+Is Muzaffarpur under a heat advisory?,get_weather
+Is the weather suitable for outdoor activities in Raipur?,get_weather
+What’s the five-day forecast for Mumbai?,get_weather
+Can you check the current weather status in Alibag?,get_weather
+How will the weather be around noon in Osmanabad?,get_weather
+Check the air quality in Nainital right now,get_weather
+Will it be windy in Kudal today?,get_weather
+What’s the UV index in Phaltan today?,get_weather
+Give me the forecast for the next few hours in Nagpur,get_weather
+Will there be sunshine all day in Aizawl?,get_weather
+Should I expect snow in Madurai this week?,get_weather
+Is it cloudy in Coimbatore now?,get_weather
+What's the weather outlook for Karjat?,get_weather
+Is Sawantwadi experiencing a heatwave?,get_weather
+Will there be sunshine all day in Nagpur?,get_weather
+Is there a weather alert in Raipur right now?,get_weather
+Can you get me the latest weather update for Silchar?,get_weather
+Is it sunny in Durgapur right now?,get_weather
+Tell me the weather forecast for Yavatmal,get_weather
+How will the weather be around noon in Vasai?,get_weather
+Tell me if it's overcast in Kharagpur today,get_weather
+Will the skies be clear in Solapur tonight?,get_weather
+How’s visibility in Gondia right now?,get_weather
+Update me on the weather conditions in Thanjavur,get_weather
+What will the weather be like in Kharagpur tonight?,get_weather
+Tell me if it's overcast in Moradabad today,get_weather
+Does Haldwani have clear skies today?,get_weather
+What's the weather trend in Dombivli for the next few days?,get_weather
+Will it be windy in Shimoga today?,get_weather
+Will it be hot in Gwalior during the day?,get_weather
+Should I expect showers later today in Kolhapur?,get_weather
+Give me the hourly forecast for Dibrugarh,get_weather
+Will the skies be clear in Dhanbad tonight?,get_weather
+Is Nagpur under any weather advisory right now?,get_weather
+How’s the temperature fluctuating today in Karjat?,get_weather
+How’s the wind chill in Matheran right now?,get_weather
+Will it be hot in Madurai during the day?,get_weather
+Do I need an umbrella in Osmanabad?,get_weather
+Is Gwalior experiencing a heatwave?,get_weather
+Does Imphal have clear skies today?,get_weather
+Should I expect showers later today in Prayagraj?,get_weather
+Give me the hourly forecast for Bhubaneswar,get_weather
+Do I need an umbrella in Osmanabad?,get_weather
+Can I expect rain during the weekend in Bilaspur?,get_weather
+How will the weather be around noon in Dibrugarh?,get_weather
+Should I expect fog in Muzaffarpur this morning?,get_weather
+What’s the wind speed in Pune currently?,get_weather
+Will it be clear or rainy in Ghaziabad this evening?,get_weather
+Get today’s forecast summary for Jamshedpur,get_weather
+How warm is it going to be in Howrah this afternoon?,get_weather
+Will Solapur have thunderstorms today?,get_weather
+Is there a weather alert in Ranchi right now?,get_weather
+Tell me the real-feel temperature in Roorkee,get_weather
+Will Gorakhpur have thunderstorms today?,get_weather
+How’s visibility in Sawantwadi right now?,get_weather
+Will it be hot in Gurugram during the day?,get_weather
+Will there be snow flurries in Agartala today?,get_weather
+What’s the UV index in Coimbatore today?,get_weather
+Check the air quality in Pune right now,get_weather
+How's the air pressure in Coimbatore currently?,get_weather
+Is it safe to travel in Delhi right now weather-wise?,get_weather
+How’s the temperature fluctuating today in Pen?,get_weather
+Is Kalyan under a heat advisory?,get_weather
+Get today’s forecast summary for Nashik,get_weather
+Are there any extreme weather conditions in Shillong today?,get_weather
+Check tomorrow’s forecast for Boisar,get_weather
+How will the weather be around noon in Darbhanga?,get_weather
+How warm is it going to be in Kalyan this afternoon?,get_weather
+What are the precipitation levels in Dibrugarh right now?,get_weather
+What's the weather trend in Tirunelveli for the next few days?,get_weather
+Are there any extreme weather conditions in Shirdi today?,get_weather
+Do I need an umbrella in Tumakuru?,get_weather
+Is there a chance of hail in Bilaspur today?,get_weather
+Do I need to dress warmly in Bokaro today?,get_weather
+What’s the UV index in Salem today?,get_weather
+Is it foggy in Kudal this morning?,get_weather
+Is it cloudy in Aurangabad now?,get_weather
+How's the weather expected to be in Itanagar this evening?,get_weather
+What’s the high and low temperature in Parbhani today?,get_weather
+Is there a chance of hail in Nagpur today?,get_weather
+Do I need sunglasses in Aizawl today?,get_weather

@@ -1,0 +1,1036 @@
+text,intent
+What do people think about this phone on Flipkart?,analyse_product_sentiment
+Can you analyze reviews for the Samsung Galaxy S21?,analyse_product_sentiment
+Tell me if users like this washing machine,analyse_product_sentiment
+What’s the public opinion on this air fryer?,analyse_product_sentiment
+Give me the sentiment summary of this product,analyse_product_sentiment
+Are customers satisfied with this laptop?,analyse_product_sentiment
+Analyze Flipkart reviews for the iPhone 13,analyse_product_sentiment
+Summarize customer feedback for this smartwatch,analyse_product_sentiment
+Do buyers recommend this refrigerator?,analyse_product_sentiment
+How’s the review sentiment for this product?,analyse_product_sentiment
+What are people saying about this DSLR?,analyse_product_sentiment
+Review the sentiment for these headphones,analyse_product_sentiment
+Check if this product has good reviews,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this item,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+Can you check how customers feel about this tablet?,analyse_product_sentiment
+Is this vacuum cleaner getting positive reviews?,analyse_product_sentiment
+Analyze the ratings and feedback for this product,analyse_product_sentiment
+How are people rating this mobile?,analyse_product_sentiment
+Tell me the general opinion about this microwave,analyse_product_sentiment
+Are the reviews for this smartwatch mostly positive or negative?,analyse_product_sentiment
+Give me a quick sentiment analysis for this product,analyse_product_sentiment
+What do customers think about this LED TV?,analyse_product_sentiment
+Check user sentiment on this Bluetooth speaker,analyse_product_sentiment
+What kind of feedback is this fitness band getting?,analyse_product_sentiment
+Summarize the customer sentiment from reviews,analyse_product_sentiment
+Look at the reviews and tell me if this AC is good,analyse_product_sentiment
+Do users like this mixer grinder according to reviews?,analyse_product_sentiment
+Check the overall mood of the reviews for this product,analyse_product_sentiment
+Tell me how people are reacting to this smart TV,analyse_product_sentiment
+"Based on reviews, is this device well-received?",analyse_product_sentiment
+Are buyers happy with this printer?,analyse_product_sentiment
+Give me a review sentiment breakdown for this item,analyse_product_sentiment
+What’s the customer sentiment on this kitchen appliance?,analyse_product_sentiment
+Do reviews show that this device is worth buying?,analyse_product_sentiment
+Can you tell if people are happy with this smart bulb?,analyse_product_sentiment
+Find out the review tone for this noise-cancelling headphones,analyse_product_sentiment
+Tell me if users like this smart scale,analyse_product_sentiment
+Tell me if users like this router,analyse_product_sentiment
+Look up the reviews and tell me if people like this eBook reader,analyse_product_sentiment
+Check what most people are saying about this USB hub,analyse_product_sentiment
+Can you evaluate the review sentiment of this vacuum cleaner?,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this electric scooter,analyse_product_sentiment
+Is this microwave getting good feedback?,analyse_product_sentiment
+Can you list the main points people like or dislike in this smart scale?,analyse_product_sentiment
+Is this Bluetooth headset getting mostly positive reviews?,analyse_product_sentiment
+Analyze if this Bluetooth speaker is mostly liked or disliked,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this robot vacuum,analyse_product_sentiment
+Summarize the Flipkart user opinions for this projector,analyse_product_sentiment
+Check how users have rated this steam iron,analyse_product_sentiment
+Analyze what users are saying about this portable SSD,analyse_product_sentiment
+Fetch sentiment insights about this laptop cooling pad from Flipkart,analyse_product_sentiment
+Analyze what users are saying about this hair straightener,analyse_product_sentiment
+Analyze Flipkart reviews for the portable SSD,analyse_product_sentiment
+How’s the online buzz around this juicer?,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this electric shaver,analyse_product_sentiment
+Check public feedback and rate this washing machine,analyse_product_sentiment
+Can you give a summary of ratings for this tripod stand?,analyse_product_sentiment
+Can you summarize what people are saying about this smart scale?,analyse_product_sentiment
+Find out the review tone for this gaming console,analyse_product_sentiment
+Does this noise-cancelling headphones have a good reputation online?,analyse_product_sentiment
+Summarize the general sentiment for this power bank,analyse_product_sentiment
+Can you analyze reviews for the portable fan?,analyse_product_sentiment
+Analyze what users are saying about this smartwatch,analyse_product_sentiment
+Analyze what users are saying about this air fryer,analyse_product_sentiment
+Give me a review sentiment chart for this security camera,analyse_product_sentiment
+Can you extract opinions from reviews of this smart TV?,analyse_product_sentiment
+Can you check what people feel about this induction cooktop?,analyse_product_sentiment
+Tell me if users like this projector,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this ceiling fan,analyse_product_sentiment
+Give me the user perspective on this humidifier,analyse_product_sentiment
+Summarize customer feedback for this USB hub,analyse_product_sentiment
+How do customers feel about this car dash cam?,analyse_product_sentiment
+Are people enjoying their experience with this air purifier?,analyse_product_sentiment
+Tell me what the crowd thinks about this mixer grinder,analyse_product_sentiment
+Give the average emotion in the reviews of this monitor,analyse_product_sentiment
+Is this washing machine getting mostly positive reviews?,analyse_product_sentiment
+Aggregate Flipkart feedback and tell how this portable SSD performs,analyse_product_sentiment
+Find the customer sentiment score for this smart plug,analyse_product_sentiment
+What’s the word on the street about this vacuum cleaner?,analyse_product_sentiment
+How’s the online buzz around this TV?,analyse_product_sentiment
+Give the average emotion in the reviews of this eBook reader,analyse_product_sentiment
+Are customers satisfied with this tablet?,analyse_product_sentiment
+Check public feedback and rate this fitness tracker,analyse_product_sentiment
+Show me the overall impression of this LED projector,analyse_product_sentiment
+Can you list the main points people like or dislike in this tablet stand?,analyse_product_sentiment
+Tell me the user opinion distribution for this laptop cooling pad,analyse_product_sentiment
+Do buyers recommend this rice cooker?,analyse_product_sentiment
+How’s the review sentiment for this electric shaver?,analyse_product_sentiment
+Tell me what the crowd thinks about this printer,analyse_product_sentiment
+Check public feedback and rate this smart scale,analyse_product_sentiment
+What’s the word on the street about this monitor stand?,analyse_product_sentiment
+Find the customer sentiment score for this gaming chair,analyse_product_sentiment
+Are customers satisfied with this graphics tablet?,analyse_product_sentiment
+Give an insight into how this electric blanket is being reviewed,analyse_product_sentiment
+What are the top sentiments expressed about this DSLR?,analyse_product_sentiment
+Are the reviews for this wireless charger mostly good or bad?,analyse_product_sentiment
+Check public feedback and rate this water purifier,analyse_product_sentiment
+Give me the vibe people have about this DSLR,analyse_product_sentiment
+Check how users have rated this eBook reader,analyse_product_sentiment
+How is this fitness tracker rated by customers?,analyse_product_sentiment
+Give me a review sentiment chart for this gaming console,analyse_product_sentiment
+What do the reviews say about this LED projector?,analyse_product_sentiment
+Do buyers recommend this portable SSD?,analyse_product_sentiment
+Is the public happy with this washing machine?,analyse_product_sentiment
+What’s the public opinion on this screen protector?,analyse_product_sentiment
+What do the reviews say about this monitor?,analyse_product_sentiment
+What are the top sentiments expressed about this TV?,analyse_product_sentiment
+Give the average emotion in the reviews of this gaming mouse,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this printer,analyse_product_sentiment
+"Based on user feedback, is this food processor good?",analyse_product_sentiment
+Give me a snapshot of user reviews for this electric blanket,analyse_product_sentiment
+Can you evaluate the review sentiment of this laptop?,analyse_product_sentiment
+Tell me if users like this washing machine,analyse_product_sentiment
+Is this car dash cam getting good feedback?,analyse_product_sentiment
+What do people think about this smart bulb?,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this coffee machine,analyse_product_sentiment
+What’s the mood in reviews for this eBook reader?,analyse_product_sentiment
+Find the customer sentiment score for this smartwatch,analyse_product_sentiment
+Check what most people are saying about this eBook reader,analyse_product_sentiment
+Aggregate Flipkart feedback and tell how this LED projector performs,analyse_product_sentiment
+Tell if people have a favorable opinion about this ceiling fan,analyse_product_sentiment
+Give the average emotion in the reviews of this mechanical keyboard,analyse_product_sentiment
+Tell me the user opinion distribution for this eBook reader,analyse_product_sentiment
+Can you break down the reviews for this monitor?,analyse_product_sentiment
+Is the public happy with this noise-cancelling headphones?,analyse_product_sentiment
+Are customers satisfied with this eBook reader?,analyse_product_sentiment
+Give an overall rating sentiment for this fitness tracker,analyse_product_sentiment
+Is the public happy with this gaming console?,analyse_product_sentiment
+Do people have positive things to say about this hair dryer?,analyse_product_sentiment
+Give me an analysis of this portable SSD’s reviews,analyse_product_sentiment
+Analyze Flipkart reviews for the hair straightener,analyse_product_sentiment
+Is this eBook reader getting mostly positive reviews?,analyse_product_sentiment
+Give me the vibe people have about this baby monitor,analyse_product_sentiment
+Find out the review tone for this router,analyse_product_sentiment
+Do buyers recommend this gaming mouse?,analyse_product_sentiment
+What are people saying about this gaming keyboard?,analyse_product_sentiment
+Can you evaluate the review sentiment of this headphones?,analyse_product_sentiment
+Summarize customer feedback for this smart scale,analyse_product_sentiment
+Can you give a summary of ratings for this Wi-Fi range extender?,analyse_product_sentiment
+Can you analyze reviews for the smart TV?,analyse_product_sentiment
+Can you tell if people are happy with this rice cooker?,analyse_product_sentiment
+Does this humidifier have a good reputation online?,analyse_product_sentiment
+Analyze what users are saying about this baby monitor,analyse_product_sentiment
+Is this monitor getting mostly positive reviews?,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this air conditioner,analyse_product_sentiment
+Are customers satisfied with this headphones?,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this air fryer,analyse_product_sentiment
+Check what most people are saying about this refrigerator,analyse_product_sentiment
+Analyze what users are saying about this keyboard,analyse_product_sentiment
+Give the average emotion in the reviews of this printer,analyse_product_sentiment
+Can you evaluate the review sentiment of this Bluetooth headset?,analyse_product_sentiment
+Is this external hard drive getting mostly positive reviews?,analyse_product_sentiment
+Summarize what reviewers think about this projector,analyse_product_sentiment
+What do people think about this gaming chair?,analyse_product_sentiment
+Tell me what the crowd thinks about this graphics tablet,analyse_product_sentiment
+Check public feedback and rate this projector,analyse_product_sentiment
+Check what most people are saying about this smart bulb,analyse_product_sentiment
+Is the public happy with this vacuum cleaner?,analyse_product_sentiment
+"Based on user feedback, is this car dash cam good?",analyse_product_sentiment
+Does this washing machine have a good reputation online?,analyse_product_sentiment
+Scan the reviews and tell if this noise-cancelling headphones is well liked,analyse_product_sentiment
+What are the top sentiments expressed about this Bluetooth headset?,analyse_product_sentiment
+Tell me the customer experience of this projector,analyse_product_sentiment
+Is the sentiment toward this mixer grinder mostly neutral?,analyse_product_sentiment
+Check if people are recommending this screen protector,analyse_product_sentiment
+Give me the sentiment summary of this microwave,analyse_product_sentiment
+What themes show up in reviews for this humidifier?,analyse_product_sentiment
+Can you summarize what people are saying about this smart bulb?,analyse_product_sentiment
+Tell me the customer experience of this bread maker,analyse_product_sentiment
+What’s the word on the street about this video doorbell?,analyse_product_sentiment
+Check public feedback and rate this bread maker,analyse_product_sentiment
+Summarize the general sentiment for this screen protector,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this smart plug,analyse_product_sentiment
+Analyze Flipkart reviews for the car dash cam,analyse_product_sentiment
+Can you check what people feel about this 3D printer?,analyse_product_sentiment
+Can you give a summary of ratings for this smartwatch?,analyse_product_sentiment
+Is the sentiment toward this mechanical keyboard mostly neutral?,analyse_product_sentiment
+Give me the sentiment summary of this photo printer,analyse_product_sentiment
+Find out if buyers like this electric kettle,analyse_product_sentiment
+Give a sentiment overview for this portable SSD,analyse_product_sentiment
+Check how users have rated this washing machine,analyse_product_sentiment
+Can you analyze reviews for the hair straightener?,analyse_product_sentiment
+What are the top sentiments expressed about this laptop?,analyse_product_sentiment
+Can you evaluate the review sentiment of this refrigerator?,analyse_product_sentiment
+Give a sentiment overview for this air purifier,analyse_product_sentiment
+What are the top sentiments expressed about this ceiling fan?,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this gaming console,analyse_product_sentiment
+What themes show up in reviews for this mixer grinder?,analyse_product_sentiment
+What’s the public opinion on this tablet stand?,analyse_product_sentiment
+Check how users have rated this 3D printer,analyse_product_sentiment
+Give me a snapshot of user reviews for this action camera,analyse_product_sentiment
+Scrape reviews for this portable fan and analyze the tone,analyse_product_sentiment
+Is this electric blanket getting good feedback?,analyse_product_sentiment
+What are the top sentiments expressed about this portable SSD?,analyse_product_sentiment
+Analyze if this air purifier is mostly liked or disliked,analyse_product_sentiment
+Find the customer sentiment score for this noise-cancelling headphones,analyse_product_sentiment
+Scrape reviews for this smart plug and analyze the tone,analyse_product_sentiment
+Give an overall rating sentiment for this Wi-Fi range extender,analyse_product_sentiment
+Summarize what reviewers think about this smart scale,analyse_product_sentiment
+Give a sentiment overview for this smart scale,analyse_product_sentiment
+Can you give a summary of ratings for this soundbar?,analyse_product_sentiment
+Tell me the customer experience of this fitness tracker,analyse_product_sentiment
+Check what most people are saying about this router,analyse_product_sentiment
+Tell if people have a favorable opinion about this router,analyse_product_sentiment
+Can you analyze reviews for the portable SSD?,analyse_product_sentiment
+Check what most people are saying about this induction cooktop,analyse_product_sentiment
+Can you gather the customer mood about this rice cooker?,analyse_product_sentiment
+Give an overall rating sentiment for this hair straightener,analyse_product_sentiment
+How do users feel overall about this gaming mouse?,analyse_product_sentiment
+Find out if buyers like this fitness tracker,analyse_product_sentiment
+What are the top sentiments expressed about this air fryer?,analyse_product_sentiment
+Give an overall rating sentiment for this TV,analyse_product_sentiment
+Can you evaluate the review sentiment of this headphones?,analyse_product_sentiment
+Look up the reviews and tell me if people like this router,analyse_product_sentiment
+What’s the public opinion on this eBook reader?,analyse_product_sentiment
+Can you gather the customer mood about this eBook reader?,analyse_product_sentiment
+Summarize the Flipkart user opinions for this graphics tablet,analyse_product_sentiment
+Look up the reviews and tell me if people like this gaming keyboard,analyse_product_sentiment
+Analyze if this air conditioner is mostly liked or disliked,analyse_product_sentiment
+Analyze if this headphones is mostly liked or disliked,analyse_product_sentiment
+Look up the reviews and tell me if people like this smart mirror,analyse_product_sentiment
+Does this keyboard have a good reputation online?,analyse_product_sentiment
+How’s the review sentiment for this USB hub?,analyse_product_sentiment
+What’s the public opinion on this smartphone?,analyse_product_sentiment
+Look up the reviews and tell me if people like this air conditioner,analyse_product_sentiment
+Fetch sentiment insights about this gaming keyboard from Flipkart,analyse_product_sentiment
+Are people enjoying their experience with this humidifier?,analyse_product_sentiment
+Give me the sentiment summary of this electric shaver,analyse_product_sentiment
+Can you extract opinions from reviews of this electric kettle?,analyse_product_sentiment
+Analyze if this tripod stand is mostly liked or disliked,analyse_product_sentiment
+Can you list the main points people like or dislike in this mechanical keyboard?,analyse_product_sentiment
+Can you tell if people are happy with this gaming mouse?,analyse_product_sentiment
+Summarize the Flipkart user opinions for this wireless charger,analyse_product_sentiment
+Show me the overall impression of this LED projector,analyse_product_sentiment
+Can you break down the reviews for this air fryer?,analyse_product_sentiment
+Analyze Flipkart reviews for the Wi-Fi range extender,analyse_product_sentiment
+Check if people are recommending this electric blanket,analyse_product_sentiment
+Review the sentiment for these microwave,analyse_product_sentiment
+Can you give a summary of ratings for this smartwatch?,analyse_product_sentiment
+Scan the reviews and tell if this DSLR is well liked,analyse_product_sentiment
+Can you list the main points people like or dislike in this USB hub?,analyse_product_sentiment
+"Based on user feedback, is this tablet stand good?",analyse_product_sentiment
+Give an insight into how this projector is being reviewed,analyse_product_sentiment
+Summarize the general sentiment for this smartwatch,analyse_product_sentiment
+Give the average emotion in the reviews of this air fryer,analyse_product_sentiment
+Can you break down the reviews for this gaming chair?,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this dishwasher,analyse_product_sentiment
+Look up the reviews and tell me if people like this dehumidifier,analyse_product_sentiment
+Can you extract opinions from reviews of this smartphone?,analyse_product_sentiment
+What’s the mood in reviews for this action camera?,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+Can you gather the customer mood about this action camera?,analyse_product_sentiment
+Check if this USB hub has good reviews,analyse_product_sentiment
+What’s the mood in reviews for this fitness tracker?,analyse_product_sentiment
+Give me a review sentiment chart for this monitor,analyse_product_sentiment
+Give me a review sentiment chart for this projector,analyse_product_sentiment
+Are people enjoying their experience with this refrigerator?,analyse_product_sentiment
+Check if this smart TV has good reviews,analyse_product_sentiment
+Tell me what the crowd thinks about this mechanical keyboard,analyse_product_sentiment
+Tell me what the crowd thinks about this gaming chair,analyse_product_sentiment
+How’s the review sentiment for this hair dryer?,analyse_product_sentiment
+What are people saying about this eBook reader?,analyse_product_sentiment
+Summarize the Flipkart user opinions for this electric shaver,analyse_product_sentiment
+Show me the overall impression of this screen protector,analyse_product_sentiment
+Give me an analysis of this smart TV’s reviews,analyse_product_sentiment
+Do buyers recommend this monitor stand?,analyse_product_sentiment
+Summarize the Flipkart user opinions for this laptop,analyse_product_sentiment
+Give a sentiment overview for this photo printer,analyse_product_sentiment
+Do buyers recommend this coffee machine?,analyse_product_sentiment
+How popular is this electric kettle based on reviews?,analyse_product_sentiment
+Give an insight into how this coffee machine is being reviewed,analyse_product_sentiment
+Do people have positive things to say about this refrigerator?,analyse_product_sentiment
+Do people have positive things to say about this juicer?,analyse_product_sentiment
+Do people have positive things to say about this electric blanket?,analyse_product_sentiment
+Do buyers recommend this gaming chair?,analyse_product_sentiment
+How’s the online buzz around this ceiling fan?,analyse_product_sentiment
+Give me the sentiment summary of this smart TV,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+Aggregate Flipkart feedback and tell how this mixer grinder performs,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this toaster,analyse_product_sentiment
+Aggregate Flipkart feedback and tell how this LED projector performs,analyse_product_sentiment
+Check if people are recommending this external hard drive,analyse_product_sentiment
+Is the public happy with this smartphone?,analyse_product_sentiment
+Are customers satisfied with this bread maker?,analyse_product_sentiment
+Check whether customers are happy with this gaming chair,analyse_product_sentiment
+Can you evaluate the review sentiment of this keyboard?,analyse_product_sentiment
+Analyze Flipkart reviews for the USB hub,analyse_product_sentiment
+Summarize the general sentiment for this monitor,analyse_product_sentiment
+Are people enjoying their experience with this Wi-Fi range extender?,analyse_product_sentiment
+Check what most people are saying about this dehumidifier,analyse_product_sentiment
+How do customers feel about this headphones?,analyse_product_sentiment
+Give the average emotion in the reviews of this laptop,analyse_product_sentiment
+Analyze Flipkart reviews for the noise-cancelling headphones,analyse_product_sentiment
+What kind of feedback is this dehumidifier receiving?,analyse_product_sentiment
+Give me the user perspective on this DSLR,analyse_product_sentiment
+Review the sentiment for these mechanical keyboard,analyse_product_sentiment
+Summarize the Flipkart user opinions for this smart scale,analyse_product_sentiment
+How popular is this toaster based on reviews?,analyse_product_sentiment
+Analyze what users are saying about this induction cooktop,analyse_product_sentiment
+How is this LED projector rated by customers?,analyse_product_sentiment
+Are customers satisfied with this monitor stand?,analyse_product_sentiment
+Can you tell if people are happy with this tablet?,analyse_product_sentiment
+Can you evaluate the review sentiment of this dehumidifier?,analyse_product_sentiment
+Show me the overall impression of this graphics tablet,analyse_product_sentiment
+Can you analyze public sentiment on this DSLR?,analyse_product_sentiment
+Can you analyze public sentiment on this dishwasher?,analyse_product_sentiment
+Check public feedback and rate this LED projector,analyse_product_sentiment
+Are people enjoying their experience with this steam iron?,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this humidifier,analyse_product_sentiment
+Can you summarize what people are saying about this gaming chair?,analyse_product_sentiment
+Show me the overall impression of this home theater system,analyse_product_sentiment
+Tell me what the crowd thinks about this washing machine,analyse_product_sentiment
+Can you gather the customer mood about this air fryer?,analyse_product_sentiment
+Can you break down the reviews for this refrigerator?,analyse_product_sentiment
+Give me a review sentiment chart for this water purifier,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this refrigerator,analyse_product_sentiment
+Tell me the user opinion distribution for this soundbar,analyse_product_sentiment
+Find out if buyers like this electric kettle,analyse_product_sentiment
+What are people saying about this photo printer?,analyse_product_sentiment
+What do Flipkart users mostly say about this wireless charger?,analyse_product_sentiment
+Is this 3D printer getting mostly positive reviews?,analyse_product_sentiment
+Review the sentiment for these juicer,analyse_product_sentiment
+Give me a snapshot of user reviews for this smartwatch,analyse_product_sentiment
+Can you analyze public sentiment on this headphones?,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this keyboard,analyse_product_sentiment
+Can you tell if people are happy with this smart bulb?,analyse_product_sentiment
+Find the customer sentiment score for this keyboard,analyse_product_sentiment
+Analyze if this car dash cam is mostly liked or disliked,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this smart plug,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this food processor,analyse_product_sentiment
+What is the sentiment polarity of this noise-cancelling headphones based on reviews?,analyse_product_sentiment
+Tell me the customer experience of this smart bulb,analyse_product_sentiment
+Can you analyze public sentiment on this dehumidifier?,analyse_product_sentiment
+How do users feel overall about this 3D printer?,analyse_product_sentiment
+How do customers feel about this water purifier?,analyse_product_sentiment
+Give the average emotion in the reviews of this wireless charger,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this Bluetooth speaker,analyse_product_sentiment
+Tell me if users like this portable SSD,analyse_product_sentiment
+Summarize the general sentiment for this smart TV,analyse_product_sentiment
+What’s the mood in reviews for this gaming keyboard?,analyse_product_sentiment
+Can you list the main points people like or dislike in this humidifier?,analyse_product_sentiment
+Find out the review tone for this gaming chair,analyse_product_sentiment
+Can you analyze reviews for the Wi-Fi range extender?,analyse_product_sentiment
+Aggregate Flipkart feedback and tell how this video doorbell performs,analyse_product_sentiment
+Do buyers recommend this electric shaver?,analyse_product_sentiment
+Give me a snapshot of user reviews for this air purifier,analyse_product_sentiment
+What is the sentiment polarity of this vacuum cleaner based on reviews?,analyse_product_sentiment
+Scrape reviews for this action camera and analyze the tone,analyse_product_sentiment
+Review the sentiment for these hair dryer,analyse_product_sentiment
+Are customers satisfied with this mixer grinder?,analyse_product_sentiment
+Give me a review sentiment chart for this screen protector,analyse_product_sentiment
+Is the public happy with this portable SSD?,analyse_product_sentiment
+Do people have positive things to say about this laptop?,analyse_product_sentiment
+Give me a snapshot of user reviews for this power bank,analyse_product_sentiment
+What is the sentiment polarity of this smartphone based on reviews?,analyse_product_sentiment
+Give the average emotion in the reviews of this baby monitor,analyse_product_sentiment
+Tell me what the crowd thinks about this headphones,analyse_product_sentiment
+How’s the online buzz around this power bank?,analyse_product_sentiment
+What is the sentiment polarity of this laptop based on reviews?,analyse_product_sentiment
+What is the sentiment polarity of this smart scale based on reviews?,analyse_product_sentiment
+Give me the user perspective on this portable fan,analyse_product_sentiment
+What’s the mood in reviews for this electric shaver?,analyse_product_sentiment
+Can you break down the reviews for this TV?,analyse_product_sentiment
+Show me the overall impression of this dishwasher,analyse_product_sentiment
+Can you give a summary of ratings for this stylus pen?,analyse_product_sentiment
+Can you analyze reviews for the air fryer?,analyse_product_sentiment
+What do the reviews say about this car dash cam?,analyse_product_sentiment
+Does this DSLR have a good reputation online?,analyse_product_sentiment
+How do users feel overall about this tripod stand?,analyse_product_sentiment
+Are people enjoying their experience with this photo printer?,analyse_product_sentiment
+Tell me what the crowd thinks about this air fryer,analyse_product_sentiment
+Give the average emotion in the reviews of this photo printer,analyse_product_sentiment
+Fetch sentiment insights about this Bluetooth headset from Flipkart,analyse_product_sentiment
+Show me the overall impression of this photo printer,analyse_product_sentiment
+Can you analyze reviews for the air purifier?,analyse_product_sentiment
+Show me the overall impression of this juicer,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this USB hub,analyse_product_sentiment
+Tell me what the crowd thinks about this steam iron,analyse_product_sentiment
+How do users feel overall about this smart plug?,analyse_product_sentiment
+Look up the reviews and tell me if people like this portable fan,analyse_product_sentiment
+Can you summarize what people are saying about this juicer?,analyse_product_sentiment
+How is this external hard drive rated by customers?,analyse_product_sentiment
+Is this monitor stand getting mostly positive reviews?,analyse_product_sentiment
+What’s the word on the street about this stylus pen?,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this smartwatch,analyse_product_sentiment
+Find out the review tone for this smart TV,analyse_product_sentiment
+Give me the vibe people have about this hair straightener,analyse_product_sentiment
+Summarize the Flipkart user opinions for this smart bulb,analyse_product_sentiment
+Find the customer sentiment score for this microwave,analyse_product_sentiment
+Summarize the general sentiment for this photo printer,analyse_product_sentiment
+Check public feedback and rate this hair dryer,analyse_product_sentiment
+Is the sentiment toward this keyboard mostly neutral?,analyse_product_sentiment
+Is this gaming console getting mostly positive reviews?,analyse_product_sentiment
+What’s the public opinion on this home theater system?,analyse_product_sentiment
+Find out if buyers like this LED projector,analyse_product_sentiment
+Is this baby monitor getting mostly positive reviews?,analyse_product_sentiment
+What kind of feedback is this router receiving?,analyse_product_sentiment
+Can you list the main points people like or dislike in this Bluetooth speaker?,analyse_product_sentiment
+Check if this smart mirror has good reviews,analyse_product_sentiment
+How is this electric shaver rated by customers?,analyse_product_sentiment
+Can you list the main points people like or dislike in this monitor stand?,analyse_product_sentiment
+Are customers satisfied with this projector?,analyse_product_sentiment
+Is this refrigerator getting good feedback?,analyse_product_sentiment
+Aggregate Flipkart feedback and tell how this Wi-Fi range extender performs,analyse_product_sentiment
+What’s the word on the street about this USB hub?,analyse_product_sentiment
+What do the reviews say about this air fryer?,analyse_product_sentiment
+Tell me if users like this washing machine,analyse_product_sentiment
+Do buyers recommend this ceiling fan?,analyse_product_sentiment
+What is the sentiment polarity of this Bluetooth headset based on reviews?,analyse_product_sentiment
+Give me the sentiment summary of this photo printer,analyse_product_sentiment
+Can you break down the reviews for this smartwatch?,analyse_product_sentiment
+Analyze if this TV is mostly liked or disliked,analyse_product_sentiment
+Tell if people have a favorable opinion about this bread maker,analyse_product_sentiment
+Give the average emotion in the reviews of this smartphone,analyse_product_sentiment
+Tell me what the crowd thinks about this robot vacuum,analyse_product_sentiment
+What’s the public opinion on this portable SSD?,analyse_product_sentiment
+Give me the sentiment summary of this refrigerator,analyse_product_sentiment
+How popular is this smartphone based on reviews?,analyse_product_sentiment
+Summarize the Flipkart user opinions for this stylus pen,analyse_product_sentiment
+What do Flipkart users mostly say about this portable SSD?,analyse_product_sentiment
+Can you analyze public sentiment on this wireless charger?,analyse_product_sentiment
+Can you break down the reviews for this toaster?,analyse_product_sentiment
+Does this smart scale have a good reputation online?,analyse_product_sentiment
+Summarize the general sentiment for this monitor,analyse_product_sentiment
+How do users feel overall about this food processor?,analyse_product_sentiment
+Summarize what reviewers think about this robot vacuum,analyse_product_sentiment
+Can you list the main points people like or dislike in this monitor?,analyse_product_sentiment
+What’s the word on the street about this gaming console?,analyse_product_sentiment
+Summarize the Flipkart user opinions for this vacuum cleaner,analyse_product_sentiment
+Give a sentiment overview for this ceiling fan,analyse_product_sentiment
+Can you check what people feel about this graphics tablet?,analyse_product_sentiment
+Give me the vibe people have about this laptop cooling pad,analyse_product_sentiment
+What do Flipkart users mostly say about this dishwasher?,analyse_product_sentiment
+What are the top sentiments expressed about this video doorbell?,analyse_product_sentiment
+Can you analyze public sentiment on this smart bulb?,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this bread maker,analyse_product_sentiment
+Are the reviews for this hair straightener mostly good or bad?,analyse_product_sentiment
+Does this tablet stand have a good reputation online?,analyse_product_sentiment
+Tell me the customer experience of this car dash cam,analyse_product_sentiment
+Check public feedback and rate this external hard drive,analyse_product_sentiment
+Tell me if users like this juicer,analyse_product_sentiment
+Can you break down the reviews for this dishwasher?,analyse_product_sentiment
+What is the sentiment polarity of this rice cooker based on reviews?,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+How do users feel overall about this smartwatch?,analyse_product_sentiment
+Can you summarize what people are saying about this mixer grinder?,analyse_product_sentiment
+How do customers feel about this rice cooker?,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+Find the customer sentiment score for this air purifier,analyse_product_sentiment
+Tell me what the crowd thinks about this air purifier,analyse_product_sentiment
+What’s the public opinion on this water purifier?,analyse_product_sentiment
+Fetch sentiment insights about this DSLR from Flipkart,analyse_product_sentiment
+Find the customer sentiment score for this printer,analyse_product_sentiment
+How popular is this humidifier based on reviews?,analyse_product_sentiment
+Tell me what the crowd thinks about this hair dryer,analyse_product_sentiment
+Can you give a summary of ratings for this laptop?,analyse_product_sentiment
+Are people enjoying their experience with this DSLR?,analyse_product_sentiment
+"Based on user feedback, is this noise-cancelling headphones good?",analyse_product_sentiment
+What are people saying about this hair dryer?,analyse_product_sentiment
+What’s the public opinion on this ceiling fan?,analyse_product_sentiment
+Tell me the user opinion distribution for this air purifier,analyse_product_sentiment
+How do users feel overall about this soundbar?,analyse_product_sentiment
+Read Flipkart reviews for this gaming keyboard and tell me the sentiment,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+What’s the public opinion on this laptop cooling pad?,analyse_product_sentiment
+Is the sentiment toward this food processor mostly neutral?,analyse_product_sentiment
+What themes show up in reviews for this video doorbell?,analyse_product_sentiment
+How’s the online buzz around this USB hub?,analyse_product_sentiment
+Can you summarize what people are saying about this smart plug?,analyse_product_sentiment
+Tell me the user opinion distribution for this gaming mouse,analyse_product_sentiment
+What kind of feedback is this graphics tablet receiving?,analyse_product_sentiment
+Find out the review tone for this router,analyse_product_sentiment
+How do customers feel about this smart TV?,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+What kind of feedback is this electric blanket receiving?,analyse_product_sentiment
+Analyze if this USB hub is mostly liked or disliked,analyse_product_sentiment
+Summarize what reviewers think about this Wi-Fi range extender,analyse_product_sentiment
+Summarize customer feedback for this smart TV,analyse_product_sentiment
+Analyze what users are saying about this wireless charger,analyse_product_sentiment
+Is the sentiment toward this coffee machine mostly neutral?,analyse_product_sentiment
+What do people think about this coffee machine?,analyse_product_sentiment
+What’s the word on the street about this soundbar?,analyse_product_sentiment
+What do people think about this video doorbell?,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this refrigerator,analyse_product_sentiment
+Scan the reviews and tell if this action camera is well liked,analyse_product_sentiment
+Give me a snapshot of user reviews for this robot vacuum,analyse_product_sentiment
+Find out if buyers like this laptop,analyse_product_sentiment
+Check if people are recommending this Wi-Fi range extender,analyse_product_sentiment
+Check if people are recommending this keyboard,analyse_product_sentiment
+Give me a snapshot of user reviews for this juicer,analyse_product_sentiment
+What is the sentiment polarity of this portable fan based on reviews?,analyse_product_sentiment
+Can you tell if people are happy with this laptop cooling pad?,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this Bluetooth speaker,analyse_product_sentiment
+What do the reviews say about this Bluetooth headset?,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this humidifier,analyse_product_sentiment
+Review the sentiment for these robot vacuum,analyse_product_sentiment
+Give me the sentiment summary of this smart scale,analyse_product_sentiment
+Tell me what the crowd thinks about this projector,analyse_product_sentiment
+What do Flipkart users mostly say about this induction cooktop?,analyse_product_sentiment
+Summarize the Flipkart user opinions for this stylus pen,analyse_product_sentiment
+What are the top sentiments expressed about this keyboard?,analyse_product_sentiment
+Fetch sentiment insights about this monitor from Flipkart,analyse_product_sentiment
+Review the sentiment for these portable fan,analyse_product_sentiment
+Can you analyze public sentiment on this hair dryer?,analyse_product_sentiment
+Tell me the user opinion distribution for this air fryer,analyse_product_sentiment
+Fetch sentiment insights about this tripod stand from Flipkart,analyse_product_sentiment
+Can you evaluate the review sentiment of this gaming mouse?,analyse_product_sentiment
+Scrape reviews for this soundbar and analyze the tone,analyse_product_sentiment
+Are customers satisfied with this portable fan?,analyse_product_sentiment
+Check what most people are saying about this soundbar,analyse_product_sentiment
+Do people have positive things to say about this gaming mouse?,analyse_product_sentiment
+What kind of feedback is this printer receiving?,analyse_product_sentiment
+Summarize what reviewers think about this soundbar,analyse_product_sentiment
+Are customers satisfied with this car dash cam?,analyse_product_sentiment
+Can you analyze public sentiment on this air purifier?,analyse_product_sentiment
+Is the public happy with this projector?,analyse_product_sentiment
+Is this Bluetooth headset getting mostly positive reviews?,analyse_product_sentiment
+Show me the overall impression of this gaming console,analyse_product_sentiment
+Is the public happy with this soundbar?,analyse_product_sentiment
+Give me the user perspective on this DSLR,analyse_product_sentiment
+Give the average emotion in the reviews of this smartphone,analyse_product_sentiment
+Can you evaluate the review sentiment of this headphones?,analyse_product_sentiment
+Check if people are recommending this TV,analyse_product_sentiment
+Check how users have rated this smart scale,analyse_product_sentiment
+Analyze what users are saying about this monitor,analyse_product_sentiment
+Find the customer sentiment score for this smart plug,analyse_product_sentiment
+Can you analyze reviews for the induction cooktop?,analyse_product_sentiment
+Read Flipkart reviews for this monitor stand and tell me the sentiment,analyse_product_sentiment
+Show me the overall impression of this Bluetooth headset,analyse_product_sentiment
+Can you extract opinions from reviews of this tripod stand?,analyse_product_sentiment
+Do buyers recommend this ceiling fan?,analyse_product_sentiment
+Summarize what reviewers think about this gaming chair,analyse_product_sentiment
+Analyze Flipkart reviews for the food processor,analyse_product_sentiment
+Fetch sentiment insights about this video doorbell from Flipkart,analyse_product_sentiment
+How is this action camera rated by customers?,analyse_product_sentiment
+How’s the online buzz around this hair straightener?,analyse_product_sentiment
+Give me an analysis of this car dash cam’s reviews,analyse_product_sentiment
+Can you analyze public sentiment on this baby monitor?,analyse_product_sentiment
+What kind of feedback is this wireless charger receiving?,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+Can you tell if people are happy with this power bank?,analyse_product_sentiment
+Scrape reviews for this mixer grinder and analyze the tone,analyse_product_sentiment
+What do the reviews say about this gaming console?,analyse_product_sentiment
+What themes show up in reviews for this bread maker?,analyse_product_sentiment
+Summarize customer feedback for this water purifier,analyse_product_sentiment
+Can you check what people feel about this gaming console?,analyse_product_sentiment
+Can you analyze reviews for the power bank?,analyse_product_sentiment
+Give the average emotion in the reviews of this induction cooktop,analyse_product_sentiment
+Is this headphones getting mostly positive reviews?,analyse_product_sentiment
+Can you summarize what people are saying about this portable fan?,analyse_product_sentiment
+How do customers feel about this air fryer?,analyse_product_sentiment
+Check what most people are saying about this air fryer,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this soundbar,analyse_product_sentiment
+Can you check what people feel about this USB hub?,analyse_product_sentiment
+Tell me if users like this Wi-Fi range extender,analyse_product_sentiment
+Find out the review tone for this gaming console,analyse_product_sentiment
+Give me the user perspective on this stylus pen,analyse_product_sentiment
+Are customers satisfied with this rice cooker?,analyse_product_sentiment
+Tell me the user opinion distribution for this dehumidifier,analyse_product_sentiment
+Summarize customer feedback for this gaming keyboard,analyse_product_sentiment
+What is the sentiment polarity of this mechanical keyboard based on reviews?,analyse_product_sentiment
+Can you analyze reviews for the Bluetooth headset?,analyse_product_sentiment
+How popular is this electric blanket based on reviews?,analyse_product_sentiment
+How do users feel overall about this Bluetooth speaker?,analyse_product_sentiment
+Do people have positive things to say about this vacuum cleaner?,analyse_product_sentiment
+What themes show up in reviews for this toaster?,analyse_product_sentiment
+Can you evaluate the review sentiment of this video doorbell?,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this electric shaver,analyse_product_sentiment
+Fetch sentiment insights about this noise-cancelling headphones from Flipkart,analyse_product_sentiment
+What do Flipkart users mostly say about this fitness tracker?,analyse_product_sentiment
+Can you list the main points people like or dislike in this gaming console?,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this gaming keyboard,analyse_product_sentiment
+Give a sentiment overview for this water purifier,analyse_product_sentiment
+Is this air conditioner getting good feedback?,analyse_product_sentiment
+Is the sentiment toward this hair dryer mostly neutral?,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this electric blanket,analyse_product_sentiment
+Is this smart bulb getting mostly positive reviews?,analyse_product_sentiment
+Can you analyze public sentiment on this dishwasher?,analyse_product_sentiment
+Tell me the user opinion distribution for this electric scooter,analyse_product_sentiment
+What is the sentiment polarity of this electric blanket based on reviews?,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this screen protector,analyse_product_sentiment
+Do people have positive things to say about this screen protector?,analyse_product_sentiment
+Can you gather the customer mood about this smart mirror?,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this router,analyse_product_sentiment
+How’s the review sentiment for this electric kettle?,analyse_product_sentiment
+Tell if people have a favorable opinion about this graphics tablet,analyse_product_sentiment
+Is this graphics tablet getting good feedback?,analyse_product_sentiment
+Tell if people have a favorable opinion about this video doorbell,analyse_product_sentiment
+Tell me the user opinion distribution for this dishwasher,analyse_product_sentiment
+Fetch sentiment insights about this portable SSD from Flipkart,analyse_product_sentiment
+Find out the review tone for this rice cooker,analyse_product_sentiment
+Give the average emotion in the reviews of this food processor,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+Give me the sentiment summary of this tablet stand,analyse_product_sentiment
+Do people have positive things to say about this smart mirror?,analyse_product_sentiment
+Do people have positive things to say about this Wi-Fi range extender?,analyse_product_sentiment
+Can you tell if people are happy with this smart bulb?,analyse_product_sentiment
+Check if this 3D printer has good reviews,analyse_product_sentiment
+How’s the review sentiment for this wireless charger?,analyse_product_sentiment
+Tell me what the crowd thinks about this photo printer,analyse_product_sentiment
+Can you analyze public sentiment on this tablet?,analyse_product_sentiment
+Are people enjoying their experience with this hair straightener?,analyse_product_sentiment
+Do people have positive things to say about this screen protector?,analyse_product_sentiment
+Is this electric blanket getting mostly positive reviews?,analyse_product_sentiment
+What is the sentiment polarity of this hair straightener based on reviews?,analyse_product_sentiment
+Does this laptop have a good reputation online?,analyse_product_sentiment
+How do customers feel about this smartphone?,analyse_product_sentiment
+Scrape reviews for this air conditioner and analyze the tone,analyse_product_sentiment
+Check if people are recommending this soundbar,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this washing machine,analyse_product_sentiment
+Find out if buyers like this home theater system,analyse_product_sentiment
+What are the top sentiments expressed about this mixer grinder?,analyse_product_sentiment
+Show me the overall impression of this portable fan,analyse_product_sentiment
+Can you list the main points people like or dislike in this smartwatch?,analyse_product_sentiment
+Summarize what reviewers think about this induction cooktop,analyse_product_sentiment
+Are people enjoying their experience with this tripod stand?,analyse_product_sentiment
+What’s the public opinion on this steam iron?,analyse_product_sentiment
+Can you evaluate the review sentiment of this noise-cancelling headphones?,analyse_product_sentiment
+Scrape reviews for this tablet stand and analyze the tone,analyse_product_sentiment
+Can you analyze public sentiment on this graphics tablet?,analyse_product_sentiment
+Scan the reviews and tell if this screen protector is well liked,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this portable fan,analyse_product_sentiment
+Give a sentiment overview for this robot vacuum,analyse_product_sentiment
+Is the public happy with this LED projector?,analyse_product_sentiment
+Check what most people are saying about this microwave,analyse_product_sentiment
+Show me the overall impression of this smart mirror,analyse_product_sentiment
+Check if this smartwatch has good reviews,analyse_product_sentiment
+Find the customer sentiment score for this robot vacuum,analyse_product_sentiment
+Analyze if this laptop is mostly liked or disliked,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this toaster,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this action camera,analyse_product_sentiment
+Is this smart bulb getting mostly positive reviews?,analyse_product_sentiment
+What’s the word on the street about this washing machine?,analyse_product_sentiment
+Are people enjoying their experience with this ceiling fan?,analyse_product_sentiment
+Can you extract opinions from reviews of this laptop cooling pad?,analyse_product_sentiment
+Review the sentiment for these DSLR,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this DSLR,analyse_product_sentiment
+Check how users have rated this electric kettle,analyse_product_sentiment
+Give me the user perspective on this gaming mouse,analyse_product_sentiment
+Give me the sentiment summary of this washing machine,analyse_product_sentiment
+What’s the word on the street about this tripod stand?,analyse_product_sentiment
+Can you extract opinions from reviews of this baby monitor?,analyse_product_sentiment
+Give me an analysis of this monitor’s reviews,analyse_product_sentiment
+Give me a review sentiment chart for this monitor,analyse_product_sentiment
+Tell if people have a favorable opinion about this video doorbell,analyse_product_sentiment
+Can you analyze reviews for the washing machine?,analyse_product_sentiment
+Check if this smartwatch has good reviews,analyse_product_sentiment
+What’s the word on the street about this headphones?,analyse_product_sentiment
+Check what most people are saying about this toaster,analyse_product_sentiment
+Show me the overall impression of this electric shaver,analyse_product_sentiment
+Analyze if this mixer grinder is mostly liked or disliked,analyse_product_sentiment
+How’s the online buzz around this Wi-Fi range extender?,analyse_product_sentiment
+What do people think about this LED projector?,analyse_product_sentiment
+What do people think about this gaming mouse?,analyse_product_sentiment
+Are the reviews for this hair straightener mostly good or bad?,analyse_product_sentiment
+Does this robot vacuum have a good reputation online?,analyse_product_sentiment
+Tell if people have a favorable opinion about this soundbar,analyse_product_sentiment
+Scan the reviews and tell if this smart TV is well liked,analyse_product_sentiment
+Give the average emotion in the reviews of this laptop cooling pad,analyse_product_sentiment
+Is this laptop cooling pad getting mostly positive reviews?,analyse_product_sentiment
+Check if people are recommending this smart plug,analyse_product_sentiment
+Tell if people have a favorable opinion about this 3D printer,analyse_product_sentiment
+Summarize the general sentiment for this eBook reader,analyse_product_sentiment
+How do customers feel about this smart mirror?,analyse_product_sentiment
+Can you check what people feel about this humidifier?,analyse_product_sentiment
+Do buyers recommend this air purifier?,analyse_product_sentiment
+How is this washing machine rated by customers?,analyse_product_sentiment
+Summarize what reviewers think about this tablet,analyse_product_sentiment
+Can you list the main points people like or dislike in this wireless charger?,analyse_product_sentiment
+Can you break down the reviews for this 3D printer?,analyse_product_sentiment
+Summarize customer feedback for this food processor,analyse_product_sentiment
+Tell me what the crowd thinks about this steam iron,analyse_product_sentiment
+Is the sentiment toward this smartwatch mostly neutral?,analyse_product_sentiment
+Check public feedback and rate this action camera,analyse_product_sentiment
+Does this Bluetooth speaker have a good reputation online?,analyse_product_sentiment
+What kind of feedback is this food processor receiving?,analyse_product_sentiment
+Check if this headphones has good reviews,analyse_product_sentiment
+Give an overall rating sentiment for this laptop cooling pad,analyse_product_sentiment
+Are the reviews for this Bluetooth speaker mostly good or bad?,analyse_product_sentiment
+What’s the mood in reviews for this monitor stand?,analyse_product_sentiment
+What do Flipkart users mostly say about this TV?,analyse_product_sentiment
+Give the average emotion in the reviews of this hair dryer,analyse_product_sentiment
+What’s the word on the street about this smart plug?,analyse_product_sentiment
+Do buyers recommend this smart mirror?,analyse_product_sentiment
+Aggregate Flipkart feedback and tell how this home theater system performs,analyse_product_sentiment
+Check if this air fryer has good reviews,analyse_product_sentiment
+Check whether customers are happy with this screen protector,analyse_product_sentiment
+Can you check what people feel about this water purifier?,analyse_product_sentiment
+Can you analyze reviews for the portable fan?,analyse_product_sentiment
+Summarize the general sentiment for this fitness tracker,analyse_product_sentiment
+What are people saying about this electric kettle?,analyse_product_sentiment
+What’s the word on the street about this printer?,analyse_product_sentiment
+Give an insight into how this robot vacuum is being reviewed,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this refrigerator,analyse_product_sentiment
+Tell me if users like this water purifier,analyse_product_sentiment
+Give an insight into how this electric blanket is being reviewed,analyse_product_sentiment
+Scan the reviews and tell if this 3D printer is well liked,analyse_product_sentiment
+Give the average emotion in the reviews of this electric shaver,analyse_product_sentiment
+Summarize the Flipkart user opinions for this soundbar,analyse_product_sentiment
+Summarize the general sentiment for this action camera,analyse_product_sentiment
+Can you extract opinions from reviews of this car dash cam?,analyse_product_sentiment
+What’s the public opinion on this electric blanket?,analyse_product_sentiment
+Is this security camera getting mostly positive reviews?,analyse_product_sentiment
+What do Flipkart users mostly say about this water purifier?,analyse_product_sentiment
+What are people saying about this air conditioner?,analyse_product_sentiment
+Tell if people have a favorable opinion about this video doorbell,analyse_product_sentiment
+Analyze what users are saying about this eBook reader,analyse_product_sentiment
+Can you gather the customer mood about this 3D printer?,analyse_product_sentiment
+What are the top sentiments expressed about this mixer grinder?,analyse_product_sentiment
+Tell me the user opinion distribution for this baby monitor,analyse_product_sentiment
+Is this projector getting mostly positive reviews?,analyse_product_sentiment
+Fetch sentiment insights about this car dash cam from Flipkart,analyse_product_sentiment
+Analyze Flipkart reviews for the gaming keyboard,analyse_product_sentiment
+Give me an analysis of this soundbar’s reviews,analyse_product_sentiment
+Can you analyze reviews for the juicer?,analyse_product_sentiment
+Tell if people have a favorable opinion about this microwave,analyse_product_sentiment
+Can you check what people feel about this USB hub?,analyse_product_sentiment
+Can you summarize what people are saying about this electric shaver?,analyse_product_sentiment
+Can you summarize what people are saying about this robot vacuum?,analyse_product_sentiment
+How do users feel overall about this juicer?,analyse_product_sentiment
+Can you evaluate the review sentiment of this wireless charger?,analyse_product_sentiment
+Tell if people have a favorable opinion about this photo printer,analyse_product_sentiment
+Give the average emotion in the reviews of this gaming chair,analyse_product_sentiment
+Is this Bluetooth headset getting good feedback?,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this smart TV,analyse_product_sentiment
+Tell if people have a favorable opinion about this video doorbell,analyse_product_sentiment
+Check what most people are saying about this DSLR,analyse_product_sentiment
+Show me the overall impression of this hair straightener,analyse_product_sentiment
+Give the average emotion in the reviews of this laptop cooling pad,analyse_product_sentiment
+Summarize what reviewers think about this induction cooktop,analyse_product_sentiment
+Is this mixer grinder getting mostly positive reviews?,analyse_product_sentiment
+What themes show up in reviews for this air conditioner?,analyse_product_sentiment
+Give a sentiment overview for this eBook reader,analyse_product_sentiment
+Tell if people have a favorable opinion about this toaster,analyse_product_sentiment
+Can you check what people feel about this soundbar?,analyse_product_sentiment
+Check public feedback and rate this smartwatch,analyse_product_sentiment
+Is the sentiment toward this steam iron mostly neutral?,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this monitor,analyse_product_sentiment
+Can you check what people feel about this mixer grinder?,analyse_product_sentiment
+What is the sentiment polarity of this monitor stand based on reviews?,analyse_product_sentiment
+Analyze Flipkart reviews for the power bank,analyse_product_sentiment
+Can you check what people feel about this smart plug?,analyse_product_sentiment
+Aggregate Flipkart feedback and tell how this gaming mouse performs,analyse_product_sentiment
+Give me the user perspective on this coffee machine,analyse_product_sentiment
+What is the sentiment polarity of this rice cooker based on reviews?,analyse_product_sentiment
+What’s the public opinion on this air fryer?,analyse_product_sentiment
+Analyze if this hair dryer is mostly liked or disliked,analyse_product_sentiment
+Check what most people are saying about this vacuum cleaner,analyse_product_sentiment
+Check whether customers are happy with this mechanical keyboard,analyse_product_sentiment
+How is this eBook reader rated by customers?,analyse_product_sentiment
+How do customers feel about this monitor stand?,analyse_product_sentiment
+Can you summarize what people are saying about this noise-cancelling headphones?,analyse_product_sentiment
+How do customers feel about this screen protector?,analyse_product_sentiment
+What’s the word on the street about this hair dryer?,analyse_product_sentiment
+Give an overall rating sentiment for this dehumidifier,analyse_product_sentiment
+Give the average emotion in the reviews of this toaster,analyse_product_sentiment
+Tell me the user opinion distribution for this hair straightener,analyse_product_sentiment
+Give the average emotion in the reviews of this wireless charger,analyse_product_sentiment
+Find the customer sentiment score for this juicer,analyse_product_sentiment
+Give me a review sentiment chart for this electric kettle,analyse_product_sentiment
+Find out if buyers like this router,analyse_product_sentiment
+Show me the overall impression of this noise-cancelling headphones,analyse_product_sentiment
+What’s the word on the street about this toaster?,analyse_product_sentiment
+Review the sentiment for these rice cooker,analyse_product_sentiment
+Summarize customer feedback for this soundbar,analyse_product_sentiment
+Can you tell if people are happy with this toaster?,analyse_product_sentiment
+Tell me if users like this monitor stand,analyse_product_sentiment
+Are customers satisfied with this mixer grinder?,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this water purifier,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this eBook reader,analyse_product_sentiment
+Give an insight into how this Wi-Fi range extender is being reviewed,analyse_product_sentiment
+Does this humidifier have a good reputation online?,analyse_product_sentiment
+Tell me if users like this portable fan,analyse_product_sentiment
+How do customers feel about this USB hub?,analyse_product_sentiment
+Do people have positive things to say about this gaming keyboard?,analyse_product_sentiment
+Is this printer getting good feedback?,analyse_product_sentiment
+Check how users have rated this smart TV,analyse_product_sentiment
+Can you give a summary of ratings for this 3D printer?,analyse_product_sentiment
+What do people think about this gaming console?,analyse_product_sentiment
+"Based on user feedback, is this eBook reader good?",analyse_product_sentiment
+Show me the overall impression of this gaming console,analyse_product_sentiment
+Summarize the general sentiment for this screen protector,analyse_product_sentiment
+Is this security camera getting mostly positive reviews?,analyse_product_sentiment
+Can you analyze public sentiment on this washing machine?,analyse_product_sentiment
+Does this wireless charger have a good reputation online?,analyse_product_sentiment
+Can you break down the reviews for this washing machine?,analyse_product_sentiment
+What do Flipkart users mostly say about this laptop?,analyse_product_sentiment
+Give me a snapshot of user reviews for this electric kettle,analyse_product_sentiment
+Fetch sentiment insights about this air conditioner from Flipkart,analyse_product_sentiment
+Give an insight into how this induction cooktop is being reviewed,analyse_product_sentiment
+Do people have positive things to say about this smart plug?,analyse_product_sentiment
+Give me an analysis of this monitor stand’s reviews,analyse_product_sentiment
+Tell me the user opinion distribution for this mechanical keyboard,analyse_product_sentiment
+Scan the reviews and tell if this food processor is well liked,analyse_product_sentiment
+Check what most people are saying about this soundbar,analyse_product_sentiment
+How’s the review sentiment for this keyboard?,analyse_product_sentiment
+Can you tell if people are happy with this smart plug?,analyse_product_sentiment
+Do people have positive things to say about this action camera?,analyse_product_sentiment
+Can you list the main points people like or dislike in this smartwatch?,analyse_product_sentiment
+Give an overall rating sentiment for this robot vacuum,analyse_product_sentiment
+Scan the reviews and tell if this screen protector is well liked,analyse_product_sentiment
+Give me the sentiment summary of this Bluetooth headset,analyse_product_sentiment
+Can you summarize what people are saying about this food processor?,analyse_product_sentiment
+Can you analyze public sentiment on this dishwasher?,analyse_product_sentiment
+Can you tell if people are happy with this Wi-Fi range extender?,analyse_product_sentiment
+Can you analyze reviews for the monitor?,analyse_product_sentiment
+Summarize what reviewers think about this juicer,analyse_product_sentiment
+What’s the word on the street about this smart plug?,analyse_product_sentiment
+Review the sentiment for these electric scooter,analyse_product_sentiment
+Find the customer sentiment score for this toaster,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+What do Flipkart users mostly say about this rice cooker?,analyse_product_sentiment
+How’s the online buzz around this printer?,analyse_product_sentiment
+Can you give a summary of ratings for this smartwatch?,analyse_product_sentiment
+Give me a snapshot of user reviews for this Wi-Fi range extender,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this air conditioner,analyse_product_sentiment
+Review the sentiment for these Bluetooth headset,analyse_product_sentiment
+Give an overall rating sentiment for this electric kettle,analyse_product_sentiment
+What’s the word on the street about this monitor stand?,analyse_product_sentiment
+Read Flipkart reviews for this router and tell me the sentiment,analyse_product_sentiment
+Can you evaluate the review sentiment of this electric blanket?,analyse_product_sentiment
+Are customers satisfied with this monitor?,analyse_product_sentiment
+Check if people are recommending this refrigerator,analyse_product_sentiment
+What do Flipkart users mostly say about this car dash cam?,analyse_product_sentiment
+Review the sentiment for these humidifier,analyse_product_sentiment
+What’s the public opinion on this electric kettle?,analyse_product_sentiment
+Summarize customer feedback for this dishwasher,analyse_product_sentiment
+Give me the vibe people have about this keyboard,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this smart mirror,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this ceiling fan,analyse_product_sentiment
+Give me the sentiment summary of this toaster,analyse_product_sentiment
+What are the top sentiments expressed about this rice cooker?,analyse_product_sentiment
+How’s the review sentiment for this smartphone?,analyse_product_sentiment
+Scrape reviews for this portable SSD and analyze the tone,analyse_product_sentiment
+How’s the review sentiment for this air fryer?,analyse_product_sentiment
+How is this Bluetooth headset rated by customers?,analyse_product_sentiment
+What kind of feedback is this tripod stand receiving?,analyse_product_sentiment
+Give me the vibe people have about this air conditioner,analyse_product_sentiment
+Find the customer sentiment score for this wireless charger,analyse_product_sentiment
+Tell me what the crowd thinks about this electric shaver,analyse_product_sentiment
+Can you check what people feel about this electric scooter?,analyse_product_sentiment
+Review the sentiment for these security camera,analyse_product_sentiment
+Does this mixer grinder have a good reputation online?,analyse_product_sentiment
+Can you evaluate the review sentiment of this gaming keyboard?,analyse_product_sentiment
+Analyze what users are saying about this juicer,analyse_product_sentiment
+Can you give a summary of ratings for this car dash cam?,analyse_product_sentiment
+Can you give a summary of ratings for this stylus pen?,analyse_product_sentiment
+Give me a review sentiment chart for this electric shaver,analyse_product_sentiment
+Check if this smart TV has good reviews,analyse_product_sentiment
+Can you check what people feel about this graphics tablet?,analyse_product_sentiment
+Is this gaming keyboard getting good feedback?,analyse_product_sentiment
+Look up the reviews and tell me if people like this LED projector,analyse_product_sentiment
+What are people saying about this steam iron?,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this smartphone,analyse_product_sentiment
+What do people think about this dishwasher?,analyse_product_sentiment
+Give me a snapshot of user reviews for this tripod stand,analyse_product_sentiment
+Give me a snapshot of user reviews for this TV,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+How is this microwave rated by customers?,analyse_product_sentiment
+Can you check what people feel about this gaming keyboard?,analyse_product_sentiment
+Analyze what users are saying about this smart mirror,analyse_product_sentiment
+Can you summarize what people are saying about this Bluetooth headset?,analyse_product_sentiment
+Can you extract opinions from reviews of this robot vacuum?,analyse_product_sentiment
+Is this baby monitor getting good feedback?,analyse_product_sentiment
+Tell me the customer experience of this hair dryer,analyse_product_sentiment
+Review the sentiment for these rice cooker,analyse_product_sentiment
+Give me the user perspective on this baby monitor,analyse_product_sentiment
+Give me the sentiment summary of this electric blanket,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this USB hub,analyse_product_sentiment
+Is this screen protector getting mostly positive reviews?,analyse_product_sentiment
+What do the reviews say about this juicer?,analyse_product_sentiment
+Can you tell if people are happy with this power bank?,analyse_product_sentiment
+Check whether customers are happy with this fitness tracker,analyse_product_sentiment
+How is this rice cooker rated by customers?,analyse_product_sentiment
+What are the top sentiments expressed about this eBook reader?,analyse_product_sentiment
+Scan the reviews and tell if this smartphone is well liked,analyse_product_sentiment
+Analyze Flipkart reviews for the external hard drive,analyse_product_sentiment
+Check whether customers are happy with this car dash cam,analyse_product_sentiment
+Summarize the Flipkart user opinions for this bread maker,analyse_product_sentiment
+Give me the vibe people have about this water purifier,analyse_product_sentiment
+Is this printer getting mostly positive reviews?,analyse_product_sentiment
+Give a sentiment overview for this stylus pen,analyse_product_sentiment
+Can you break down the reviews for this electric shaver?,analyse_product_sentiment
+Find out the review tone for this coffee machine,analyse_product_sentiment
+Give me the user perspective on this video doorbell,analyse_product_sentiment
+Are customers satisfied with this USB hub?,analyse_product_sentiment
+How is this fitness tracker rated by customers?,analyse_product_sentiment
+Check how users have rated this laptop,analyse_product_sentiment
+Review the sentiment for these screen protector,analyse_product_sentiment
+Are people enjoying their experience with this portable SSD?,analyse_product_sentiment
+Check how users have rated this LED projector,analyse_product_sentiment
+Give me an analysis of this toaster’s reviews,analyse_product_sentiment
+Tell me the customer experience of this car dash cam,analyse_product_sentiment
+Check how users have rated this washing machine,analyse_product_sentiment
+Fetch sentiment insights about this power bank from Flipkart,analyse_product_sentiment
+Summarize the general sentiment for this projector,analyse_product_sentiment
+Can you gather the customer mood about this baby monitor?,analyse_product_sentiment
+Is this eBook reader getting good feedback?,analyse_product_sentiment
+Is the public happy with this noise-cancelling headphones?,analyse_product_sentiment
+Can you summarize what people are saying about this smartphone?,analyse_product_sentiment
+Can you tell if people are happy with this Bluetooth headset?,analyse_product_sentiment
+Are customers satisfied with this action camera?,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this eBook reader,analyse_product_sentiment
+"Based on user feedback, is this keyboard good?",analyse_product_sentiment
+Are the reviews for this Wi-Fi range extender mostly good or bad?,analyse_product_sentiment
+"Based on user feedback, is this induction cooktop good?",analyse_product_sentiment
+Give me a review sentiment chart for this smart plug,analyse_product_sentiment
+What is the sentiment polarity of this LED projector based on reviews?,analyse_product_sentiment
+Check how users have rated this stylus pen,analyse_product_sentiment
+Give the average emotion in the reviews of this dehumidifier,analyse_product_sentiment
+"Based on user feedback, is this coffee machine good?",analyse_product_sentiment
+Are customers satisfied with this tripod stand?,analyse_product_sentiment
+Can you tell if people are happy with this keyboard?,analyse_product_sentiment
+Do people have positive things to say about this TV?,analyse_product_sentiment
+Are customers satisfied with this tablet?,analyse_product_sentiment
+Give an insight into how this smartwatch is being reviewed,analyse_product_sentiment
+Give the average emotion in the reviews of this noise-cancelling headphones,analyse_product_sentiment
+"Based on user feedback, is this laptop cooling pad good?",analyse_product_sentiment
+What’s the word on the street about this noise-cancelling headphones?,analyse_product_sentiment
+What’s the word on the street about this gaming chair?,analyse_product_sentiment
+Find the customer sentiment score for this gaming mouse,analyse_product_sentiment
+What’s the word on the street about this air conditioner?,analyse_product_sentiment
+How do customers feel about this dishwasher?,analyse_product_sentiment
+Fetch sentiment insights about this mechanical keyboard from Flipkart,analyse_product_sentiment
+Check if this keyboard has good reviews,analyse_product_sentiment
+Scan the reviews and tell if this food processor is well liked,analyse_product_sentiment
+Scan the reviews and tell if this air purifier is well liked,analyse_product_sentiment
+Do buyers recommend this electric scooter?,analyse_product_sentiment
+Fetch sentiment insights about this hair dryer from Flipkart,analyse_product_sentiment
+Give me a review sentiment chart for this car dash cam,analyse_product_sentiment
+How’s the online buzz around this smartwatch?,analyse_product_sentiment
+Summarize customer feedback for this coffee machine,analyse_product_sentiment
+Can you break down the reviews for this refrigerator?,analyse_product_sentiment
+Look up the reviews and tell me if people like this USB hub,analyse_product_sentiment
+What are the top sentiments expressed about this external hard drive?,analyse_product_sentiment
+Can you break down the reviews for this smart scale?,analyse_product_sentiment
+Can you evaluate the review sentiment of this LED projector?,analyse_product_sentiment
+How’s the online buzz around this microwave?,analyse_product_sentiment
+Tell me if users like this eBook reader,analyse_product_sentiment
+Can you give a summary of ratings for this vacuum cleaner?,analyse_product_sentiment
+Can you extract opinions from reviews of this video doorbell?,analyse_product_sentiment
+Give me the sentiment summary of this mixer grinder,analyse_product_sentiment
+What’s the public opinion on this LED projector?,analyse_product_sentiment
+Give me an analysis of this mechanical keyboard’s reviews,analyse_product_sentiment
+Is the sentiment toward this projector mostly neutral?,analyse_product_sentiment
+Review the sentiment for these gaming mouse,analyse_product_sentiment
+Summarize the Flipkart user opinions for this tablet,analyse_product_sentiment
+Check public feedback and rate this LED projector,analyse_product_sentiment
+Can you evaluate the review sentiment of this tablet?,analyse_product_sentiment
+Can you list the main points people like or dislike in this fitness tracker?,analyse_product_sentiment
+Give me the sentiment summary of this noise-cancelling headphones,analyse_product_sentiment
+What’s the public opinion on this TV?,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this mixer grinder,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this dishwasher,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this gaming keyboard,analyse_product_sentiment
+Look up the reviews and tell me if people like this wireless charger,analyse_product_sentiment
+Summarize the Flipkart user opinions for this graphics tablet,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this electric blanket,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this headphones,analyse_product_sentiment
+Go through user reviews and tell me the sentiment,analyse_product_sentiment
+Fetch the reviews and give me a sentiment overview of this printer,analyse_product_sentiment
+Can you give a summary of ratings for this eBook reader?,analyse_product_sentiment
+Does this smart mirror have a good reputation online?,analyse_product_sentiment
+What’s the word on the street about this LED projector?,analyse_product_sentiment
+Summarize customer feedback for this toaster,analyse_product_sentiment
+Summarize customer feedback for this bread maker,analyse_product_sentiment
+Summarize what reviewers think about this smart plug,analyse_product_sentiment
+How’s the online buzz around this hair straightener?,analyse_product_sentiment
+How is this humidifier rated by customers?,analyse_product_sentiment
+Review the sentiment for these Wi-Fi range extender,analyse_product_sentiment
+Can you check what people feel about this bread maker?,analyse_product_sentiment
+Tell me what the crowd thinks about this screen protector,analyse_product_sentiment
+What themes show up in reviews for this steam iron?,analyse_product_sentiment
+Can you break down the reviews for this induction cooktop?,analyse_product_sentiment
+Can you tell if people are happy with this electric blanket?,analyse_product_sentiment
+How popular is this steam iron based on reviews?,analyse_product_sentiment
+Is the sentiment toward this electric kettle mostly neutral?,analyse_product_sentiment
+Give an insight into how this air conditioner is being reviewed,analyse_product_sentiment
+Give me a review sentiment chart for this monitor,analyse_product_sentiment
+How’s the online buzz around this USB hub?,analyse_product_sentiment
+How is this mechanical keyboard rated by customers?,analyse_product_sentiment
+Tell me what the crowd thinks about this soundbar,analyse_product_sentiment
+Review the sentiment for these water purifier,analyse_product_sentiment
+How’s the review sentiment for this tripod stand?,analyse_product_sentiment
+Can you analyze public sentiment on this air conditioner?,analyse_product_sentiment
+Give me the vibe people have about this smartwatch,analyse_product_sentiment
+Give the average emotion in the reviews of this steam iron,analyse_product_sentiment
+What kind of feedback is this vacuum cleaner receiving?,analyse_product_sentiment
+Give me the user perspective on this gaming chair,analyse_product_sentiment
+Are the reviews for this graphics tablet mostly good or bad?,analyse_product_sentiment
+What themes show up in reviews for this humidifier?,analyse_product_sentiment
+Check what most people are saying about this Bluetooth headset,analyse_product_sentiment
+Do buyers recommend this bread maker?,analyse_product_sentiment
+Tell me the customer experience of this soundbar,analyse_product_sentiment
+"Based on user feedback, is this humidifier good?",analyse_product_sentiment
+Check what most people are saying about this smart mirror,analyse_product_sentiment
+Can you check what people feel about this robot vacuum?,analyse_product_sentiment
+Read Flipkart reviews for this microwave and tell me the sentiment,analyse_product_sentiment
+Give an insight into how this air fryer is being reviewed,analyse_product_sentiment
+Can you gather the customer mood about this external hard drive?,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this 3D printer,analyse_product_sentiment
+Give me the average opinion from Flipkart reviews for this coffee machine,analyse_product_sentiment
+Fetch Flipkart ratings and summarize for this portable fan,analyse_product_sentiment
+Tell me if users like this smart mirror,analyse_product_sentiment
+Is this air fryer getting good feedback?,analyse_product_sentiment
+Tell if people have a favorable opinion about this tablet stand,analyse_product_sentiment
+What is the sentiment polarity of this monitor based on reviews?,analyse_product_sentiment
+Can you give a summary of ratings for this electric blanket?,analyse_product_sentiment
+Sentiment analysis of Flipkart ratings for this electric blanket,analyse_product_sentiment
+Give the average emotion in the reviews of this power bank,analyse_product_sentiment
+Give me a review sentiment chart for this DSLR,analyse_product_sentiment
+Can you gather the customer mood about this keyboard?,analyse_product_sentiment
+Can you summarize what people are saying about this 3D printer?,analyse_product_sentiment
+Does this dishwasher have a good reputation online?,analyse_product_sentiment
+Is the public happy with this portable fan?,analyse_product_sentiment
+Check if this refrigerator has good reviews,analyse_product_sentiment
+Review the sentiment for these Bluetooth speaker,analyse_product_sentiment
+Look up the reviews and tell me if people like this headphones,analyse_product_sentiment
+Review the sentiment for these electric shaver,analyse_product_sentiment
+Can you break down the reviews for this printer?,analyse_product_sentiment
+Analyze if this air conditioner is mostly liked or disliked,analyse_product_sentiment
+Are customers satisfied with this air fryer?,analyse_product_sentiment
+What do people think about this rice cooker?,analyse_product_sentiment
+Are customers satisfied with this monitor stand?,analyse_product_sentiment
+Can you extract opinions from reviews of this Bluetooth speaker?,analyse_product_sentiment
+How is this smart TV rated by customers?,analyse_product_sentiment
+Give me the sentiment summary of this keyboard,analyse_product_sentiment
+Check if this photo printer has good reviews,analyse_product_sentiment
+What kind of feedback is this video doorbell receiving?,analyse_product_sentiment
+Get the pros and cons mentioned in reviews of this car dash cam,analyse_product_sentiment
+Analyze Flipkart reviews for the water purifier,analyse_product_sentiment
+Are the reviews for this air conditioner mostly good or bad?,analyse_product_sentiment
+Do buyers recommend this hair straightener?,analyse_product_sentiment
+How popular is this smart TV based on reviews?,analyse_product_sentiment

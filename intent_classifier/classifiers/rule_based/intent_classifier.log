@@ -1,0 +1,18 @@
+2025-07-22 11:24:14,539 - INFO - Input: Convert this text to audio. | Intent: convert_text_to_audio
+2025-07-22 11:24:14,539 - INFO - Input: What's the weather today? | Intent: weather
+2025-07-22 11:24:14,539 - ERROR - Error processing input:  | Error: Input string is empty.
+2025-07-22 11:24:14,540 - ERROR - Error processing input: None | Error: Input must be a string.
+2025-07-22 11:24:14,540 - ERROR - Error processing input: 12345 | Error: Input must be a string.
+2025-07-22 11:24:14,540 - INFO - Input: Summarize these notes for me. | Intent: notes_summary
+2025-07-22 11:24:14,540 - INFO - Input: Show me Flipkart product reviews. | Intent: flipkart_reviews
+2025-07-22 11:25:12,599 - INFO - Input: Convert this text to audio. | Intent: convert_text_to_audio
+2025-07-22 11:25:12,600 - INFO - Input: What's the weather today? | Intent: weather
+2025-07-22 11:25:12,600 - ERROR - Error processing input:  | Error: Input string is empty.
+2025-07-22 11:25:12,601 - ERROR - Error processing input: None | Error: Input must be a string.
+2025-07-22 11:25:12,601 - ERROR - Error processing input: 12345 | Error: Input must be a string.
+2025-07-22 11:25:12,601 - INFO - Input: Summarize these notes for me. | Intent: notes_summary
+2025-07-22 11:25:12,602 - INFO - Input: Show me Flipkart product reviews. | Intent: flipkart_reviews
+2025-07-22 11:30:38,925 - INFO - Input: hello | Intent: unknown
+2025-07-22 11:31:17,574 - INFO - Input: quit | Intent: unknown
+2025-07-22 11:31:36,819 - INFO - Input: python -u "g:\Cdac\ML_Final_Project\Multi-Modal-multi-Purpose-AI-agent\intent_classifier\classifiers\rule_based\rule_based_intent_classifier.py" | Intent: unknown
+2025-07-22 11:31:50,782 - INFO - Input: hi | Intent: unknown
