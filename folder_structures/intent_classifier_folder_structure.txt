@@ -1,0 +1,31 @@
+intent_classifier/
+│
+├── data/
+│   ├── raw/                    # Original ChatGPT-generated data (unprocessed)
+│   ├── processed/              # Cleaned & tokenized data, train-test split
+│   └── intents.json            # Optional: Mapping of intents and example phrases
+│
+├── notebooks/                 # Jupyter notebooks for EDA, prototyping
+│   └── 01_data_exploration.ipynb
+│
+├── src/                       # Core source code
+│   ├── __init__.py
+│   ├── config.py              # Global config (paths, hyperparams)
+│   ├── preprocess.py          # Text cleaning, tokenization, etc.
+│   ├── model.py               # Model architecture and training code
+│   ├── train.py               # Training pipeline
+│   ├── evaluate.py            # Evaluation functions
+│   └── predict.py             # Inference pipeline
+│
+├── models/                    # Trained models (checkpoints, exported .pt/.pkl files)
+│
+├── logs/                      # Training logs, TensorBoard, etc.
+│
+├── outputs/                   # Evaluation results, confusion matrix, reports
+│
+├── tests/                     # Unit tests
+│   └── test_preprocess.py
+│
+├── requirements.txt           # Dependencies
+├── README.md                  # Project overview
+└── run.py                     # Main script to trigger training/evaluation
